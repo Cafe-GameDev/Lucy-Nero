@@ -39,8 +39,12 @@
 - **Combinação:** O material + sua mana pura = efeitos elementais (fogo, água, eletricidade, vento).
 - **Economia de Mana:** Forjar gasta pouca mana, mas usar as armas imbuídas consome bastante, pois a reação é alimentada por sua energia vital.
 
-![alt text](Lucy-1.jpg)
-![alt text](Lucy-2.jpg)
+<table>
+  <tr>
+    <td><img src="./Lucy1.jpg" alt="Lucy" height="400"></td>
+    <td><img src="./Lucy2.jpg" alt="Lucy" height="400"></td>
+  </tr>
+</table>
 
 ---
 
@@ -84,8 +88,12 @@ Nero é uma criatura metamorfa que assume diversas formas, todas mantendo o padr
 - **Camuflagem Total:** Permanece invisível no ambiente.
 - **Instinto Sombrio:** Pode emergir da sombra de Lucy instantaneamente, seja para interceptar um ataque ou golpear um inimigo pelas costas.
 
-![alt text](Nero-1.png)
-![alt text](Nero-2.png)
+<table>
+  <tr>
+    <td><img src="./Nero1.png" alt="Nero" height="400"></td>
+    <td><img src="./Nero2.png" alt="Nero" height="400"></td>
+  </tr>
+</table>
 
 ---
 
