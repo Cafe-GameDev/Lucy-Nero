@@ -41,8 +41,8 @@
 
 <table>
   <tr>
-    <td><img src="./Lucy1.jpg" alt="Lucy" style="height: 400px; width: auto;"></td>
-    <td><img src="./Lucy2.jpg" alt="Lucy" style="height: 400px; width: auto;"></td>
+    <td><img src="./Lucy1.jpg" alt="Lucy" style="height: auto; width: 400px;"></td>
+    <td><img src="./Lucy2.jpg" alt="Lucy" style="height: auto; width: 400px;"></td>
   </tr>
 </table>
 
