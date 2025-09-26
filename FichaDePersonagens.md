@@ -42,12 +42,12 @@
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td style="padding: 0;">
-      <div style="width: 100%; height: 300px; overflow: hidden;">
+      <div style="width: 100%; height: 100%; overflow: hidden;">
         <img src="./Lucy1.jpg" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
     <td style="padding: 0;">
-      <div style="width: 100%; height: 300px; overflow: hidden;">
+      <div style="width: 100%; height: 100%; overflow: hidden;">
         <img src="./Lucy2.jpg" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
@@ -70,12 +70,12 @@ Nero é uma criatura metamorfa que assume diversas formas, todas mantendo o padr
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td style="padding: 0;">
-      <div style="width: 100%; height: 300px; overflow: hidden;">
+      <div style="width: 100%; height: 240px; overflow: hidden;">
         <img src="./Bengal1.jpg" alt="Bengal" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
     <td style="padding: 0;">
-      <div style="width: 100%; height: 300px; overflow: hidden;">
+      <div style="width: 100%; height: 240px; overflow: hidden;">
         <img src="./Bengal2.jpeg" alt="Bengal" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
@@ -116,12 +116,12 @@ Nero é uma criatura metamorfa que assume diversas formas, todas mantendo o padr
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td style="padding: 0;">
-      <div style="width: 100%; height: 300px; overflow: hidden;">
+      <div style="width: 100%; height: 240px; overflow: hidden;">
         <img src="./Nero1.png" alt="Nero" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
     <td style="padding: 0;">
-      <div style="width: 100%; height: 300px; overflow: hidden;">
+      <div style="width: 100%; height: 240px; overflow: hidden;">
         <img src="./Nero2.png" alt="Nero" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
