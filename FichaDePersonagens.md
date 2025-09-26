@@ -90,8 +90,8 @@ Nero é uma criatura metamorfa que assume diversas formas, todas mantendo o padr
 
 <table>
   <tr>
-    <td><img src="./Nero1.png" alt="Nero" style="height: 400px; width: auto;"></td>
-    <td><img src="./Nero2.png" alt="Nero" style="height: 400px; width: auto;"></td>
+    <td><img src="./Nero1.png" alt="Nero" style="height: auto; width: 400px;"></td>
+    <td><img src="./Nero2.png" alt="Nero" style="height: auto; width: 400px;"></td>
   </tr>
 </table>
 
