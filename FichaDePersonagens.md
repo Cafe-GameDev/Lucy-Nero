@@ -8,6 +8,8 @@
 
 ### Aparência
 
+Visual inspirado em anime, com traços detalhados, expressivos e dinâmicos, enfatizando magia e ação.
+
 - **Idade:** 19 anos
 - **Altura:** 1,75 m
 - **Cabelo:** Longo, ondulado, preto/moreno, geralmente preso em rabo de cavalo.
@@ -51,6 +53,18 @@
         <img src="./Lucy2.jpg" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
+        </td>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 100%; overflow: hidden;">
+        <img src="./Lucy3.png" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
+        </td>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 100%; overflow: hidden;">
+        <img src="./Lucy4.png" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
   </tr>
 </table>
 
@@ -61,6 +75,7 @@
 ### Aparência
 
 Nero é uma criatura metamorfa que assume diversas formas, todas mantendo o padrão de um Bengal melanístico:
+Design inspirado em anime, combinando expressividade felina com dinamismo nas metamorfoses.
 
 - Pelagem/Penas pretas com rosetas e manchas visíveis em tons diferentes de cinza e preto.
 - Olhos verdes felinos, intensos e brilhantes, presentes em todas as formas.
