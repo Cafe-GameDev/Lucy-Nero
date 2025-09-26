@@ -39,10 +39,18 @@
 - **Combinação:** O material + sua mana pura = efeitos elementais (fogo, água, eletricidade, vento).
 - **Economia de Mana:** Forjar gasta pouca mana, mas usar as armas imbuídas consome bastante, pois a reação é alimentada por sua energia vital.
 
-<table>
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <td><img src="./Lucy1.jpg" alt="Lucy" style="height: auto; width: 400px;"></td>
-    <td><img src="./Lucy2.jpg" alt="Lucy" style="height: auto; width: 400px;"></td>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 300px; overflow: hidden;">
+        <img src="./Lucy1.jpg" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 300px; overflow: hidden;">
+        <img src="./Lucy2.jpg" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
   </tr>
 </table>
 
@@ -56,6 +64,21 @@ Nero é uma criatura metamorfa que assume diversas formas, todas mantendo o padr
 
 - Pelagem/Penas pretas com rosetas e manchas visíveis em tons diferentes de cinza e preto.
 - Olhos verdes felinos, intensos e brilhantes, presentes em todas as formas.
+
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 300px; overflow: hidden;">
+        <img src="./Bengal1.jpg" alt="Bengal" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 300px; overflow: hidden;">
+        <img src="./Bengal2.jpeg" alt="Bengal" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
+  </tr>
+</table>
 
 ### Formas Atuais
 
@@ -88,12 +111,21 @@ Nero é uma criatura metamorfa que assume diversas formas, todas mantendo o padr
 - **Camuflagem Total:** Permanece invisível no ambiente.
 - **Instinto Sombrio:** Pode emergir da sombra de Lucy instantaneamente, seja para interceptar um ataque ou golpear um inimigo pelas costas.
 
-<table>
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
-    <td><img src="./Nero1.png" alt="Nero" style="height: auto; width: 400px;"></td>
-    <td><img src="./Nero2.png" alt="Nero" style="height: auto; width: 400px;"></td>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 300px; overflow: hidden;">
+        <img src="./Nero1.png" alt="Nero" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 300px; overflow: hidden;">
+        <img src="./Nero2.png" alt="Nero" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
   </tr>
 </table>
+
 
 ---
 
