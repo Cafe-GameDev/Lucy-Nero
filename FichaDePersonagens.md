@@ -44,25 +44,18 @@ Visual inspirado em anime, com traços detalhados, expressivos e dinâmicos, enf
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td style="padding: 0;">
-      <div style="width: 100%; height: 100%; overflow: hidden;">
+      <div style="width: 100%; height: 300px; overflow: hidden;">
         <img src="./Lucy1.jpg" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
     <td style="padding: 0;">
-      <div style="width: 100%; height: 100%; overflow: hidden;">
-        <img src="./Lucy2.jpg" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
+      <div style="width: 100%; height: 300px; overflow: hidden;">
+        <img src="./Lucy2.png" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
-        </td>
     <td style="padding: 0;">
-      <div style="width: 100%; height: 100%; overflow: hidden;">
+      <div style="width: 100%; height: 300px; overflow: hidden;">
         <img src="./Lucy3.png" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
-      </div>
-    </td>
-        </td>
-    <td style="padding: 0;">
-      <div style="width: 100%; height: 100%; overflow: hidden;">
-        <img src="./Lucy4.png" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
   </tr>
