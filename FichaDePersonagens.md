@@ -39,6 +39,9 @@
 - **Combinação:** O material + sua mana pura = efeitos elementais (fogo, água, eletricidade, vento).
 - **Economia de Mana:** Forjar gasta pouca mana, mas usar as armas imbuídas consome bastante, pois a reação é alimentada por sua energia vital.
 
+![alt text](Lucy-1.jpg)
+![alt text](Lucy-2.jpg)
+
 ---
 
 ## 🐾 Nero – Guardião Metamorfo
@@ -80,6 +83,9 @@ Nero é uma criatura metamorfa que assume diversas formas, todas mantendo o padr
 - Forma espiritual/metafísica. Nero se funde à sombra de Lucy.
 - **Camuflagem Total:** Permanece invisível no ambiente.
 - **Instinto Sombrio:** Pode emergir da sombra de Lucy instantaneamente, seja para interceptar um ataque ou golpear um inimigo pelas costas.
+
+![alt text](Nero-1.png)
+![alt text](Nero-2.png)
 
 ---
 
