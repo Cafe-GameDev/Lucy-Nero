@@ -48,7 +48,7 @@
 Nero é uma criatura metamorfa que assume diversas formas, todas mantendo o padrão de um Bengal melanístico:
 
 - Pelagem/Penas pretas com rosetas e manchas visíveis em tons diferentes de cinza e preto.
-- Olhos dourados intensos, brilhando quando canaliza energia.
+- Olhos verdes felinos, intensos e brilhantes, presentes em todas as formas.
 
 ### Formas Atuais
 
