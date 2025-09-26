@@ -64,6 +64,8 @@ Nero é uma criatura metamorfa que assume diversas formas, todas mantendo o padr
 
 - Pelagem/Penas pretas com rosetas e manchas visíveis em tons diferentes de cinza e preto.
 - Olhos verdes felinos, intensos e brilhantes, presentes em todas as formas.
+- Inspirado na raça de Bengal, um híbrido entre o gato doméstico e o leopardo asiático. Essa linhagem confere a ele um corpo musculoso, ágil e perfeitamente adaptado para o combate e caçadas, mantendo toda a força e destreza de um predador nato. 
+- Apesar de sua aparência selvagem e instintos de caça apurados, o Bengal é conhecido por ser extremamente dócil, carinhoso e brincalhão com aqueles em quem confia, combinando instinto felino e inteligência em um equilíbrio fascinante de comportamento e físico.
 
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
