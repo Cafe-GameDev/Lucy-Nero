@@ -13,7 +13,7 @@ Visual inspirado em anime, com traços detalhados, expressivos e dinâmicos, enf
 - **Idade:** 19 anos
 - **Altura:** 1,75 m
 - **Cabelo:** Longo, ondulado, preto/moreno, geralmente preso em rabo de cavalo.
-- **Olhos:** Verde-esmeralda, que brilham intensamente quando canaliza magia.
+- **Olhos:** Verde-esmeralda vibrante, que brilham intensamente quando canaliza magia.
 - **Constituição:** Atlética e ágil, músculos definidos por anos de treinamento.
 - **Pele:** Clara, com algumas cicatrizes de batalhas.
 
