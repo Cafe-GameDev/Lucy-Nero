@@ -1,0 +1,13 @@
+[gd_resource type="StatProgressionData" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://resources/StatProgressionData.gd" id="1_progression"]
+
+[resource]
+script = ExtResource("1_progression")
+stats_per_level = {
+1: {"max_health": 100, "max_mana": 50, "base_attack": 10, "base_defense": 5},
+2: {"max_health": 125, "max_mana": 55, "base_attack": 12, "base_defense": 6},
+3: {"max_health": 150, "max_mana": 60, "base_attack": 15, "base_defense": 7},
+4: {"max_health": 180, "max_mana": 65, "base_attack": 18, "base_defense": 9},
+5: {"max_health": 210, "max_mana": 70, "base_attack": 22, "base_defense": 11}
+}

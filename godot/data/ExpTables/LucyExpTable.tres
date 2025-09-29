@@ -1,0 +1,7 @@
+[gd_resource type="ExpTableData" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://resources/ExpTableData.gd" id="1_exptable"]
+
+[resource]
+script = ExtResource("1_exptable")
+xp_table = [100, 250, 450, 700, 1000]

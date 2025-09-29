@@ -1,0 +1,9 @@
+[gd_resource type="AbilityData" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://resources/AbilityData.gd" id="1_ability"]
+
+[resource]
+script = ExtResource("1_ability")
+name = "Rasgo Sombrio"
+description = "Ataque que deixa marcas mágicas instáveis nos inimigos, que podem ser detonadas por Lucy."
+mana_cost = 15.0

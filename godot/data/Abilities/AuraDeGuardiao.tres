@@ -1,0 +1,9 @@
+[gd_resource type="AbilityData" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://resources/AbilityData.gd" id="1_ability"]
+
+[resource]
+script = ExtResource("1_ability")
+name = "Aura de Guardião"
+description = "Reforça temporariamente as defesas de Lucy, absorvendo uma parte do dano recebido."
+mana_cost = 30.0

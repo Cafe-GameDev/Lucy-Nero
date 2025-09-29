@@ -1,0 +1,20 @@
+[gd_resource type="CharacterData" load_steps=5 format=3]
+
+[ext_resource type="Script" path="res://resources/CharacterData.gd" id="1_character_data"]
+[ext_resource type="Resource" path="res://data/StatProgressions/LucyStatProgression.tres" id="2_stat_progression"]
+[ext_resource type="Resource" path="res://data/ExpTables/LucyExpTable.tres" id="3_exp_table"]
+[ext_resource type="Resource" path="res://data/Inventories/LucyInventory.tres" id="4_inventory"]
+[ext_resource type="Resource" path="res://data/SkillTrees/LucySkillTree.tres" id="5_skill_tree"]
+
+[resource]
+script = ExtResource("1_character_data")
+name = "Lucy"
+age = 19
+height = 1.75
+description = "Uma jovem forjadora com a habilidade de imbuir magia em suas criações."
+stat_progression = ExtResource("2_stat_progression")
+exp_table = ExtResource("3_exp_table")
+skill_tree = ExtResource("5_skill_tree")
+abilities = []
+forms = []
+inventory = ExtResource("4_inventory")
