@@ -228,6 +228,11 @@ A evolução de Lucy é baseada em um sistema de "Progressão Cruzada", onde sua
     -   O **Material** "Iridium" para uso na forja.
     -   O **Tipo de Arma** "Clava" em seus conhecimentos de forja.
 
+-   **4. Sistema de Runas:** As runas, que podem ser encontradas ou criadas, são o elo final que personaliza o equipamento. Elas são encaixadas nas armas e armaduras para conceder efeitos mágicos e vêm em diferentes categorias:
+    -   **Runas Elementais:** Adicionam dano de Fogo, Gelo, etc.
+    -   **Runas de Habilidade:** Modificam uma habilidade de arma (Ex: "Sua investida com a lança agora deixa um rastro de fogo").
+    -   **Runas Passivas:** Concedem bônus gerais (Ex: "+10% de velocidade de ataque", "+5% de chance de esquiva").
+
 Este sistema cria um ciclo de gameplay onde o combate aprimora a personagem e sua maestria, a exploração libera novos potenciais de forja, e a forja cria as ferramentas para que ela possa explorar e combater desafios ainda maiores.
 
 ### Nero – Progressão por Evolução

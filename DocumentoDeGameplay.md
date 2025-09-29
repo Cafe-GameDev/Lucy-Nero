@@ -88,10 +88,12 @@ A força de Lucy vem tanto de sua experiência em batalha quanto de sua habilida
     -   **Aquisição de Conhecimento:** O jogador encontra "Projetos de Forja" que ensinam Lucy a criar novos tipos de armas (Clavas, Bestas) ou a refinar seus designs atuais para extrair o máximo potencial de um material.
     -   **Maestria de Arma:** Usar um tipo de arma repetidamente aumenta a proficiência de Lucy com ela. Essa maestria permite ao jogador usar a forja para "subir o nível" de uma arma específica, melhorando ainda mais seus atributos.
 
+-   **Sistema de Runas:** A camada final de personalização. O jogador pode encontrar, comprar ou criar runas para encaixar em seus equipamentos, concedendo bônus e efeitos especiais (dano elemental, novas habilidades, etc.), permitindo adaptar o estilo de jogo.
+
 -   **Ciclo Virtuoso:** Este sistema cria um ciclo de gameplay recompensador:
     1.  **Lutar** para ganhar XP e subir o nível da personagem.
-    2.  **Explorar** para encontrar Materiais e Projetos.
-    3.  **Forjar** equipamentos melhores com os novos recursos.
+    2.  **Explorar** para encontrar Materiais, Projetos e Runas.
+    3.  **Forjar** e **Encantar** equipamentos melhores com os novos recursos.
     4.  **Lutar** com o novo equipamento para ganhar Maestria de Arma e aprimorá-lo ainda mais.
 
 ### Nero – Progressão por Evolução
