@@ -86,6 +86,16 @@ func level_up() -> void:
 func use_ability(ability_name: String, target: Node) -> void:
     for ability in abilities:
         if ability.name == ability_name:
+            # A lógica de custo e execução agora é da própria habilidade
             ability.activate(self, target)
             return
     push_warning("%s não possui a habilidade %s" % [name, ability_name])
+
+func has_enough_mana(cost: float) -> bool:
+    return current_mana >= cost
+
+func use_mana(amount: float) -> void:
+    if has_enough_mana(amount):
+        current_mana -= amount
+        stats_changed.emit()
+        print("%s usou %.2f de mana. Mana restante: %.2f" % [name, amount, current_mana])
