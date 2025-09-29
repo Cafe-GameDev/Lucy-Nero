@@ -63,12 +63,15 @@ Esta é a habilidade máxima do vínculo. Nero se funde à sombra de Lucy, forta
 
 A progressão é horizontal e baseada em conhecimento e equipamento.
 
-### Lucy – Progressão pela Forja
+### Lucy – Progressão por Forja e Combate
 
-Lucy não sobe de nível (sem atributos como Força ou Destreza). Seu poder vem do que ela cria.
+A progressão de Lucy é dividida em duas áreas principais que se complementam:
 
--   **Forja Mágica:** É o coração da progressão. O jogador encontra **Projetos** para novas armas e **Materiais** de diferentes qualidades. A combinação de um projeto com materiais de alta qualidade resulta em armas com melhores status base e mais engastes de runa.
--   **Sistema de Runas:** As runas concedem os efeitos mágicos. Elas podem ser encontradas ou criadas e vêm em diferentes categorias:
+-   **Nível de Combate:** Lucy ganha experiência (XP) ao derrotar inimigos. Ao subir de nível, seus atributos base (Vida, Mana, Ataque, etc.) são aprimorados conforme uma tabela de progressão, refletindo sua crescente proeficiência em batalha.
+
+-   **Maestria de Forja:** O poder de Lucy também vem do que ela cria. Esta progressão é baseada na exploração e descoberta de **Projetos** e **Materiais** de diferentes qualidades. Com os recursos certos, ela pode forjar equipamentos mais poderosos, que é uma forma de poder independente do seu nível de combate.
+
+-   **Sistema de Runas:** As runas, que podem ser encontradas ou criadas, são o elo entre a forja e o combate. Elas são encaixadas nos equipamentos para conceder efeitos mágicos e vêm em diferentes categorias:
     -   **Runas Elementais:** Adicionam dano de Fogo, Gelo, etc.
     -   **Runas de Habilidade:** Modificam uma habilidade de arma (Ex: "Sua investida com a lança agora deixa um rastro de fogo").
     -   **Runas Passivas:** Concedem bônus gerais (Ex: "+10% de velocidade de ataque", "+5% de chance de esquiva").
