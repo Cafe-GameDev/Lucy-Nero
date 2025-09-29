@@ -46,16 +46,16 @@ Descreve a arquitetura técnica do jogo, incluindo o motor (Godot Engine), a lin
 
 Fornece detalhes aprofundados sobre os personagens principais, Lucy e Nero, incluindo suas aparências, trajes, armas, poderes e as diferentes formas de Nero com suas respectivas habilidades. É um guia visual e descritivo dos protagonistas.
 
-[Acessar Ficha de Personagens](https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/public/FichaDePersonagens.md)
+[Acessar Ficha de Personagens](https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/markdowns/FichaDePersonagens.md)
 
 ### 📜 GDD – Lucy & Nero (ARPG Isométrico 3D)
 
 Este documento é uma versão mais concisa do Game Design Document, focando nos aspectos isométricos e 3D do ARPG. Ele reitera a visão geral, o ciclo de gameplay, o sistema de combate, a progressão e o design de mundo, com ênfase na perspectiva isométrica.
 
-[Acessar GDD Isométrico](https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/public/Isometrico.md)
+[Acessar GDD Isométrico](https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/markdowns/Isometrico.md)
 
 ### 📚 Documentação de Recursos (Resources)
 
 Lista e descreve as classes GDScript que estendem `Resource` e são usadas para definir tipos de dados personalizados no Godot Engine. Também detalha os arquivos `.tres` existentes, mostrando como os dados do jogo são estruturados e configurados de forma modular.
 
-[Acessar Documentação de Recursos](https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/public/Resources.md)
+[Acessar Documentação de Recursos](https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/markdowns/Resources.md)
