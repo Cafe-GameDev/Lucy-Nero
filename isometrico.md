@@ -91,3 +91,28 @@ Nero evolui ao absorver **Essências Primevas**, encontradas em chefes ou locais
 -   **Hub Central:** A cidade de **Forja-Luz** serve como o principal hub do jogo, onde Lucy tem sua oficina e o jogador pode interagir com NPCs.
 -   **Biomas:** O mundo é dividido em grandes regiões distintas (florestas assombradas, ruínas de cristal, pântanos vulcânicos), cada uma com seus próprios inimigos, materiais e segredos.
 -   **Estrutura dos Níveis:** Os níveis são desenhados à mão para garantir uma exploração significativa, mas podem conter elementos de aleatoriedade (localização de tesouros, grupos de inimigos, eventos do mundo) para manter o frescor a cada visita. A verticalidade é usada para criar arenas e pontos de vantagem, mas a câmera isométrica permanece clara.
+
+---
+
+## 6. Interface de Usuário (UI/UX)
+
+*Ver `DocumentoDeArte.md` para detalhes visuais.*
+
+- **HUD (Heads-Up Display):** Limpo e informativo, mostrando Vida, Mana, Stamina e a barra de Sinergia. As habilidades ativas e a forma atual de Nero são claramente visíveis.
+- **Menus:** Telas de Inventário, Forja, Árvore de Habilidades (Nero) e Mapa. A navegação deve ser intuitiva tanto no controle quanto no teclado/mouse.
+- **Feedback:** A interface deve fornecer feedback claro para ações como coleta de itens, recebimento de dano e conclusão de objetivos.
+
+---
+
+## 7. Direção de Áudio
+
+*Ver `DocumentoDeAudio.md` para detalhes completos.*
+
+- **Música:** Trilha sonora dinâmica que se adapta entre exploração e combate.
+- **Efeitos Sonoros:** Feedback de combate satisfatório e sons de ambiente imersivos.
+
+---
+
+## 8. Narrativa
+
+*(A ser detalhado em um documento futuro).*
