@@ -18,17 +18,17 @@ O contraste entre luz e sombra é fundamental, com a magia de Lucy e os padrões
   <tr>
     <td style="padding: 0;">
       <div style="width: 100%; height: 300px; overflow: hidden;">
-        <img src="https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/Lucy1.jpg" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/Lucy1.jpg?raw=true" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
     <td style="padding: 0;">
       <div style="width: 100%; height: 300px; overflow: hidden;">
-        <img src="https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/Lucy2.png" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/Lucy2.png?raw=true" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
     <td style="padding: 0;">
       <div style="width: 100%; height: 300px; overflow: hidden;">
-        <img src="https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/Lucy3.png" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/Lucy3.png?raw=true" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
   </tr>
@@ -43,12 +43,12 @@ O contraste entre luz e sombra é fundamental, com a magia de Lucy e os padrões
   <tr>
     <td style="padding: 0;">
       <div style="width: 100%; height: 240px; overflow: hidden;">
-        <img src="https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/Bengal1.jpg" alt="Bengal" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/Bengal1.jpg?raw=true" alt="Bengal" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
     <td style="padding: 0;">
       <div style="width: 100%; height: 240px; overflow: hidden;">
-        <img src="https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/Bengal2.jpeg" alt="Bengal" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/Bengal2.jpeg?raw=true" alt="Bengal" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
   </tr>
@@ -58,12 +58,12 @@ O contraste entre luz e sombra é fundamental, com a magia de Lucy e os padrões
   <tr>
     <td style="padding: 0;">
       <div style="width: 100%; height: 240px; overflow: hidden;">
-        <img src="https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/Nero1.png" alt="Nero" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/Nero1.png?raw=true" alt="Nero" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
     <td style="padding: 0;">
       <div style="width: 100%; height: 240px; overflow: hidden;">
-        <img src="https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/Nero2.png" alt="Nero" style="width: 100%; height: 100%; object-fit: cover;">
+        <img src="https://github.com/Cafe-GameDev/Lucy-Nero/blob/main/Nero2.png?raw=true" alt="Nero" style="width: 100%; height: 100%; object-fit: cover;">
       </div>
     </td>
   </tr>
