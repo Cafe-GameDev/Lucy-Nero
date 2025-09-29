@@ -73,19 +73,26 @@ A barra de "Sinergia" é preenchida conforme Lucy e Nero lutam juntos. Ela permi
 
 ---
 
-## 4. Sistema de Progressão
+## 4. Sistema de Progressão Cruzada
 
-A progressão é horizontal, focada em equipamento e conhecimento, não em níveis de personagem.
+A evolução de Lucy e seu poder são governados por um sistema de "Progressão Cruzada", que une o combate à forja.
 
-### Lucy – Progressão pela Forja
+### Lucy – Progressão por Combate, Forja e Descoberta
 
-O poder de Lucy vem do que ela cria.
+A força de Lucy vem tanto de sua experiência em batalha quanto de sua habilidade como artesã.
 
--   **Forja Mágica:** O jogador encontra **Projetos** e **Materiais**. A combinação de um projeto com materiais de alta qualidade resulta em armas com melhores status e mais engastes de runa.
--   **Sistema de Runas:** As runas concedem os efeitos mágicos e podem ser encontradas ou criadas.
-    -   **Runas Elementais:** Adicionam dano de Fogo, Gelo, etc.
-    -   **Runas de Habilidade:** Modificam uma habilidade de arma (Ex: "Sua investida com a lança agora deixa um rastro de fogo").
-    -   **Runas Passivas:** Concedem bônus gerais (Ex: "+10% de velocidade de ataque").
+-   **Nível de Combate (Personagem):** Lutar e derrotar inimigos concede XP a Lucy. Ao subir de nível, seus atributos fundamentais (Vida, Mana, Ataque) aumentam, tornando-a mais eficaz em combate.
+
+-   **Progressão de Equipamento (Forja):** O jogador melhora o equipamento de Lucy através de um sistema de forja com várias camadas:
+    -   **Descoberta de Materiais:** Encontrar materiais novos e de melhor qualidade (ex: Mithril) é o primeiro passo para criar armas e armaduras mais fortes.
+    -   **Aquisição de Conhecimento:** O jogador encontra "Projetos de Forja" que ensinam Lucy a criar novos tipos de armas (Clavas, Bestas) ou a refinar seus designs atuais para extrair o máximo potencial de um material.
+    -   **Maestria de Arma:** Usar um tipo de arma repetidamente aumenta a proficiência de Lucy com ela. Essa maestria permite ao jogador usar a forja para "subir o nível" de uma arma específica, melhorando ainda mais seus atributos.
+
+-   **Ciclo Virtuoso:** Este sistema cria um ciclo de gameplay recompensador:
+    1.  **Lutar** para ganhar XP e subir o nível da personagem.
+    2.  **Explorar** para encontrar Materiais e Projetos.
+    3.  **Forjar** equipamentos melhores com os novos recursos.
+    4.  **Lutar** com o novo equipamento para ganhar Maestria de Arma e aprimorá-lo ainda mais.
 
 ### Nero – Progressão por Evolução
 

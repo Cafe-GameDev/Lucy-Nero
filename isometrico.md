@@ -63,18 +63,24 @@ Esta é a habilidade máxima do vínculo. Nero se funde à sombra de Lucy, forta
 
 A progressão é horizontal e baseada em conhecimento e equipamento.
 
-### Lucy – Progressão por Forja e Combate
+### Lucy – Sistema de Progressão Cruzada
 
-A progressão de Lucy é dividida em duas áreas principais que se complementam:
+A evolução de Lucy é baseada em um sistema de "Progressão Cruzada", onde sua proficiência em combate e sua habilidade como forjadora estão interligadas. A progressão se divide em múltiplos pilares:
 
--   **Nível de Combate:** Lucy ganha experiência (XP) ao derrotar inimigos. Ao subir de nível, seus atributos base (Vida, Mana, Ataque, etc.) são aprimorados conforme uma tabela de progressão, refletindo sua crescente proeficiência em batalha.
+-   **1. Nível de Combate (Personagem):** Ao derrotar inimigos, Lucy ganha experiência (XP) e sobe de nível. Cada nível aumenta seus atributos base (Vida, Mana, Ataque, etc.) através de uma tabela de progressão, tornando-a inerentemente mais forte e resistente em combate.
 
--   **Maestria de Forja:** O poder de Lucy também vem do que ela cria. Esta progressão é baseada na exploração e descoberta de **Projetos** e **Materiais** de diferentes qualidades. Com os recursos certos, ela pode forjar equipamentos mais poderosos, que é uma forma de poder independente do seu nível de combate.
+-   **2. Progressão de Forja (Equipamento):** O poder dos equipamentos de Lucy evolui através de três eixos:
+    -   **Materiais:** A base da forja. A descoberta de materiais superiores (ex: trocar Aço por Mithril) permite a criação de armas com melhores atributos base (mais dano, menos peso). O primeiro passo é usar o novo material em um design já conhecido.
+    -   **Conhecimento (Projetos):** Lucy pode encontrar "Documentos de Forja" ou ensinamentos que desbloqueiam duas coisas:
+        -   **Novos Tipos de Arma:** Aprender a forjar uma Clava, uma Besta, etc.
+        -   **Refinamento de Design:** Aprender a trabalhar melhor um material que ela já conhece. Por exemplo, após encontrar um projeto, ela aprende a fazer uma "Katana de Mithril Refinada", mais leve e afiada que a versão inicial que ela criou apenas substituindo o material.
+    -   **Maestria de Arma (Uso):** O uso contínuo de um tipo de arma (ex: Katanas) aumenta a "Maestria" de Lucy com ela. Essa maestria, ganha em combate, se traduz na forja, permitindo que Lucy crie e aprimore instâncias de armas daquele tipo para níveis superiores. Uma "Katana de Aço (Nível 5)" é superior a uma "Katana de Aço (Nível 1)".
 
--   **Sistema de Runas:** As runas, que podem ser encontradas ou criadas, são o elo entre a forja e o combate. Elas são encaixadas nos equipamentos para conceder efeitos mágicos e vêm em diferentes categorias:
-    -   **Runas Elementais:** Adicionam dano de Fogo, Gelo, etc.
-    -   **Runas de Habilidade:** Modificam uma habilidade de arma (Ex: "Sua investida com a lança agora deixa um rastro de fogo").
-    -   **Runas Passivas:** Concedem bônus gerais (Ex: "+10% de velocidade de ataque", "+5% de chance de esquiva").
+-   **3. Progressão por Descoberta:** A exploração é recompensada de forma orgânica. Ao encontrar uma "Clava de Iridium" em uma ruína antiga, Lucy desbloqueia simultaneamente:
+    -   O **Material** "Iridium" para uso na forja.
+    -   O **Tipo de Arma** "Clava" em seus conhecimentos de forja.
+
+Este sistema cria um ciclo de gameplay onde o combate aprimora a personagem e sua maestria, a exploração libera novos potenciais de forja, e a forja cria as ferramentas para que ela possa explorar e combater desafios ainda maiores.
 
 ### Nero – Progressão por Evolução
 

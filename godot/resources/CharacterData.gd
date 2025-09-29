@@ -14,7 +14,7 @@ class_name CharacterData
 
 # --- Recursos Conectados ---
 @export var abilities: Array[Resource]   # AbilityData
-@export var weapons: Array[Resource]     # WeaponData
+@export var inventory: Resource          # InventoryData
 @export var forms: Array[Resource]       # FormData
 @export var inventory: Resource          # InventoryData
 
