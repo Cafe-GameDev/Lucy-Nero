@@ -14,10 +14,60 @@ O contraste entre luz e sombra é fundamental, com a magia de Lucy e os padrões
 - **Modelo:** 3D, seguindo as proporções e traços definidos na ficha de personagem. O modelo deve ser detalhado o suficiente para transmitir sua agilidade e força, com atenção especial aos materiais de sua roupa (tecido, couro, metal).
 - **Magia:** As runas em suas roupas e armas devem ser emissivas, brilhando com intensidade variável conforme o uso de mana. A cor da emissão pode mudar com o elemento ativo (vermelho para fogo, azul para gelo, etc.).
 
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 300px; overflow: hidden;">
+        <img src="./Lucy1.jpg" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 300px; overflow: hidden;">
+        <img src="./Lucy2.png" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 300px; overflow: hidden;">
+        <img src="./Lucy3.png" alt="Lucy" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
+  </tr>
+</table>
+
 ### Nero
 - **Modelos:** Cada forma (Gato, Corvo, Cavalo) deve ter uma silhueta clara e distinta para fácil reconhecimento em combate.
 - **Textura:** O padrão de pelagem do Bengal melanístico é a assinatura visual. Deve ser aplicado de forma estilizada, com rosetas que podem ter um brilho sutil e mágico.
 - **Metamorfose:** A transição entre formas deve ser um espetáculo visual, com efeitos de partículas, luz e distorção que a tornam um momento impactante no gameplay.
+
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 240px; overflow: hidden;">
+        <img src="./Bengal1.jpg" alt="Bengal" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 240px; overflow: hidden;">
+        <img src="./Bengal2.jpeg" alt="Bengal" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
+  </tr>
+</table>
+
+<table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
+  <tr>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 240px; overflow: hidden;">
+        <img src="./Nero1.png" alt="Nero" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
+    <td style="padding: 0;">
+      <div style="width: 100%; height: 240px; overflow: hidden;">
+        <img src="./Nero2.png" alt="Nero" style="width: 100%; height: 100%; object-fit: cover;">
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
