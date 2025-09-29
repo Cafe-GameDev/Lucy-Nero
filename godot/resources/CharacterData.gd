@@ -5,7 +5,7 @@ class_name CharacterData
 @export var name: String
 @export var age: int
 @export var height: float
-@export var description: String
+@export_multiline var description: String
 
 # --- Recursos de Progressão ---
 @export var stat_progression: Resource   # StatProgressionData
@@ -17,7 +17,7 @@ class_name CharacterData
 @export var forms: Array[Resource]       # FormData
 @export var inventory: Resource          # InventoryData
 
-# --- Atributos de Combate (Agora gerenciados pela tabela) ---
+# --- Atributos de Combate (Gerenciados pela tabela de progressão) ---
 var max_health: float
 var max_mana: float
 var base_attack: float
@@ -28,10 +28,6 @@ var current_health: float
 var current_mana: float
 var level: int = 1
 var current_xp: int = 0
-
-# --- Sinais ---
-signal level_upped(character_name, new_level)
-signal stats_changed
 
 # --------------------------
 # FUNCS
@@ -55,14 +51,14 @@ func update_stats_for_level() -> void:
     max_mana = stats.get("max_mana", max_mana)
     base_attack = stats.get("base_attack", base_attack)
     base_defense = stats.get("base_defense", base_defense)
-    
-    stats_changed.emit()
 
-func gain_xp(amount: int) -> void:
+func gain_xp(amount: int) -> bool:
+    var leveled_up = false
     current_xp += amount
     while current_xp >= get_xp_to_next_level():
+        leveled_up = true
         level_up()
-    stats_changed.emit()
+    return leveled_up
 
 func get_xp_to_next_level() -> int:
     if exp_table:
@@ -79,23 +75,9 @@ func level_up() -> void:
     # Recupera vida e mana ao subir de nível
     current_health = max_health
     current_mana = max_mana
-    
-    print("%s subiu para o nível %d! Novos atributos: HP=%d, MP=%d" % [name, level, max_health, max_mana])
-    level_upped.emit(name, level)
 
-func use_ability(ability_name: String, target: Node) -> void:
+func get_ability(ability_name: String) -> AbilityData:
     for ability in abilities:
         if ability.name == ability_name:
-            # A lógica de custo e execução agora é da própria habilidade
-            ability.activate(self, target)
-            return
-    push_warning("%s não possui a habilidade %s" % [name, ability_name])
-
-func has_enough_mana(cost: float) -> bool:
-    return current_mana >= cost
-
-func use_mana(amount: float) -> void:
-    if has_enough_mana(amount):
-        current_mana -= amount
-        stats_changed.emit()
-        print("%s usou %.2f de mana. Mana restante: %.2f" % [name, amount, current_mana])
+            return ability
+    return null

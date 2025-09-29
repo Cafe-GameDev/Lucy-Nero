@@ -1,0 +1,11 @@
+[gd_resource type="SkillData" load_steps=2 format=3]
+
+[ext_resource type="Script" path="res://resources/SkillData.gd" id="1_skill"]
+
+[resource]
+script = ExtResource("1_skill")
+id = "forja_refinada"
+skill_name = "Forja Refinada"
+description = "Permite criar equipamentos de Nível 2."
+cost = 1
+unlocked = false

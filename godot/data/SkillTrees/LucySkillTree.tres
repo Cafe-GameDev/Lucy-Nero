@@ -1,10 +1,9 @@
-[gd_resource type="SkillTreeData" load_steps=2 format=3]
+[gd_resource type="SkillTreeData" load_steps=3 format=3]
 
 [ext_resource type="Script" path="res://resources/SkillTreeData.gd" id="1_skilltree"]
+[ext_resource type="Resource" path="res://data/Skills/ForjaRefinada.tres" id="2_forja_refinada"]
+[ext_resource type="Resource" path="res://data/Skills/MaestriaEmLaminas.tres" id="3_maestria_laminas"]
 
 [resource]
 script = ExtResource("1_skilltree")
-skills = {
-"Forja Refinada": {"cost": 1, "unlocked": false, "description": "Permite criar equipamentos de Nível 2."},
-"Maestria em Lâminas": {"cost": 2, "unlocked": false, "description": "Aumenta o dano com espadas em 10%."}
-}
+skills = [ExtResource("2_forja_refinada"), ExtResource("3_maestria_laminas")]
