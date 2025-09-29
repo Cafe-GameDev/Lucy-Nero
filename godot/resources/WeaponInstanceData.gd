@@ -5,6 +5,9 @@ class_name WeaponInstanceData
 @export var material: Resource      # MaterialData
 @export var refinement_level: int = 1 # 1 = Design Padrão, 2 = Design Refinado
 
+@export var rune_slots: int = 1
+var equipped_runes: Array[Resource] # Array de RuneData
+
 var mastery_level: int = 1
 var mastery_xp: int = 0
 
