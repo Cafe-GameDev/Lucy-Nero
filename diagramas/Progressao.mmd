@@ -1,0 +1,19 @@
+# Fluxograma de Progressão do Jogador
+
+Este fluxograma ilustra o ciclo de progressão do personagem, incluindo ganho de XP, level up e aquisição de habilidades.
+
+```mermaid
+graph TD
+    A[Início] --> B[Jogador ganha XP];
+    B --> C[Adiciona XP ao `CharacterData`];
+    C --> D{XP atual >= XP para próximo nível? (consulta `ExpTableData`)};
+    D -- Sim --> E[Level Up!];
+    D -- Não --> F[Ciclo continua];
+    E --> G[Incrementa nível do personagem];
+    G --> H[Atualiza status base (consulta `StatProgressionData`)];
+    H --> I[Ganha ponto de habilidade];
+    I --> J{Jogador gasta o ponto?};
+    J -- Sim --> K[Abre a UI da `SkillTreeData` e desbloqueia habilidade];
+    J -- Não --> F;
+    K --> F;
+```

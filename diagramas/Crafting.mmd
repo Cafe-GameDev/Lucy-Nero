@@ -1,0 +1,22 @@
+# Fluxograma de Criação de Itens (Crafting)
+
+Este fluxograma detalha o processo de forja de uma nova arma por Lucy.
+
+```mermaid
+graph TD
+    A[Início do Crafting] --> B[Jogador abre a UI de Forja];
+    B --> C[Seleciona `WeaponBlueprintData`];
+    C --> D[UI mostra materiais necessários e slots];
+    D --> E[Seleciona `MaterialData` principal];
+    E --> F{Material disponível no `InventoryData`?};
+    F -- Sim --> G{Adicionar `RuneData`?};
+    F -- Não --> E;
+    G -- Sim --> H[Seleciona `RuneData`];
+    G -- Não --> I[Jogador confirma a criação];
+    H --> I;
+    I --> J[Consome `MaterialData` e `RuneData` do inventário];
+    J --> K[Cria nova `WeaponInstanceData`];
+    K --> L[Define atributos da arma com base no Blueprint, Material e Runas];
+    L --> M[Adiciona `WeaponInstanceData` ao `InventoryData`];
+    M --> N[Fim do Crafting];
+```

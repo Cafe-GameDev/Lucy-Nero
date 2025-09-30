@@ -1,0 +1,28 @@
+# Fluxograma de Combate
+
+Este fluxograma descreve o ciclo de combate no jogo, desde a ação do jogador até a resposta do inimigo.
+
+```mermaid
+graph TD
+    A[Início do Combate] --> B{Jogador realiza uma ação?};
+    B -- Sim --> C[Seleciona Ação: Atacar, Defender, Habilidade];
+    C --> D{Recurso suficiente? (Mana/Stamina)};
+    D -- Sim --> E[Executa Ação do Jogador];
+    D -- Não --> B;
+    E --> F{Ação acertou o alvo?};
+    F -- Sim --> G[Calcula Dano/Efeito];
+    F -- Não --> H[IA do Inimigo decide Ação];
+    G --> I[Aplica Dano/Efeito no Alvo];
+    I --> J{Alvo derrotado?};
+    J -- Sim --> K[Fim do Combate];
+    J -- Não --> H;
+    B -- Não --> H;
+    H --> L[Executa Ação do Inimigo];
+    L --> M{Ação acertou o jogador?};
+    M -- Sim --> N[Calcula Dano/Efeito no Jogador];
+    M -- Não --> B;
+    N --> O[Aplica Dano/Efeito no Jogador];
+    O --> P{Jogador derrotado?};
+    P -- Sim --> Q[Game Over];
+    P -- Não --> B;
+```

@@ -1,0 +1,125 @@
+# Diagrama de Classes de Recursos (GDScript)
+
+Este diagrama UML de classes representa a estrutura das classes de recursos (Resource) em GDScript, conforme definido em `godot/resources/` e detalhado em `docs/Resources.md`. Ele ilustra a herança de `Resource` e os relacionamentos de composição/associação entre as classes, mostrando como os dados do jogo são estruturados.
+
+```mermaid
+classDiagram
+    direction LR
+
+    class Resource {
+        <<abstract>>
+    }
+
+    class AbilityData {
+        +String name
+        +String description
+        +float mana_cost
+    }
+
+    class CharacterData {
+        +String name
+        +int age
+        +float height
+        +String description
+        +ExpTableData exp_table
+        +StatProgressionData stat_progression
+        +SkillTreeData skill_tree
+        +InventoryData inventory
+        +FormData[] forms (for Nero)
+    }
+
+    class EnemyData {
+        +String name
+        +PackedScene scene_3d
+        +StatProgressionData stat_progression
+        +LootTableData loot_table
+    }
+
+    class ExpTableData {
+        +Dictionary xp_table
+    }
+
+    class FormData {
+        +String name
+        +String description
+        +AbilityData[] abilities
+    }
+
+    class InventoryData {
+        +Dictionary materials
+        +Array equipment
+        +WeaponInstanceData equipped_weapon
+    }
+
+    class LootTableData {
+        +Array items
+    }
+
+    class MaterialData {
+        +String name
+        +String description
+        +Texture2D icon
+        +Dictionary modifiers
+    }
+
+    class RuneData {
+        +String name
+        +String description
+        +String type
+    }
+
+    class SkillTreeData {
+        +Dictionary skills
+    }
+
+    class StatProgressionData {
+        +Dictionary stats_per_level
+    }
+
+    class WeaponBlueprintData {
+        +String name
+        +String type
+        +float base_damage
+        +float base_weight
+    }
+
+    class WeaponInstanceData {
+        +WeaponBlueprintData blueprint
+        +MaterialData material
+        +int refinement_level
+        +RuneData[] rune_slots
+        +int mastery_level
+    }
+
+    Resource <|-- AbilityData
+    Resource <|-- CharacterData
+    Resource <|-- EnemyData
+    Resource <|-- ExpTableData
+    Resource <|-- FormData
+    Resource <|-- InventoryData
+    Resource <|-- LootTableData
+    Resource <|-- MaterialData
+    Resource <|-- RuneData
+    Resource <|-- SkillTreeData
+    Resource <|-- StatProgressionData
+    Resource <|-- WeaponBlueprintData
+    Resource <|-- WeaponInstanceData
+
+    CharacterData "1" *-- "1" ExpTableData : uses
+    CharacterData "1" *-- "1" StatProgressionData : uses
+    CharacterData "1" *-- "1" SkillTreeData : uses
+    CharacterData "1" *-- "1" InventoryData : manages
+    CharacterData "1" *-- "0..*" FormData : has (for Nero)
+
+    FormData "1" *-- "0..*" AbilityData : contains
+
+    EnemyData "1" *-- "1" StatProgressionData : uses
+    EnemyData "1" *-- "1" LootTableData : defines
+
+    InventoryData "1" *-- "0..*" MaterialData : stores
+    InventoryData "1" *-- "0..*" WeaponInstanceData : stores
+
+    WeaponInstanceData "1" *-- "1" WeaponBlueprintData : based on
+    WeaponInstanceData "1" *-- "1" MaterialData : crafted with
+    WeaponInstanceData "1" *-- "0..*" RuneData : has
+```
