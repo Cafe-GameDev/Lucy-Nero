@@ -1,6 +1,7 @@
 # 🌌 Ficha de Personagens – Lucy & Nero
 
-**Título:** Entre Espadas e Garras
+**Título:** Lucy & Nero: Entre Espadas e Garras
+**Alt:** Lucy & Nero: Blades and Claws
 
 ---
 

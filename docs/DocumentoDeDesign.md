@@ -10,7 +10,8 @@ O foco é em combate estratégico contra múltiplos inimigos, exploração de gr
 
 ## 2. Personagens – Lucy & Nero
 
-**Título:** Entre Espadas e Garras
+**Título:** Lucy & Nero: Entre Espadas e Garras
+**Alt:** Lucy & Nero: Blades and Claws
 
 ---
 
