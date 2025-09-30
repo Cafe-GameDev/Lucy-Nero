@@ -1,0 +1,24 @@
+# Fluxograma do Loop Principal do Jogo
+
+Este fluxograma mostra a estrutura de alto nível do jogo, desde o menu até o gameplay.
+
+```mermaid
+graph TD
+    A[Início] --> B[Menu Principal];
+    B --> C{Novo Jogo ou Carregar?};
+    C -- Novo Jogo --> D[Inicia Novo Jogo];
+    C -- Carregar --> E[Carrega Jogo Salvo];
+    D --> F[Loop de Gameplay];
+    E --> F;
+    F --> G[1. Processa Input do Jogador];
+    G --> H[2. Atualiza Estado do Jogo (Física, IA)];
+    H --> I[3. Renderiza Cena];
+    I --> J{Jogo Pausado?};
+    J -- Sim --> K[Menu de Pausa];
+    K -- Voltar ao Jogo --> F;
+    K -- Sair para o Menu --> B;
+    J -- Não --> L{Jogador Derrotado?};
+    L -- Sim --> M[Tela de Game Over];
+    M --> B;
+    L -- Não --> F;
+```

@@ -1,0 +1,22 @@
+# Fluxograma de Missão (Quest)
+
+Este fluxograma detalha o ciclo de vida de uma missão, desde o recebimento até a conclusão.
+
+```mermaid
+graph TD
+    A[Início] --> B[Jogador interage com NPC];
+    B --> C{NPC tem quest disponível?};
+    C -- Não --> D[Diálogo Padrão];
+    D --> E[Fim da Interação];
+    C -- Sim --> F[NPC oferece a quest];
+    F --> G{Jogador aceita?};
+    G -- Não --> E;
+    G -- Sim --> H[Adiciona quest ao diário];
+    H --> I[Jogador explora e completa objetivos];
+    I --> J{Objetivos completos?};
+    J -- Não --> I;
+    J -- Sim --> K[Jogador retorna ao NPC];
+    K --> L[Entrega a quest];
+    L --> M[Recebe Recompensa (XP, Itens)];
+    M --> E;
+```
