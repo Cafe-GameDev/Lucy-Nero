@@ -8,6 +8,7 @@
 
 [node name="Lucy" parent="." instance=ExtResource("1_0e48y")]
 position = Vector2(354, 203)
+character_data = null
 
 [node name="Nero" parent="." instance=ExtResource("2_epypp")]
 position = Vector2(413, 223)

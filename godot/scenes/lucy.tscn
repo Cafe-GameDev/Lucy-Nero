@@ -5,6 +5,7 @@
 [ext_resource type="Script" path="res://scripts/player/states/idle_state.gd" id="3_idle_state"]
 [ext_resource type="Script" path="res://scripts/player/states/move_state.gd" id="4_move_state"]
 [ext_resource type="Script" path="res://scripts/player/states/attack_state.gd" id="5_attack_state"]
+[ext_resource type="Resource" path="res://data/Characters/Lucy.tres" id="6_lucy_data"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_bo3m1"]
 size = Vector2(80, 80)
@@ -15,6 +16,7 @@ size = Vector2(40, 40)
 [node name="Lucy" type="CharacterBody2D" groups=["player"]]
 collision_layer = 4
 script = ExtResource("1_bo3m1")
+character_data = ExtResource("6_lucy_data")
 
 [node name="Hitbox" type="Area2D" parent="."]
 collision_layer = 0

@@ -6,7 +6,7 @@ class_name MoveState
 
 @export var speed: float = 300.0
 
-func physics_update(delta: float):
+func physics_update(_delta: float):
 	# Pega o input do jogador
 	var input_vector = Input.get_vector("move_left", "move_right", "move_up", "move_down")
 	

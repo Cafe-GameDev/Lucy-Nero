@@ -9,7 +9,7 @@ class_name Nero
 # O alvo que Nero deve seguir
 @onready var target = get_parent().get_node("Lucy")
 
-func _physics_process(delta: float):
+func _physics_process(_delta: float):
 	if not is_instance_valid(target):
 		return
 
