@@ -1,0 +1,38 @@
+# Diagrama de Fluxo do Core Loop do MVP
+
+Este fluxograma descreve o ciclo de gameplay simplificado que será o foco do MVP 2D.
+
+```mermaid
+graph TD
+    A[Início no Cenário de Teste] --> B{O jogador se move?};
+    B -- Sim --> C[Atualiza Posição do Player];
+    C --> D{Inimigo no alcance?};
+    B -- Não --> D;
+
+    D -- Sim --> E[Inimigo persegue o jogador];
+    E --> F{Jogador ataca?};
+    D -- Não --> F;
+
+    F -- Sim --> G[Executa Ataque de Lucy];
+    G --> H{Ataque acertou o inimigo?};
+    H -- Sim --> I[Inimigo sofre dano];
+    I --> J{Vida do inimigo <= 0?};
+    J -- Sim --> K[Inimigo é removido];
+    K --> L[Jogador ganha XP];
+    L --> M{XP para Level Up?};
+    M -- Sim --> N[Aumenta Nível do Jogador];
+    N --> B;
+    M -- Não --> B;
+    J -- Não --> O;
+    H -- Não --> O;
+    
+    F -- Não --> O{Inimigo no alcance de ataque?};
+    O -- Sim --> P[Inimigo ataca o jogador];
+    P --> Q{Ataque acertou o jogador?};
+    Q -- Sim --> R[Jogador sofre dano];
+    R --> S{Vida do jogador <= 0?};
+    S -- Sim --> T[Fim de Jogo (Game Over)];
+    S -- Não --> B;
+    Q -- Não --> B;
+    O -- Não --> B;
+```

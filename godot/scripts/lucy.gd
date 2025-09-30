@@ -16,6 +16,9 @@ signal attack_dealt(damage, target_node)
 # Atribua o recurso CharacterData (ex: Lucy.tres) a este campo no inspetor do Godot.
 @export var character_data: CharacterData
 
+# --- COMPONENTES ---
+@onready var fsm: FSM = $FSM
+
 # --------------------------
 # MÉTODOS DO GODOT
 # --------------------------
@@ -27,12 +30,25 @@ func _ready():
 		queue_free()
 		return
 	
+	# Define as ações de input que serão usadas para o movimento
+	# Isso é feito via código para garantir que as ações existam
+	InputMap.add_action("move_left")
+	InputMap.add_action("move_right")
+	InputMap.add_action("move_up")
+	InputMap.add_action("move_down")
+	InputMap.add_action("attack")
+
+	InputMap.action_add_event("move_left", InputEventKey.new(KEY_A))
+	InputMap.action_add_event("move_right", InputEventKey.new(KEY_D))
+	InputMap.action_add_event("move_up", InputEventKey.new(KEY_W))
+	InputMap.action_add_event("move_down", InputEventKey.new(KEY_S))
+	InputMap.action_add_event("attack", InputEventMouseButton.new(MOUSE_BUTTON_LEFT))
+	
+	# Inicia a FSM no estado Idle
+	fsm.set_state("IdleState")
+	
 	# Conecta-se aos sinais internos do recurso, se necessário, ou inicializa a UI
 	emit_signal("stats_changed")
-
-# func _physics_process(delta):
-#     # A lógica de movimento do jogador (input, move_and_slide) iria aqui.
-#     pass
 
 # --------------------------
 # LÓGICA DE JOGO

@@ -1,6 +1,10 @@
-[gd_scene load_steps=4 format=3 uid="uid://del6wm7t2j24e"]
+[gd_scene load_steps=8 format=3 uid="uid://del6wm7t2j24e"]
 
-[ext_resource type="Script" uid="uid://27rv8u2boua4" path="res://scripts/lucy.gd" id="1_bo3m1"]
+[ext_resource type="Script" path="res://scripts/lucy.gd" id="1_bo3m1"]
+[ext_resource type="Script" path="res://scripts/core/fsm.gd" id="2_fsm"]
+[ext_resource type="Script" path="res://scripts/player/states/idle_state.gd" id="3_idle_state"]
+[ext_resource type="Script" path="res://scripts/player/states/move_state.gd" id="4_move_state"]
+[ext_resource type="Script" path="res://scripts/player/states/attack_state.gd" id="5_attack_state"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_bo3m1"]
 size = Vector2(80, 80)
@@ -8,7 +12,8 @@ size = Vector2(80, 80)
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_581hr"]
 size = Vector2(40, 40)
 
-[node name="Lucy" type="CharacterBody2D"]
+[node name="Lucy" type="CharacterBody2D" groups=["player"]]
+collision_layer = 4
 script = ExtResource("1_bo3m1")
 
 [node name="Area2D" type="Area2D" parent="."]
@@ -32,3 +37,27 @@ offset_right = 20.0
 offset_bottom = 20.0
 grow_horizontal = 2
 grow_vertical = 2
+
+[node name="FSM" type="Node" parent="."]
+script = ExtResource("2_fsm")
+owner = NodePath("..")
+
+[node name="IdleState" type="Node" parent="FSM"]
+script = ExtResource("3_idle_state")
+move_state = NodePath("../MoveState")
+attack_state = NodePath("../AttackState")
+
+[node name="MoveState" type="Node" parent="FSM"]
+script = ExtResource("4_move_state")
+idle_state = NodePath("../IdleState")
+attack_state = NodePath("../AttackState")
+
+[node name="AttackState" type="Node" parent="FSM"]
+script = ExtResource("5_attack_state")
+idle_state = NodePath("../IdleState")
+
+[node name="Timer" type="Timer" parent="FSM/AttackState"]
+wait_time = 0.4
+one_shot = true
+
+[connection signal="timeout" from="FSM/AttackState/Timer" to="FSM/AttackState" method="_on_timer_timeout"]
