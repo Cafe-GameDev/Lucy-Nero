@@ -1,8 +1,8 @@
-# Este script deve ser anexado a um nó CharacterBody3D na cena do jogador.
+# Este script deve ser anexado a um nó CharacterBody2D na cena do jogador.
 # Ele atua como o "cérebro" do personagem, combinando os dados do recurso
 # CharacterData com a lógica de execução que acontece na cena do jogo.
 
-extends CharacterBody3D
+extends CharacterBody2D
 
 # --- SINAIS ---
 # Emitido quando o personagem sobe de nível.

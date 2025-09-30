@@ -1,6 +1,8 @@
+Sempre Responda em Portugues
+
 # Visão Geral do Projeto: Lucy & Nero
 
-Este projeto é um RPG de Ação (Action RPG) isométrico 3D chamado "Lucy & Nero", desenvolvido com a Godot Engine (versão 4.5). O jogo apresenta um sistema de combate dinâmico, exploração e um sistema interligado de criação e progressão. A jogabilidade principal gira em torno da cooperação tática entre dois personagens principais: Lucy, uma forjadora, e Nero, um guardião metamorfo.
+Este projeto é um RPG de Ação (Action RPG) chamado "Lucy & Nero", desenvolvido com a Godot Engine (versão 4.5). Atualmente, o desenvolvimento está focado em uma versão 2D top-down para validação de mecânicas, com o objetivo final de ser um jogo 3D isométrico. O jogo apresenta um sistema de combate dinâmico, exploração e um sistema interligado de criação e progressão. A jogabilidade principal gira em torno da cooperação tática entre dois personagens principais: Lucy, uma forjadora, e Nero, um guardião metamorfo.
 
 ## Principais Tecnologias
 

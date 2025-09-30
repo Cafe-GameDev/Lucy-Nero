@@ -2,7 +2,11 @@
 
 ## 1. Visão Geral
 
-Este documento detalha a visão para **Lucy & Nero** como um Action RPG (ARPG) com perspectiva isométrica. O design se inspira em clássicos como *Diablo* e *Baldur's Gate: Dark Alliance*, com a agilidade e sistemas de sinergia de jogos modernos como *Hades*.
+Este documento detalha a visão para **Lucy & Nero** como um Action RPG (ARPG).
+
+> **Nota:** O desenvolvimento inicial está sendo feito em 2D top-down para validar as mecânicas principais, com a meta de se tornar um jogo 3D isométrico. A documentação pode refletir uma mistura de ambos os estágios durante esta fase.
+
+O design se inspira em clássicos como *Diablo* e *Baldur's Gate: Dark Alliance*, com a agilidade e sistemas de sinergia de jogos modernos como *Hades*.
 
 O foco é em combate estratégico contra múltiplos inimigos, exploração de grandes ambientes e um ciclo de progressão viciante centrado na Forja Mágica de Lucy e na evolução de Nero.
 
