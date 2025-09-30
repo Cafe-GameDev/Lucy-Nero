@@ -63,5 +63,17 @@ As missões são o principal motor de progressão da história e de obtenção d
 
 ---
 
-### 6. Missões da História Principal
+### 6. Comissões Particulares (Contratos Diretos)
+- **Objetivo:** Missões de alto risco e alta recompensa oferecidas diretamente a Lucy por NPCs influentes (nobres, mercadores ricos, mestres de guilda) que reconhecem suas habilidades únicas. Essas missões não passam pelo quadro da guilda.
+- **Como Obter:** Requer um alto nível de reputação com uma facção, guilda ou indivíduo. A fama de Lucy como "Forjadora Rúnica" ou as habilidades de percepção de Nero podem atrair esses contratos.
+
+#### Exemplo de um Nobre em Auria:
+- **"Um Presente para a Rainha Élfica":** "A Rainha Élfica admira artefatos únicos. Forje para mim uma Katana usando a Seda de Mana do Templo da Lua Minguante. Sua discrição e habilidade são essenciais. O pagamento será generoso."
+
+#### Exemplo de um Mercador em Khaz'Modan:
+- **"Ingrediente Secreto":** "Ouvi dizer que o Pó de Estrela dos Campos de Astralis pode estabilizar poções voláteis. É muito perigoso para as minhas caravanas. Traga-me uma amostra, e eu lhe darei acesso exclusivo a um veio de minério raro."
+
+---
+
+### 7. Missões da História Principal
 - **Objetivo:** Missões que avançam a narrativa central do jogo, geralmente envolvendo múltiplos passos, viagens entre diferentes reinos e desafios únicos.
