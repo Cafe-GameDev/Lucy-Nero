@@ -31,7 +31,7 @@ O jogador seguirá um ciclo claro e recompensador, focado na sinergia entre comb
 
 Visual inspirado em anime, com traços detalhados, expressivos e dinâmicos, enfatizando magia e ação.
 
-- **Idade:** 19 anos
+- **Idade:** 16 anos
 - **Altura:** 1,75 m
 - **Cabelo:** Longo, ondulado, preto/moreno, geralmente preso em rabo de cavalo.
 - **Olhos:** Verde-esmeralda vibrante, que brilham intensamente quando canaliza magia.

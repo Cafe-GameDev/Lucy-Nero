@@ -118,7 +118,7 @@ Recursos que definem habilidades específicas no jogo.
 Recursos que definem os personagens principais do jogo.
 *   **File:** `godot/data/Characters/Lucy.tres`
     *   **Name:** Lucy
-    *   **Age:** 19
+    *   **Age:** 16
     *   **Height:** 1.75
     *   **Description:** Uma jovem forjadora com a habilidade de imbuir magia em suas criações.
     *   **Stat Progression:** `LucyStatProgression.tres`

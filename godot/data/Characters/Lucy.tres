@@ -9,7 +9,7 @@
 [resource]
 script = ExtResource("1_character_data")
 name = "Lucy"
-age = 19
+age = 16
 height = 1.75
 description = "Uma jovem forjadora com a habilidade de imbuir magia em suas criações."
 stat_progression = ExtResource("2_stat_progression")
