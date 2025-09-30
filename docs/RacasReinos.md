@@ -1,7 +1,7 @@
 # Raças e Reinos do Mundo
 
 ## Visão Geral
-O mundo é habitado por diversas raças inteligentes, cada uma com sua própria cultura, história e território. Embora existam cidades cosmopolitas como Forja-Luz onde membros de várias raças convivem, muitas raças também formam seus próprios reinos e nações.
+O mundo é habitado por diversas raças inteligentes, cada uma com sua própria cultura, história e território. Embora existam cidades cosmopolitas como Auria onde membros de várias raças convivem, muitas raças também formam seus próprios reinos e nações.
 
 ---
 
@@ -20,7 +20,7 @@ O mundo é habitado por diversas raças inteligentes, cada uma com sua própria 
 - **Reino:** O Reino das Feras é uma confederação de clãs governada por um Rei. Lucy se tornará uma aliada e amiga próxima do Rei dos Homens-Fera, unindo seus povos.
 
 ### Humanos
-- **Descrição:** A raça mais numerosa e adaptável. Os reinos humanos são os mais diversos, variando de pequenas baronias a grandes impérios. São o pilar de cidades comerciais como Forja-Luz.
+- **Descrição:** A raça mais numerosa e adaptável. Os reinos humanos são os mais diversos, variando de pequenas baronias a grandes impérios. São o pilar de cidades comerciais como Auria.
 
 ---
 

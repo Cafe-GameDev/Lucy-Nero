@@ -4,7 +4,7 @@
 
 ---
 
-## 👤 Lucy – A Forjadora da Luz
+## 👤 Lucy – A Forjadora Rúnica
 
 ### Aparência
 

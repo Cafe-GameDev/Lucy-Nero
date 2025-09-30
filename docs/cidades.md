@@ -1,7 +1,7 @@
 # Cidades e Vilarejos
 
-## Forja-Luz (Cidade Inicial)
-**Forja-Luz** é a cidade onde a jornada de Lucy começa. É um centro movimentado, conhecido por seus ferreiros habilidosos e por ser um ponto de partida seguro para aventureiros novatos.
+## Auria (Cidade Inicial)
+**Auria** é a cidade onde a jornada de Lucy começa. É um centro movimentado, conhecido por seus ferreiros habilidosos e por ser um ponto de partida seguro para aventureiros novatos.
 
 ### Pontos de Interesse:
 - **Guilda de Aventureiros:** Onde Lucy se registra e pega suas primeiras missões.

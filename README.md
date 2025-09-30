@@ -19,7 +19,7 @@ O jogador seguirá um ciclo claro e recompensador, focado na sinergia entre comb
 1.  **Explorar:** Viajar por mapas e dungeons repletos de inimigos, segredos e recursos.
 2.  **Combater:** Engajar em combate em tempo real, utilizando as armas de Lucy e as formas de Nero para superar desafios.
 3.  **Coletar (Loot):** Juntar materiais de forja, essências mágicas, runas e projetos de armas deixados pelos inimigos e encontrados no cenário.
-4.  **Retornar à Forja:** Voltar ao hub central (Forja-Luz) para processar os materiais.
+4.  **Retornar à Forja:** Voltar ao hub central (Auria) para processar os materiais.
 5.  **Forjar e Aprimorar:** Criar novas armas e armaduras para Lucy e usar essências para desbloquear habilidades para Nero.
 6.  **Repetir:** Acessar novas áreas, agora mais forte, para enfrentar desafios maiores e obter recompensas melhores.
 
@@ -28,8 +28,9 @@ O jogador seguirá um ciclo claro e recompensador, focado na sinergia entre comb
 ## 3. Personagens – Lucy & Nero
 
 **Título:** Entre Espadas e Garras
+**Alt:** Ainda Não Definido
 
-### 👤 Lucy – A Forjadora da Luz
+### 👤 Lucy – A Forjadora Rúnica
 
 #### Aparência
 
@@ -246,7 +247,7 @@ Nero evolui ao absorver **Essências Primevas**, encontradas em chefes ou locais
 
 O mundo de Lucy & Nero é um cenário de fantasia vibrante, inspirado em animes isekai, repleto de magia, cidades movimentadas e perigos desconhecidos. A vida de um aventureiro é central para a experiência, com uma **Guilda de Aventureiros** servindo como o principal ponto para obter **missões (quests)**, que vão desde a aniquilação de monstros até a escolta de mercadores.
 
--   **Hub Central:** A cidade de **Forja-Luz** serve como o principal hub do jogo, onde Lucy tem sua oficina e o jogador pode interagir com NPCs, aceitar missões e se preparar para as jornadas.
+-   **Hub Central:** A cidade de **Auria** serve como o principal hub do jogo, onde Lucy tem sua oficina e o jogador pode interagir com NPCs, aceitar missões e se preparar para as jornadas.
 -   **Biomas e Dungeons:** O mundo é dividido em grandes regiões distintas (florestas assombradas, ruínas de cristal, pântanos vulcânicos), cada uma com seus próprios inimigos, materiais e segredos. **Dungeons** perigosas, como cavernas infestadas de **goblins** ou ruínas guardadas por **golens**, são os principais locais para combate e coleta de recursos raros.
 -   **Estrutura dos Níveis:** Os níveis são desenhados à mão para garantir uma exploração significativa, mas podem conter elementos de aleatoriedade (localização de tesouros, grupos de inimigos, eventos do mundo) para manter o frescor a cada visita. A verticalidade é usada para criar arenas e pontos de vantagem, mas a câmera isométrica permanece clara.
 

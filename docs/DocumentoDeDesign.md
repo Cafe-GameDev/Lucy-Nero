@@ -14,7 +14,7 @@ O foco é em combate estratégico contra múltiplos inimigos, exploração de gr
 
 ---
 
-### 👤 Lucy – A Forjadora da Luz
+### 👤 Lucy – A Forjadora Rúnica
 
 #### Aparência
 
@@ -252,7 +252,7 @@ Nero evolui ao absorver **Essências Primevas**, encontradas em chefes ou locais
 
 O mundo de Lucy & Nero é um cenário de fantasia vibrante, inspirado em animes isekai, repleto de magia, cidades movimentadas e perigos desconhecidos. A vida de um aventureiro é central para a experiência, com uma **Guilda de Aventureiros** servindo como o principal ponto para obter **missões (quests)**, que vão desde a aniquilação de monstros até a escolta de mercadores.
 
--   **Hub Central:** A cidade de **Forja-Luz** serve como o principal hub do jogo, onde Lucy tem sua oficina e o jogador pode interagir com NPCs, aceitar missões e se preparar para as jornadas.
+-   **Hub Central:** A cidade de **Auria** serve como o principal hub do jogo, onde Lucy tem sua oficina e o jogador pode interagir com NPCs, aceitar missões e se preparar para as jornadas.
 -   **Biomas e Dungeons:** O mundo é dividido em grandes regiões distintas (florestas assombradas, ruínas de cristal, pântanos vulcânicos), cada uma com seus próprios inimigos, materiais e segredos. **Dungeons** perigosas, como cavernas infestadas de **goblins** ou ruínas guardadas por **golens**, são os principais locais para combate e coleta de recursos raros.
 -   **Estrutura dos Níveis:** Os níveis são desenhados à mão para garantir uma exploração significativa, mas podem conter elementos de aleatoriedade (localização de tesouros, grupos de inimigos, eventos do mundo) para manter o frescor a cada visita. A verticalidade é usada para criar arenas e pontos de vantagem, mas a câmera isométrica permanece clara.
 
@@ -295,7 +295,7 @@ A paisagem sonora de **Lucy & Nero** deve ser imersiva, dinâmica e satisfatóri
 
 - **Sistema Dinâmico:** A música se adaptará ao contexto. Haverá temas calmos e misteriosos para exploração que farão uma transição suave para temas de combate energéticos quando inimigos aparecerem.
 - **Temas Principais:**
-    - **Hub (Forja-Luz):** Um tema acolhedor e inspirador.
+    - **Hub (Auria):** Um tema acolhedor e inspirador.
     - **Biomas:** Cada região terá sua própria suíte musical.
     - **Combate:** Músicas com percussão forte e instrumentos de corda.
     - **Chefes:** Temas épicos e únicos para cada chefe.

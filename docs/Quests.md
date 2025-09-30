@@ -7,7 +7,7 @@ As missões são o principal motor de progressão da história e de obtenção d
 
 ### 1. Missões de Aniquilação
 - **Objetivo:** Derrotar um número específico de monstros ou um monstro chefe.
-- **Exemplo:** "Extermine 10 Goblins da Caverna ao norte de Forja-Luz."
+- **Exemplo:** "Extermine 10 Goblins da Caverna ao norte de Auria."
 
 ### 2. Missões de Coleta
 - **Objetivo:** Coletar e entregar uma certa quantidade de materiais.
@@ -15,7 +15,7 @@ As missões são o principal motor de progressão da história e de obtenção d
 
 ### 3. Missões de Escolta
 - **Objetivo:** Proteger um NPC ou uma caravana durante uma viagem de um ponto A para um ponto B.
-- **Exemplo:** "Escorte o mercador Valerius de Forja-Luz até a cidade vizinha de Porto Cristal."
+- **Exemplo:** "Escorte o mercador Valerius de Auria até a cidade vizinha de Porto Cristal."
 
 ### 4. Missões de Exploração
 - **Objetivo:** Mapear uma área desconhecida ou encontrar um local específico.

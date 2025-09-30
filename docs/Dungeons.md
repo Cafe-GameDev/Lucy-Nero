@@ -10,5 +10,5 @@ Dungeons são locais perigosos e repletos de monstros, mas também de grandes re
 
 ## Exemplo de Dungeon Inicial
 - **Nome:** Caverna dos Goblins
-- **Localização:** Próxima a Forja-Luz.
+- **Localização:** Próxima a Auria.
 - **Descrição:** Uma rede de cavernas que se tornou o covil de uma tribo de goblins que tem atacado viajantes. É uma das primeiras missões de aniquilação para novos aventureiros.

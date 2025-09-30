@@ -10,7 +10,7 @@ A paisagem sonora de **Lucy & Nero** deve ser imersiva, dinâmica e satisfatóri
 
 - **Sistema Dinâmico:** A música se adaptará ao contexto. Haverá temas calmos e misteriosos para exploração que farão uma transição suave para temas de combate energéticos quando inimigos aparecerem.
 - **Temas Principais:**
-    - **Hub (Forja-Luz):** Um tema acolhedor e inspirador, com sons de marteladas rítmicas, metalurgia e uma melodia suave, representando um lugar de segurança e progresso.
+    - **Hub (Auria):** Um tema acolhedor e inspirador, com sons de marteladas rítmicas, metalurgia e uma melodia suave, representando um lugar de segurança e progresso.
     - **Biomas:** Cada região terá sua própria suíte musical que reflete sua atmosfera (melancólica na floresta, tensa nos pântanos, etc.).
     - **Combate:** Músicas com percussão forte e instrumentos de corda, com variações de intensidade para combates normais e de elite.
     - **Chefes:** Temas épicos e únicos para cada chefe, com coros e orquestração grandiosa para aumentar a tensão.
