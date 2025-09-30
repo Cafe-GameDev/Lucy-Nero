@@ -1,0 +1,26 @@
+# Árvore de Comportamento da IA (Behavior Tree)
+
+Este diagrama modela a tomada de decisão de um inimigo usando o padrão Behavior Tree. A execução começa da raiz e tenta cada ramo em ordem de prioridade (da esquerda para a direita).
+
+```mermaid
+graph TD
+    subgraph Legenda
+        direction LR
+        selector((Selector)) -.-> executa_filhos_ate_sucesso[Executa filhos até um SUcesso]
+        sequence((Sequence)) -.-> executa_filhos_ate_falha[Executa filhos até uma Falha]
+    end
+
+    Root(Root - Selector) --> FleeSequence(Flee - Sequence);
+    Root --> AttackSequence(Attack - Sequence);
+    Root --> PatrolAction[Patrol - Action];
+
+    FleeSequence --> IsHealthLow{Condição: Vida Baixa?};
+    IsHealthLow -- Sim --> FleeAction[Ação: Fugir do Jogador];
+
+    AttackSequence --> IsPlayerVisible{Condição: Jogador Visível?};
+    IsPlayerVisible -- Sim --> IsPlayerInAttackRange{Condição: Jogador em Alcance?};
+    IsPlayerInAttackRange -- Sim --> AttackAction[Ação: Atacar o Jogador];
+
+    style selector fill:#f9f,stroke:#333,stroke-width:2px
+    style sequence fill:#ccf,stroke:#333,stroke-width:2px
+```

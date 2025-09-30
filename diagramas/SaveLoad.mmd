@@ -1,0 +1,28 @@
+# Fluxograma de Salvar/Carregar Jogo (Save/Load)
+
+Este fluxograma detalha os processos de salvar e carregar o estado do jogo.
+
+```mermaid
+graph TD
+    subgraph Processo de Salvar
+        A[Inicia Salvamento (ex: jogador clica em 'Salvar')] --> B[Coleta todos os dados relevantes];
+        B -- Posição do Jogador --> C(Dados);
+        B -- Inventário --> C;
+        B -- Status de Quests --> C;
+        C --> D[Serializa os dados (ex: para um arquivo JSON)];
+        D --> E[Escreve os dados no disco];
+        E --> F[Confirmação de Jogo Salvo];
+    end
+
+    subgraph Processo de Carregar
+        G[Inicia Carregamento (ex: jogador clica em 'Carregar')] --> H[Lê o arquivo de save do disco];
+        H --> I{O arquivo é válido?};
+        I -- Não --> J[Erro ao Carregar];
+        I -- Sim --> K[Deserializa os dados];
+        K --> L[Aplica os dados ao jogo];
+        L -- Restaura Posição do Jogador --> M(Estado do Jogo Restaurado);
+        L -- Preenche Inventário --> M;
+        L -- Atualiza Status das Quests --> M;
+        M --> N[Inicia o jogo no estado carregado];
+    end
+```
