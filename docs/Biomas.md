@@ -1,8 +1,8 @@
-# 🌍 Biomas do Mundo
+# Biomas do Mundo
 
 ---
 
-## 🌳 Floresta de Aeloria (*Forest of Aeloria*)
+## Floresta de Aeloria (*Forest of Aeloria*)
 
 Um bosque ancestral onde o sol raramente toca o solo devido ao dossel espesso. As árvores são tão antigas que carregam runas naturais em sua casca.
 
@@ -30,7 +30,7 @@ Um bosque ancestral onde o sol raramente toca o solo devido ao dossel espesso. A
 
 ---
 
-## 🏜️ Deserto de Thar’Kaz (*Desert of Thar’Kaz*)
+## Deserto de Thar’Kaz (*Desert of Thar’Kaz*)
 
 Um mar dourado de dunas onde o calor distorce a visão. Tempestades de areia revelam ruínas enterradas de civilizações antigas.
 
@@ -57,7 +57,7 @@ Um mar dourado de dunas onde o calor distorce a visão. Tempestades de areia rev
 
 ---
 
-## 🏔️ Montanhas de Drak’Thal (*Mountains of Drak’Thal*)
+## Montanhas de Drak’Thal (*Mountains of Drak’Thal*)
 
 Picos eternamente nevados, onde ventos cortantes soam como uivos. Ruínas dracônicas repousam escondidas nas encostas.
 
@@ -85,7 +85,7 @@ Picos eternamente nevados, onde ventos cortantes soam como uivos. Ruínas dracô
 
 ---
 
-## 🌋 Vulcão de Pyrrhos (*Volcano of Pyrrhos*)
+## Vulcão de Pyrrhos (*Volcano of Pyrrhos*)
 
 Uma montanha viva, cuspindo fogo e lava, com cavernas repletas de cristais ardentes.
 
@@ -111,7 +111,7 @@ Uma montanha viva, cuspindo fogo e lava, com cavernas repletas de cristais arden
 
 ---
 
-## 🌊 Arquipélago de Selaris (*Islands of Selaris*)
+## Arquipélago de Selaris (*Islands of Selaris*)
 
 Ilhas tropicais mágicas, cercadas por mares cristalinos e repletas de vida colorida.
 
@@ -137,7 +137,7 @@ Ilhas tropicais mágicas, cercadas por mares cristalinos e repletas de vida colo
 
 ---
 
-## 🌌 Pântanos de Nox’Thera (*Swamps of Nox’Thera*)
+## Pântanos de Nox’Thera (*Swamps of Nox’Thera*)
 
 Região enevoada, impregnada de necromancia e vida corrompida.
 
@@ -164,7 +164,7 @@ Região enevoada, impregnada de necromancia e vida corrompida.
 
 ---
 
-## 🌠 Campos de Astralis (*Astralis Fields*)
+## Campos de Astralis (*Astralis Fields*)
 
 Planícies abertas sob céus mágicos, onde estrelas parecem tocar o solo.
 
@@ -187,5 +187,3 @@ Planícies abertas sob céus mágicos, onde estrelas parecem tocar o solo.
 
 * Região de alto nível, spawns dinâmicos de eventos celestiais.
 * Recurso principal: materiais de encantamentos cósmicos.
-
----

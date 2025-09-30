@@ -1,4 +1,4 @@
-# 📜 Documento de Design – Lucy & Nero (ARPG Isométrico 3D)
+# Documento de Design – Lucy & Nero (ARPG Isométrico 3D)
 
 ## 1. Visão Geral
 

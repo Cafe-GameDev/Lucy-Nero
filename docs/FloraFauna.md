@@ -1,10 +1,10 @@
-# 🌿 Flora e Fauna do Mundo
+# Flora e Fauna do Mundo
 
 *(versão expandida para ARPG de ação/fantasia)*
 
 ---
 
-## 🌱 Flora
+## Flora
 
 Plantas possuem **níveis de raridade** e geralmente podem ser usadas em:
 
@@ -13,7 +13,7 @@ Plantas possuem **níveis de raridade** e geralmente podem ser usadas em:
 * **Culinária** (buffs temporários),
 * **Runas** (upgrade mágico).
 
-### 🌑 Comuns
+### Comuns
 
 Facilmente encontradas, mas ainda úteis.
 
@@ -33,7 +33,7 @@ Facilmente encontradas, mas ainda úteis.
 
 ---
 
-### 🔥 Raras
+### Raras
 
 Mais difíceis de achar, exigem exploração ou dungeons.
 
@@ -53,7 +53,7 @@ Mais difíceis de achar, exigem exploração ou dungeons.
 
 ---
 
-### 🌟 Épicas
+### Épicas
 
 #### Carvalho Ancião
 
@@ -71,7 +71,7 @@ Mais difíceis de achar, exigem exploração ou dungeons.
 
 ---
 
-### 🪐 Lendárias
+### Lendárias
 
 #### Rosa Estelar *(nova)*
 
@@ -82,7 +82,7 @@ Mais difíceis de achar, exigem exploração ou dungeons.
 
 ---
 
-## 🐾 Fauna
+## Fauna
 
 Animais são divididos em **Comuns**, **Raros**, **Épicos** e **Lendários**.
 Cada criatura tem **comportamento único**, **drop específico** e pode inspirar **quests temáticas**.
@@ -113,7 +113,7 @@ Cada criatura tem **comportamento único**, **drop específico** e pode inspirar
 
 ---
 
-### 🕷️ Raros
+### Raros
 
 #### Aranhas Gigantes
 
@@ -135,7 +135,7 @@ Cada criatura tem **comportamento único**, **drop específico** e pode inspirar
 
 ---
 
-### 🐉 Épicos
+### Épicos
 
 #### Golems
 
@@ -152,7 +152,7 @@ Cada criatura tem **comportamento único**, **drop específico** e pode inspirar
 
 ---
 
-### ☠️ Lendárias
+### Lendárias
 
 #### Fenrir
 

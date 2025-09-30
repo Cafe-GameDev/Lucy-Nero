@@ -1,4 +1,4 @@
-# 💻 Documento de Design Técnico (TDD) – Lucy & Nero
+# Documento de Design Técnico (TDD) – Lucy & Nero
 
 ## 1. Visão Geral e Motor
 

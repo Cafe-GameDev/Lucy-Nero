@@ -1,4 +1,4 @@
-# 🏛️ Guildas do Mundo de Lucy & Nero
+# Guildas do Mundo de Lucy & Nero
 
 ## Visão Geral
 

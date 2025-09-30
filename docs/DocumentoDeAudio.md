@@ -1,4 +1,4 @@
-# 🎧 Documento de Direção de Áudio – Lucy & Nero
+# Documento de Direção de Áudio – Lucy & Nero
 
 ## 1. Visão Geral
 

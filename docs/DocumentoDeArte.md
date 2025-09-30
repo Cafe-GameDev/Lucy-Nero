@@ -1,4 +1,4 @@
-# 🎨 Documento de Direção de Arte – Lucy & Nero (Isométrico 3D)
+# Documento de Direção de Arte – Lucy & Nero (Isométrico 3D)
 
 ## 1. Visão Geral
 

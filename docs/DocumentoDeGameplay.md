@@ -1,4 +1,4 @@
-# 🎮 Documento de Gameplay – Lucy & Nero
+# Documento de Gameplay – Lucy & Nero
 
 ## 1. Ciclo de Gameplay (Core Loop)
 
