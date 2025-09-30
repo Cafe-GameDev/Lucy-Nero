@@ -14,6 +14,13 @@ A paisagem sonora de **Lucy & Nero** deve ser imersiva, dinâmica e satisfatóri
     - **Biomas:** Cada região terá sua própria suíte musical que reflete sua atmosfera (melancólica na floresta, tensa nos pântanos, etc.).
     - **Combate:** Músicas com percussão forte e instrumentos de corda, com variações de intensidade para combates normais e de elite.
     - **Chefes:** Temas épicos e únicos para cada chefe, com coros e orquestração grandiosa para aumentar a tensão.
+    - **Instrumentação por Bioma:**
+        - **Florestas:** Flautas, cordas suaves, harpas e percussão orgânica.
+        - **Deserto:** Instrumentos de sopro do Oriente Médio, percussão seca e cordas com vibrato.
+        - **Montanhas:** Metais, cordas graves, coros épicos e percussão forte.
+        - **Pântanos:** Sons dissonantes, cordas arrastadas, percussão abafada e elementos eletrônicos sutis.
+        - **Arquipélago:** Ukuleles, flautas de bambu, percussão leve e sons aquáticos.
+        - **Campos Astrais:** Sintetizadores etéreos, cordas celestiais e coros angelicais.
 
 ---
 
@@ -39,6 +46,11 @@ A clareza e o impacto dos efeitos sonoros são cruciais para o feedback do jogad
 - **Ambiente:** Sons de fundo para cada bioma (vento na floresta, borbulhar da lava, etc.) para criar imersão.
 - **UI:** Sons minimalistas, táteis e não intrusivos para navegação em menus, coleta de itens e notificações.
 
+### SFX Prioritários (MVP)
+- **Feedback de Combate:** Golpes de Lucy (acerto/erro), habilidades de Nero (ativação/impacto), esquivas, parries.
+- **Interações Essenciais:** Coleta de itens, abertura de menus, notificações de missão.
+- **Alertas de Perigo:** Sons de inimigos se aproximando, armadilhas ativadas, status negativos.
+
 ---
 
 ## 4. Vozes
@@ -46,3 +58,12 @@ A clareza e o impacto dos efeitos sonoros são cruciais para o feedback do jogad
 - **Escopo Inicial:** Para focar no gameplay, as vozes serão limitadas a grunhidos de esforço, exclamações de combate e sons de dor para Lucy e os inimigos.
 - **Nero:** Terá vocalizações de criatura, variando com sua forma, mas não falará.
 - **Escopo Futuro:** Diálogos completos para NPCs e momentos chave da história podem ser adicionados posteriormente.
+
+---
+
+## 5. Sistema de Áudio (Implementação Técnica)
+
+- **Godot Engine:** Utilização de `AudioStreamPlayer` para reprodução de sons e músicas.
+- **Grupos de Áudio:** Organização de sons em grupos (Música, SFX, UI, Vozes) para controle de volume e mixagem.
+- **Mixagem Dinâmica:** Implementação de ducking e atenuação de áudio baseada na distância e eventos do jogo.
+- **Spatial Audio:** Uso de `AudioStreamPlayer3D` para SFX posicionais no ambiente 3D.

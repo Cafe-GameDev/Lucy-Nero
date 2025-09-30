@@ -13,7 +13,11 @@ Este documento detalha as principais dungeons do mundo, seus perigos, lore e as 
     - **Armadilhas Rústicas:** Armadilhas de corda que podem prender o jogador e alertar goblins próximos.
     - **Emboscadas:** Goblins podem se esconder em frestas nas paredes para atacar de surpresa.
 - **Chefe:** **"Rei" Grolnok, o Acumulador.** Um goblin obeso e lento que luta com um porrete pesado e arremessa sacos de lixo e itens roubados nos jogadores.
-- **Drop Único / Recurso Principal:** **Ferro de Baixa Qualidade**, itens roubados de caravanas (alvo de missões de recuperação), e a **Chave Enferrujada de Grolnok**, que abre um baú secreto na caverna.
+- **Drop Único / Recurso Principal:** **Ferro de Baixa Qualidade** (material básico para forja de armas e armaduras iniciais), itens roubados de caravanas (alvo de missões de recuperação para a Guilda dos Mercadores), e a **Chave Enferrujada de Grolnok**, que abre um baú secreto na caverna contendo um projeto de arma simples ou uma runa de agilidade.
+
+- **Mapas Esquemáticos e Objetivos Secundários:**
+    - **Mapa Esquemático:** Um mapa simples da caverna, mostrando a entrada, túneis principais e a câmara do chefe.
+    - **Objetivos Secundários:** Encontrar e resgatar um mercador capturado, desativar todas as armadilhas rústicas, coletar um número específico de cogumelos raros.
 
 ---
 
@@ -26,7 +30,11 @@ Este documento detalha as principais dungeons do mundo, seus perigos, lore e as 
     - **Escuridão Mágica:** Certas áreas são tão escuras que exigem uma fonte de luz (magia de Lucy, tochas) para serem navegadas. Inimigos ganham bônus na escuridão.
     - **Puzzles Lunares:** Puzzles simples baseados em alinhar símbolos lunares para abrir portas secretas.
 - **Chefe:** **O Guardião Esquecido.** Um espectro élfico de um antigo mestre de armas do templo. Ele alterna entre uma postura de arqueiro e espadachim, e pode se teleportar entre as sombras.
-- **Drop Único / Recurso Principal:** **Seda de Mana** (das aranhas), um material raro para vestes mágicas, **Essências Primevas** fracas (dos espectros) e a possibilidade de encontrar um **Projeto de Arco Élfico Antigo**.
+- **Drop Único / Recurso Principal:** **Seda de Mana** (material raro para vestes mágicas e encantamentos de agilidade), **Essências Primevas** fracas (dos espectros, usadas para aprimorar habilidades de Nero), e a possibilidade de encontrar um **Projeto de Arco Élfico Antigo** ou uma **Runa de Ilusão**.
+
+- **Mapas Esquemáticos e Objetivos Secundários:**
+    - **Mapa Esquemático:** Um mapa detalhado do templo, mostrando as câmaras principais, passagens secretas e a localização dos puzzles lunares.
+    - **Objetivos Secundários:** Ativar todos os altares lunares, encontrar e ler os diários de um antigo guardião élfico, purificar todas as fontes de corrupção mágica.
 
 ---
 
@@ -39,7 +47,11 @@ Este documento detalha as principais dungeons do mundo, seus perigos, lore e as 
     - **Frio Cortante:** O jogador sofre dano de gelo contínuo em áreas sem fontes de calor (braseiros antigos que podem ser acesos).
     - **Terreno Instável:** Certas áreas podem desmoronar, bloqueando caminhos ou revelando novos túneis.
 - **Chefe:** **O Supervisor Renegado.** Um Golem de Mineração massivo, modificado com cristais de gelo. Seus ataques criam barreiras de gelo e causam lentidão em área.
-- **Drop Único / Recurso Principal:** **Cristal de Gelo Rúnico**, um material de forja de alto nível, e **Núcleos de Golem**, usados pela Guilda dos Artesãos para criar autômatos.
+- **Drop Único / Recurso Principal:** **Cristal de Gelo Rúnico** (material de forja de alto nível para armas e armaduras com propriedades de gelo), e **Núcleos de Golem** (usados pela Guilda dos Artesãos para criar autômatos ou para forjar itens com alta defesa).
+
+- **Mapas Esquemáticos e Objetivos Secundários:**
+    - **Mapa Esquemático:** Um mapa complexo dos túneis, mostrando veios de minério, áreas instáveis e a localização do Supervisor Renegado.
+    - **Objetivos Secundários:** Reativar todos os braseiros para aquecer a mina, resgatar mineradores anões perdidos, encontrar um veio de minério lendário.
 
 ---
 
@@ -52,4 +64,8 @@ Este documento detalha as principais dungeons do mundo, seus perigos, lore e as 
     - **Eventos Astrais Dinâmicos:** O tipo de evento astral (ex: Chuva de Meteoros de Fogo, Aurora Congelante) determina os tipos de inimigos e os bônus/penalidades elementais na área.
     - **Coleta Cronometrada:** Alguns materiais só podem ser coletados durante eventos específicos, adicionando um elemento de urgência.
 - **Chefe:** Não há um chefe fixo. Em vez disso, durante eventos astrais de grande magnitude, um **Avatar Astral** pode se manifestar – uma besta colossal feita de pura energia celestial, cujo tipo (fogo, gelo, raio) depende do evento.
-- **Drop Único / Recurso Principal:** **Pó de Estrela**, um reagente alquímico volátil, e **Fragmentos Astrais**, usados para forjar armas com propriedades cósmicas e aprimorar as habilidades de Nero.
+- **Drop Único / Recurso Principal:** **Pó de Estrela** (um reagente alquímico volátil para poções de buff temporário), e **Fragmentos Astrais** (usados para forjar armas com propriedades cósmicas e aprimorar as habilidades de Nero, especialmente as relacionadas a eventos celestiais).
+
+- **Mapas Esquemáticos e Objetivos Secundários:**
+    - **Mapa Esquemático:** Um mapa da arena, mostrando os pontos de energia astral e as áreas de manifestação de inimigos.
+    - **Objetivos Secundários:** Ativar todos os pilares astrais, coletar amostras de flora rara durante um evento específico, sobreviver a uma onda de manifestações astrais.

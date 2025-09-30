@@ -202,6 +202,7 @@ O combate de Lucy é direto e baseado em armas. Ela não lança feitiços, mas i
     -   **Habilidades de Arma:** 2-3 habilidades ativas por arma, que consomem um recurso de "Stamina" ou têm cooldowns curtos. (Ex: Uma investida com a lança, um tiro perfurante com o arco).
 -   **Encantamentos Rúnicos:** Lucy pode gastar **Mana** para ativar temporariamente as runas de sua arma, adicionando efeitos elementais (fogo, gelo, raio) ou propriedades especiais (roubo de vida, dano em área). Isso funciona como um "buff" temporário que o jogador deve gerenciar.
 -   **Esquiva:** A principal ferramenta de defesa. Uma esquiva rápida e com curta invencibilidade, essencial para reposicionamento.
+    - **Fluxogramas de Combate:** Serão desenvolvidos fluxogramas para visualizar as sequências de ataque, combos e interações de habilidades de Lucy, facilitando o balanceamento e a implementação.
 
 ### Nero – O Guardião Tático
 
@@ -251,9 +252,10 @@ A evolução de Lucy é baseada em um sistema de "Progressão Cruzada", onde sua
     -   O **Tipo de Arma** "Clava" em seus conhecimentos de forja.
 
 -   **4. Sistema de Runas:** As runas, que podem ser encontradas ou criadas, são o elo final que personaliza o equipamento. Elas são encaixadas nas armas e armaduras para conceder efeitos mágicos e vêm em diferentes categorias:
-    -   **Runas Elementais:** Adicionam dano de Fogo, Gelo, etc.
-    -   **Runas de Habilidade:** Modificam uma habilidade de arma (Ex: "Sua investida com a lança agora deixa um rastro de fogo").
-    -   **Runas Passivas:** Concedem bônus gerais (Ex: "+10% de velocidade de ataque", "+5% de chance de esquiva").
+    -   **Runas Elementais:** Adicionam dano de Fogo, Gelo, Eletricidade, Vento, Água ou Sombrio.
+    -   **Runas de Habilidade:** Modificam uma habilidade de arma (Ex: "Sua investida com a lança agora deixa um rastro de fogo", "Seu tiro com arco perfura armadura").
+    -   **Runas Passivas:** Concedem bônus gerais (Ex: "+10% de velocidade de ataque", "+5% de chance de esquiva", "Regeneração de Mana aprimorada").
+    -   **Runas de Utilidade:** Oferecem efeitos não-combate (Ex: "Aumenta a chance de encontrar materiais raros", "Reduz o custo de forja").
 
 Este sistema cria um ciclo de gameplay onde o combate aprimora a personagem e sua maestria, a exploração libera novos potenciais de forja, e a forja cria as ferramentas para que ela possa explorar e combater desafios ainda maiores.
 
@@ -374,3 +376,5 @@ A paisagem sonora de **Lucy & Nero** deve ser imersiva, dinâmica e satisfatóri
 ## 11. Narrativa
 
 *(A ser detalhado em um documento futuro).*
+
+**Gancho Inicial:** A jornada de Lucy e Nero começa quando um evento misterioso (talvez um desequilíbrio elemental ou uma antiga maldição) ameaça a Floresta de Aeloria, sua terra natal. Lucy, uma jovem forjadora rúnica, e Nero, seu guardião metamorfo, são os únicos capazes de sentir a perturbação. Eles devem desvendar a origem dessa ameaça, o que os levará a explorar o mundo, forjar alianças e descobrir segredos antigos que conectam seus destinos ao equilíbrio do mundo.

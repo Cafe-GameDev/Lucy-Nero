@@ -18,12 +18,17 @@ A mais proeminente e acessível das guildas, a **Guilda de Aventureiros** é o c
     *   **Rank C-B (Prata):** Missões que exigem habilidade de combate comprovada. Incluem a aniquilação de monstros perigosos (goblins, lobos-da-sombra), exploração de dungeons conhecidas e proteção de nobres menores.
     *   **Rank A-S (Ouro e Platina):** Reservadas para a elite. Envolvem caça a bestas lendárias, exploração de territórios desconhecidos, defesa de cidades contra hordas e missões que podem impactar a geopolítica entre reinos.
 *   **Sistema de Ranking:** A progressão é baseada no número e na dificuldade das missões concluídas com sucesso. Subir de rank não só libera missões mais lucrativas, mas também concede respeito, acesso a áreas restritas da guilda e melhores equipamentos.
+    *   **Benefícios por Rank:** Descontos em lojas da guilda, acesso a treinadores avançados, permissão para aceitar missões de alto risco/recompensa.
 
 ### Serviços da Guilda
 
 *   **Balcão de Informações:** Um serviço vital que vende mapas, bestiários com pontos fracos de monstros e rumores sobre dungeons recém-descobertas.
 *   **Treinamento Básico:** Instrutores oferecem aulas sobre sobrevivência, táticas de combate em grupo e primeiros socorros.
 *   **Conexões:** A guilda atua como intermediária, conectando aventureiros a outras guildas para missões especializadas.
+
+### NPCs Chave da Guilda de Aventureiros
+*   **Mestre Elara:** A líder da filial de Auria, responsável por atribuir missões e gerenciar os ranks dos aventureiros. Uma figura experiente e pragmática.
+*   **Instrutor Kael:** Um veterano de combate que oferece treinamento e dicas sobre táticas de luta.
 
 ---
 
@@ -36,6 +41,15 @@ Uma organização poderosa e influente que controla as principais rotas comercia
 *   **Foco:** Transporte seguro de mercadorias, controle de preços de itens exóticos e financiamento de expedições.
 *   **Relação com Aventureiros:** É a principal cliente da Guilda de Aventureiros, contratando escoltas para suas caravanas que transportam desde grãos até materiais de forja raríssimos. Falhar em uma missão de escolta para eles pode manchar permanentemente a reputação de um aventureiro.
 *   **Hierarquia:** Liderada por um conselho de magnatas, a guilda opera com base em contratos, influência e, ocasionalmente, chantagem.
+
+### Benefícios de Reputação com a Guilda dos Mercadores
+*   **Acesso a Rotas Exclusivas:** Permissão para usar rotas comerciais mais seguras ou lucrativas.
+*   **Descontos em Bens Raros:** Acesso a itens exóticos e materiais de forja raros a preços reduzidos.
+*   **Missões de Alto Lucro:** Contratos de escolta e transporte com recompensas financeiras elevadas.
+
+### NPCs Chave da Guilda dos Mercadores
+*   **Mestre Silas:** Um dos magnatas do conselho, conhecido por sua astúcia e por oferecer missões de alto risco/recompensa.
+*   **Gerente de Armazém Elara:** Responsável pela logística e por contratar aventureiros para tarefas de transporte e recuperação de mercadorias.
 
 ---
 
@@ -51,6 +65,15 @@ Menos uma "guilda" e mais um sindicato rigoroso de ferreiros, alquimistas e enca
     *   **Obter Materiais Raros:** A guilda controla o acesso a materiais lendários, que só são vendidos a membros de alta patente ou grande prestígio.
     *   **Participar de Torneios:** Competir em torneios de forja para ganhar fama e projetos de armas exclusivos.
 
+### Benefícios de Reputação com a Guilda dos Artesãos
+*   **Acesso a Projetos Lendários:** Desbloqueio de receitas de forja de alto nível e runas raras.
+*   **Materiais Exclusivos:** Compra de materiais de forja que não estão disponíveis em nenhum outro lugar.
+*   **Mentoria:** Acesso a mestres artesãos que podem ensinar técnicas avançadas de forja e encantamento.
+
+### NPCs Chave da Guilda dos Artesãos
+*   **Mestre Borin:** Um anão lendário, o chefe do Sindicato da Forja em Khaz'Modan. Inicialmente cético, mas pode se tornar um mentor para Lucy.
+*   **Alquimista Chefe Lyra:** Uma elfa que lidera a seção de alquimia da guilda, oferecendo missões de coleta de ingredientes raros e ensinando receitas avançadas.
+
 ---
 
 ## 4. Guilda dos Exploradores (A Liga Cartográfica)
@@ -61,6 +84,15 @@ Um grupo de estudiosos, desbravadores e caçadores de tesouros obcecados por des
 
 *   **Foco:** Mapear o desconhecido, catalogar flora e fauna mágicas, e redescobrir ruínas de civilizações antigas.
 *   **Relação com Aventureiros:** Contratam aventureiros como "músculos" para suas expedições a locais perigosos. Em troca das descobertas (mapas, localizações de dungeons), eles pagam generosamente e compartilham informações valiosas que não estão disponíveis em nenhum outro lugar.
+
+### Benefícios de Reputação com a Guilda dos Exploradores
+*   **Mapas Detalhados:** Acesso a mapas de áreas inexploradas, com marcações de tesouros e perigos.
+*   **Informações sobre Lore:** Descoberta de segredos antigos, ruínas e a história do mundo.
+*   **Equipamento de Exploração:** Acesso a itens que auxiliam na exploração, como bússolas mágicas e lanternas de longa duração.
+
+### NPCs Chave da Guilda dos Exploradores
+*   **Cartógrafo Chefe Finn:** Um humano excêntrico e apaixonado por mapas, que oferece missões de mapeamento e descoberta de ruínas.
+*   **Arqueóloga Dra. Anya:** Uma elfa que busca desvendar os segredos dos Antigos, oferecendo missões de recuperação de artefatos e decifração de enigmas.
 
 ---
 

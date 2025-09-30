@@ -197,7 +197,16 @@ Planícies abertas sob céus mágicos, onde estrelas parecem tocar o solo.
 
 * **Behemoth, o Colosso da Terra**.
 
-**Gameplay:**
+*   **Gameplay:**
+    *   Região de alto nível, spawns dinâmicos de eventos celestiais.
+    *   Recurso principal: materiais de encantamentos cósmicos.
 
-* Região de alto nível, spawns dinâmicos de eventos celestiais.
-* Recurso principal: materiais de encantamentos cósmicos.
+---
+
+## Interconexão e Transição entre Biomas
+
+O mundo de Lucy & Nero é um mosaico de biomas distintos, e a transição entre eles é um elemento crucial para a exploração e a imersão. As fronteiras entre biomas raramente são abruptas; em vez disso, elas se manifestam como zonas de transição onde a flora, fauna e até mesmo o clima de duas regiões se misturam.
+
+*   **Zonas de Transição:** Estas áreas intermediárias podem apresentar desafios únicos, combinando elementos de ambos os biomas adjacentes. Por exemplo, a transição entre a Floresta de Aeloria e os Campos de Astralis pode ter clareiras com Erva Lunar e Lobos da Sombra, mas também com a presença ocasional de Slimes Estelares.
+*   **Pontos de Referência:** Marcos geográficos como rios, cadeias de montanhas ou ruínas antigas frequentemente servem como divisores naturais ou pontos de passagem entre biomas.
+*   **Mapas Conceituais:** Para garantir uma progressão lógica e visualmente coesa, serão desenvolvidos mapas conceituais detalhados que ilustram a disposição geográfica dos biomas, suas zonas de transição e os principais pontos de interesse. Estes mapas servirão como guia para o design de níveis e a jornada do jogador.

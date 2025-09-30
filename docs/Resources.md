@@ -168,3 +168,16 @@ Recursos que definem a progressão de atributos.
     *   **Stats per Level:** `{1: {...}, 2: {...}, 3: {...}, 4: {...}, 5: {...}}` (Detalhes omitidos para brevidade)
 *   **File:** `godot/data/StatProgressions/NeroStatProgression.tres`
     *   **Stats per Level:** `{1: {...}, 2: {...}, 3: {...}}` (Detalhes omitidos para brevidade)
+
+---
+
+## Considerações Adicionais para Recursos
+
+### Diagrama de Classes
+-   Será desenvolvido um diagrama de classes UML simples para visualizar as relações entre os diferentes recursos (ex: `CharacterData` referenciando `ExpTableData`, `StatProgressionData`, `InventoryData`), facilitando a compreensão da arquitetura de dados.
+
+### Validação de Dados
+-   Serão implementados scripts de validação para garantir a integridade e consistência dos dados nos arquivos `.tres`, prevenindo erros e facilitando o balanceamento do jogo.
+
+### Ferramentas de Editor Personalizadas
+-   Para otimizar o fluxo de trabalho dos designers de jogo, serão desenvolvidas ferramentas personalizadas no editor Godot que simplifiquem a criação e edição de recursos complexos, como árvores de habilidades e tabelas de loot.

@@ -29,7 +29,10 @@ Visual inspirado em anime, com traços detalhados, expressivos e dinâmicos, enf
     - Cinto com poções, ferramentas e itens de forja.
     - Capa curta com runas defensivas (removível).
 
-### Armas Principais
+### Personalidade e História
+Lucy é determinada, prática e um tanto teimosa, com um forte senso de justiça. Cresceu em uma pequena vila na Floresta de Aeloria, onde aprendeu a forjar com seu pai. Desde cedo, demonstrou uma afinidade incomum com runas e a capacidade de imbuir magia em metais. Seu encontro com Nero, um guardião metamorfo, selou um pacto antigo, ligando seus destinos. Ela é protetora com Nero e com aqueles que considera sua família, mas pode ser desconfiada com estranhos. Sua jornada a levará a amadurecer, aprendendo a confiar em outros e a liderar.
+
+#### Armas Principais
 
 - **Katana:** Lâmina curva com runas gravadas, que brilham conforme o elemento imbuído.
 - **Arco:** Estrutura leve, decorada com runas que ativam efeitos mágicos; flechas podem ser encantadas.
@@ -132,7 +135,10 @@ Design inspirado em anime, combinando expressividade felina com dinamismo nas me
 
 - Forma espiritual/metafísica. Nero se funde à sombra de Lucy.
 - **Camuflagem Total:** Permanece invisível no ambiente.
-- **Instinto Sombrio:** Pode emergir da sombra de Lucy instantaneamente, seja para interceptar um ataque ou golpear um inimigo pelas costas.
+    - **Instinto Sombrio:** Pode emergir da sombra de Lucy instantaneamente, seja para interceptar um ataque ou golpear um inimigo pelas costas.
+
+### Personalidade e História
+Nero é um ser enigmático e leal, com uma inteligência aguçada e instintos primordiais. Sua origem é envolta em mistério, sendo um dos últimos de sua espécie, guardiões metamorfos ligados a linhagens específicas. Ele é protetor com Lucy, agindo como seu escudo e sombra. Embora não fale, sua comunicação é feita através de olhares, rosnados e ações. Sua personalidade é uma mistura de ferocidade selvagem e carinho profundo por Lucy. Ao longo da jornada, ele aprenderá a confiar mais nos outros e a usar suas formas de maneiras cada vez mais criativas.
 
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
@@ -149,9 +155,7 @@ Design inspirado em anime, combinando expressividade felina com dinamismo nas me
   </tr>
 </table>
 
-
 ### Classes
-
 *   #### **Classe Principal: Ladino / Assassino**
     *   Define seu papel de combate primário, focado em dano alto, furtividade e ataques rápidos (especialmente na Forma Gato).
 
@@ -165,3 +169,4 @@ Design inspirado em anime, combinando expressividade felina com dinamismo nas me
 
 - Lucy pode imbuir runas em armas ou equipamentos de Nero, permitindo ataques sincronizados.
 - O vínculo entre os dois faz com que Nero atue como extensão da própria Lucy, seja como montaria, suporte aéreo, sombra defensiva ou aliado em combate direto.
+- **Natureza do Vínculo:** Mais do que uma simples parceria, o vínculo entre Lucy e Nero é uma conexão mística e emocional profunda. Eles compartilham uma parte de sua essência, permitindo que Lucy sinta a presença de Nero e vice-versa, e que suas magias se entrelacem. Este vínculo se fortalece com o tempo e as experiências compartilhadas, desbloqueando novas habilidades e sinergias.

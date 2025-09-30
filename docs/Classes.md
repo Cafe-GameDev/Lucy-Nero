@@ -12,6 +12,9 @@ Classes que confiam na força, resistência e maestria de armas para lutar na li
 
 ### Guerreiro
 Mestres de armas versáteis, capazes de usar uma vasta gama de equipamentos. São a espinha dorsal de qualquer grupo de batalha, equilibrando ataque e defesa para se adaptar a qualquer situação.
+*   **Habilidades Típicas:** Investida (avança e atordoa), Golpe Poderoso (dano massivo), Postura Defensiva (aumenta defesa).
+*   **Progressão:** Foca em desbloquear maestria com diferentes tipos de armas e aprimorar habilidades de combate corpo a corpo.
+*   **Interação:** Excelente linha de frente, protegendo aliados e controlando o campo de batalha.
 
 ### Bárbaro
 Guerreiros tribais que canalizam fúria selvagem em combate. Desprezam armaduras pesadas em favor de ataques devastadores e uma resistência física impressionante, muitas vezes ignorando a dor de seus ferimentos.
@@ -45,6 +48,9 @@ Indivíduos com a capacidade de sentir e moldar a mana do mundo para criar efeit
 
 ### Mago Branco
 Conjuradores focados na magia de **suporte e preservação**. Suas habilidades incluem curar ferimentos, criar barreiras protetoras, purificar maldições e conceder bênçãos (buffs) que fortalecem seus aliados.
+*   **Habilidades Típicas:** Cura Menor (restaura vida), Escudo de Luz (cria barreira), Purificar (remove status negativos).
+*   **Progressão:** Foca em aumentar a eficácia das curas, a duração dos buffs e a resistência a efeitos negativos.
+*   **Interação:** Essencial para a sobrevivência do grupo, mantendo aliados saudáveis e protegidos.
 
 ### Mago Negro
 Conjuradores focados na magia de **destruição e entropia**. Dominam os elementos para causar dano massivo, lançam maldições que enfraquecem os inimigos (debuffs) e manipulam as forças da vida e da morte para fins ofensivos.
@@ -83,6 +89,9 @@ Classes que contribuem para o mundo e para a jornada de Lucy e Nero através de 
 
 ### Alquimista
 Estudosos e cientistas que manipulam a matéria para criar poções, bombas, venenos e elixires com uma vasta gama de efeitos. Embora não sejam combatentes diretos, suas concoções são indispensáveis para o preparo e suporte em batalha, controle de campo e resolução de problemas ambientais. Podem criar elixires que concedem resistência elemental ou bombas de gelo e vapor.
+*   **Habilidades Típicas:** Preparar Poção de Cura (cria consumíveis), Bomba de Fumaça (cega inimigos), Elixir de Resistência (buff temporário).
+*   **Progressão:** Foca em desbloquear novas receitas, aumentar a potência dos efeitos e reduzir o custo de materiais.
+*   **Interação:** Fornece suporte crucial fora e dentro do combate, com utilidade e buffs.
 
 ### Ferreiro Rúnico
 Uma classe de artesãos extremamente rara e valiosa. Sua habilidade de entalhar runas mágicas em armas e armaduras os torna indispensáveis para aprimorar o equipamento de Lucy e Nero. Não participam do combate, mas seu trabalho é fundamental para a progressão e poder dos heróis. Podem forjar runas de água que aumentam a fluidez do movimento ou runas de gelo que causam lentidão.

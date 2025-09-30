@@ -111,3 +111,30 @@ As missões são o principal motor de progressão da história e de obtenção d
 - **"O Passado Sombrio do Mercenário (Rank B)":** "Um mercenário que se tornou amigo de Lucy pede ajuda para confrontar fantasmas de seu passado em uma antiga fortaleza, revelando sua história e desbloqueando uma nova habilidade de combate para ele."
 - **"O Sonho do Alquimista (Rank C)":** "Um alquimista NPC precisa de um ingrediente raro de um bioma perigoso para completar uma fórmula revolucionária. Ajudá-lo pode desbloquear novas receitas de poções para Lucy."
 - **"O Festival da Colheita (Rank D)":** "Participe de um festival local com um amigo NPC, fortalecendo os laços e desbloqueando diálogos especiais e pequenos bônus passivos."
+
+---
+
+## Estrutura e Gerenciamento de Missões
+
+### Template de Design de Missão
+Cada missão será definida por um conjunto de atributos para facilitar o design e a implementação:
+-   **ID da Missão:** Identificador único.
+-   **Título:** Nome da missão.
+-   **Descrição:** Texto que aparece no diário de missões.
+-   **NPC Solicitante:** Quem oferece a missão.
+-   **Requisitos:** Nível mínimo, reputação com facção, missões pré-requisito.
+-   **Objetivos:** Lista de tarefas a serem cumpridas (ex: "Derrotar 10 Goblins", "Coletar 5 Ervas Lunares").
+-   **Recompensas:** XP, Ouro, Itens (armas, armaduras, runas, projetos).
+-   **Lore:** Contexto narrativo adicional.
+
+### Progressão de Quests
+As missões serão desbloqueadas de diversas formas:
+-   **Por Nível:** Missões que se tornam disponíveis ao atingir um certo nível de personagem.
+-   **Por Reputação:** Missões que exigem um nível de reputação com uma guilda ou facção.
+-   **Por História:** Missões que avançam a narrativa principal, desbloqueadas após a conclusão de eventos chave.
+-   **Por Descoberta:** Missões que são ativadas ao encontrar um item específico, explorar uma área ou interagir com um NPC em um local específico.
+
+### Sistema de Diálogo
+-   **Diálogos Ramificados:** O sistema de diálogo permitirá escolhas que podem influenciar o resultado da missão, a reputação com NPCs ou facções, e até mesmo desbloquear missões alternativas.
+-   **Variáveis de Diálogo:** O texto dos diálogos poderá ser dinâmico, refletindo o progresso do jogador, sua reputação ou eventos do mundo.
+-   **Ferramenta de Editor:** Será utilizada uma ferramenta de editor (interna do Godot ou externa) para criar e gerenciar os fluxos de diálogo de forma eficiente.

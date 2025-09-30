@@ -22,6 +22,7 @@ No entanto, o mundo de Lucy & Nero é vasto e repleto de indivíduos com suas pr
 
 -   **Missões em Grupo Temporárias:** Em momentos cruciais da história ou em missões específicas, Lucy e Nero se unirão a NPCs para enfrentar desafios que exigem mais do que apenas a dupla. Durante essas missões, os NPCs atuarão como aliados controlados por IA, contribuindo com suas próprias habilidades e estratégias.
 -   **Relacionamentos Complexos:** Esses NPCs não são meros coadjuvantes. Eles se tornarão amigos, rivais, mentores ou até mesmo figuras românticas, cujas interações com Lucy e Nero serão mais profundas do que parece. Suas histórias se entrelaçarão com a jornada dos protagonistas, oferecendo novas perspectivas, desbloqueando missões secundárias, fornecendo acesso a recursos únicos ou até mesmo influenciando o desenvolvimento de Lucy e Nero através de diálogos e escolhas. A natureza desses relacionamentos será moldada pelas decisões do jogador, adicionando uma camada de complexidade narrativa e emocional à experiência single-player.
+    *   **Exemplo de Missão de NPC:** Um ferreiro anão, após ser ajudado por Lucy, pode pedir que ela encontre um minério raro em uma dungeon perigosa, desbloqueando novos projetos de forja e aprofundando a relação.
 
 ---
 
@@ -82,6 +83,7 @@ A barra de "Sinergia" é preenchida conforme Lucy e Nero lutam juntos. Ela permi
     -   Os ataques de Lucy ganham dano sombrio adicional.
     -   A cada esquiva, Nero emerge para atacar o inimigo mais próximo.
     -   Receber um golpe fatal neste modo faz com que Nero intercepte o dano, salvando Lucy e encerrando o efeito.
+    -   **Feedback de Sinergia:** O preenchimento da barra de Sinergia será acompanhado por efeitos visuais (brilho, aura) e sonoros (crescendo em intensidade), culminando em um som e VFX impactantes na ativação do Modo Sombra.
 
 ---
 
@@ -115,4 +117,13 @@ Nero evolui ao absorver **Essências Primevas**, encontradas em chefes ou locais
 -   **Árvore de Habilidades:** Cada forma (Gato, Corvo, Cavalo) possui sua própria árvore. O jogador gasta pontos de essência para:
     -   Desbloquear novas habilidades para a IA de Nero.
     -   Melhorar os bônus passivos de cada forma.
-    -   Aprimorar os Ataques de Vínculo.
+    -   **Aprimorar os Ataques de Vínculo.**
+
+---
+
+## 5. Dificuldade e Curva de Aprendizagem
+
+-   **Dificuldade Progressiva:** O jogo apresentará uma curva de dificuldade gradual, começando com inimigos e dungeons mais simples e introduzindo desafios mais complexos à medida que o jogador avança na história e explora novas áreas.
+-   **Introdução de Mecânicas:** As mecânicas de combate de Lucy e Nero, a forja e o sistema de runas serão introduzidos de forma tutorializada e orgânica, com missões iniciais que guiam o jogador através dos conceitos básicos.
+-   **Escalonamento de Inimigos:** A força dos inimigos será escalonada por região, garantindo que áreas de alto nível permaneçam desafiadoras, mesmo com o jogador mais forte.
+-   **Opções de Dificuldade:** Considerar a inclusão de diferentes níveis de dificuldade (Fácil, Normal, Difícil) para atender a diferentes perfis de jogadores.

@@ -52,3 +52,28 @@
 ## 5. Interface (UI)
 
 - **Estrutura:** As cenas de UI (`.tscn`) serão separadas da lógica de jogo. Uma cena principal de HUD será adicionada à tela e atualizará suas informações escutando os sinais do `EventBus` (ex: `player_health_changed`).
+
+---
+
+## 6. Padrões de Desenvolvimento e Ferramentas
+
+### Padrões de Código
+- **Convenções de Nomenclatura:** Utilização de `snake_case` para variáveis e funções, `PascalCase` para classes e nós, e `SCREAMING_SNAKE_CASE` para constantes.
+- **Estrutura de Pastas:** Organização lógica de scripts por funcionalidade (ex: `scripts/player`, `scripts/enemy`, `scripts/ui`).
+- **Comentários:** Comentários claros e concisos para explicar lógica complexa ou decisões de design.
+- **Documentação:** Utilização de docstrings para funções e classes, facilitando a compreensão do código.
+
+### Estratégias de Teste
+- **Testes Unitários:** Implementação de testes unitários para funções críticas de gameplay (cálculo de dano, lógica de inventário) utilizando um framework de teste compatível com GDScript (se disponível ou customizado).
+- **Testes de Integração:** Verificação da comunicação entre sistemas (ex: `EventBus` e UI) para garantir que os componentes funcionem juntos conforme o esperado.
+- **Testes de Gameplay:** Testes manuais e automatizados para validar a experiência do jogador, balanceamento e detecção de bugs.
+
+### Ferramentas Adicionais
+- **Editor de Texto/IDE:** VS Code com extensões Godot para autocompletar e depuração.
+- **Controle de Versão:** Git com um fluxo de trabalho de branches (feature branches, develop, main).
+- **Ferramentas de Depuração:** Utilização das ferramentas de depuração integradas do Godot, logs e visualização de nós.
+
+### Gerenciamento de Assets
+- **Importação:** Definição de padrões para importação de modelos 3D (formato, escala, pivô), texturas (resolução, compressão) e áudio (formato, taxa de amostragem).
+- **Otimização:** Compressão de texturas, LOD (Level of Detail) para modelos 3D, e otimização de malhas para garantir performance.
+- **Organização:** Estrutura de pastas clara para assets (ex: `assets/models`, `assets/textures`, `assets/audio`).

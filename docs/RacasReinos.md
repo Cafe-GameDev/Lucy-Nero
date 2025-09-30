@@ -44,6 +44,11 @@ As relações entre os reinos são um complexo mosaico de alianças, antigas riv
     -   **Com os Homens-Fera:** Sustentam uma relação de respeito à distância. Os humanos contratam clãs de Homens-Fera como mercenários e compram seus bens exóticos, mas raramente se aventuram em seus territórios sagrados.
 -   **Homens-Fera (Isolamento Orgulhoso):** São em grande parte isolados, interagindo com outras raças principalmente através de contratos ou comércio em cidades fronteiriças humanas. Eles desconfiam da "civilização" e de suas políticas.
 
+### Conflitos e Tensões Atuais
+-   **Disputa por Terras:** A expansão humana tem levado a conflitos com os elfos nas fronteiras da Floresta de Aeloria e com os Homens-Fera nos Campos de Astralis.
+-   **Mineração Ilegal:** Anões frequentemente acusam humanos de mineração ilegal em territórios montanhosos, enquanto elfos denunciam a destruição ambiental causada pelas minas anãs.
+-   **Corrupção nos Pântanos:** A crescente influência da necromancia nos Pântanos de Nox’Thera é uma ameaça para todas as raças, mas a desconfiança mútua impede uma ação conjunta eficaz.
+
 ---
 
 ## Raças Menores e Criaturas Sencientes
@@ -53,6 +58,20 @@ Além das grandes nações, o mundo é pontilhado por sociedades de outras criat
 -   **Goblins:** Longe de serem apenas monstros, os goblins possuem uma sociedade tribal primitiva. Embora muitas tribos, como os "Presas Sujas", sejam hostis e vivam de saques, outras podem ser neutras. Existem rumores de tribos que desenvolveram uma inteligência astuta, capazes de criar armadilhas complexas e até mesmo negociar.
 -   **Sereianos:** Habitantes do Arquipélago de Selaris, os Sereianos são uma raça aquática de grande poder mágico. Podem ser hostis a navios que invadem seus territórios sagrados, mas também podem se aliar a aventureiros que os ajudem a proteger os recifes de corrupções ou monstros marinhos como o Leviatã.
 -   **Os Antigos (Extintos?):** Por todo o mundo, ruínas de uma civilização desconhecida e muito mais avançada podem ser encontradas. Ninguém sabe quem foram, como eram ou por que desapareceram, mas deixaram para trás golens guardiões, puzzles indecifráveis e artefatos de poder imenso. A Guilda dos Exploradores é obcecada por desvendar seus segredos.
+
+### Facções Menores e Grupos de Interesse
+-   **Cultistas da Sombra:** Grupos que buscam o poder da necromancia e da corrupção, atuando nas sombras e manipulando eventos.
+-   **Bandidos e Piratas:** Organizações criminosas que exploram as rotas comerciais e áreas menos protegidas.
+-   **Ordens Místicas:** Grupos de magos ou sábios que operam fora das guildas estabelecidas, buscando conhecimento ou poder de forma independente.
+
+---
+
+## Linha do Tempo Histórica (Breve)
+
+-   **Era Antiga:** Ascensão e queda dos Antigos, deixando para trás ruínas e artefatos misteriosos.
+-   **Era dos Reinos:** Formação dos grandes reinos élficos e anões, com suas culturas e tradições se solidificando.
+-   **Era da Expansão Humana:** O surgimento e a rápida expansão dos reinos humanos, levando a novos contatos e conflitos.
+-   **O Grande Desequilíbrio:** Um evento cataclísmico (a ser detalhado na narrativa) que causou a corrupção de biomas e o surgimento de novas ameaças, impulsionando a jornada de Lucy e Nero.
 
 ---
 

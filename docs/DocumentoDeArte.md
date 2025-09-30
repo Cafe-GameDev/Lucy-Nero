@@ -79,20 +79,19 @@ O contraste entre luz e sombra é fundamental, com a magia de Lucy e os padrões
     - **Ruínas de Cristal:** Ambientes com cristais gigantes que refratam a luz e criam efeitos cáusticos.
     - **Pântanos Vulcânicos:** Contraste entre a lama escura, rios de lava laranja e fumaça densa.
 - **Iluminação:** Iluminação dinâmica em tempo real é crucial. Fontes de luz como tochas, magia e os próprios personagens criarão um jogo de luz e sombra que afeta a atmosfera e a jogabilidade.
+- **Mood Boards:** Para cada bioma, serão criados mood boards detalhados com exemplos de texturas, modelos de objetos, paletas de cores e referências visuais para guiar a equipe de arte.
 
 ---
-
-## 4. Efeitos Visuais (VFX)
 
 - **Clareza:** Os efeitos devem ser bonitos e impactantes, mas sem poluir a tela. A legibilidade do combate é prioridade.
 - **Magia de Lucy:** Cada encantamento de arma deve ter um feedback visual claro (lâmina em chamas, rastro de gelo, arco voltaico).
 - **Habilidades de Nero:** Os ataques especiais e de vínculo devem ter VFX únicos e memoráveis que comuniquem claramente sua área de efeito e poder.
 - **Impacto:** Golpes, aparadas (parry), e esquivas devem ser acompanhados de partículas e flashes que dão peso e satisfação ao combate.
+- **Detalhes de Partículas:** Serão definidos tipos de partículas, cores e formas específicas para cada elemento (fogo, gelo, raio) e para as habilidades de Nero, garantindo consistência e impacto visual.
 
 ---
-
-## 5. Interface (UI)
 
 - **Estilo:** Moderna, limpa e minimalista, com elementos que remetem às runas e à forja.
 - **HUD:** As barras de vida, mana e sinergia devem ser claras e posicionadas de forma a não obstruir a visão do jogo.
 - **Ícones:** Habilidades, itens e status terão ícones estilizados e fáceis de diferenciar.
+- **Mockups Visuais:** Serão criados mockups visuais (wireframes e protótipos) para o HUD, inventário, menus e outras telas de interface, garantindo uma experiência de usuário intuitiva e esteticamente agradável.

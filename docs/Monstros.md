@@ -18,18 +18,18 @@ Em vez de uma lista estática, os monstros são gerados a partir de um sistema d
 Humanoides são criaturas inteligentes que vivem em estruturas sociais, como tribos ou clãs. Eles usam ferramentas, táticas de grupo e, às vezes, magia.
 
 ### Arquétipos Comuns:
-*   **Batedor:** Fraco, rápido, ataca em enxames para sobrecarregar o inimigo.
-*   **Atirador:** Usa arcos ou projéteis, prefere manter distância.
-*   **Bruto:** Lento, resistente e com ataques poderosos. Age como a linha de frente.
-*   **Conjurador (Shaman):** Usa magias de suporte (cura, buffs) ou ofensivas (debuffs, projéteis mágicos).
+*   **Batedor:** Fraco, rápido, ataca em enxames para sobrecarregar o inimigo. (Atributos: Alta Velocidade, Baixa Vida/Dano. Comportamento: Flanqueia, busca alvos mais fracos).
+*   **Atirador:** Usa arcos ou projéteis, prefere manter distância. (Atributos: Baixa Vida, Alto Dano à Distância. Comportamento: Mantém distância, foca em Lucy).
+*   **Bruto:** Lento, resistente e com ataques poderosos. Age como a linha de frente. (Atributos: Alta Vida/Dano, Baixa Velocidade. Comportamento: Ataca o alvo mais próximo, tenta quebrar a guarda).
+*   **Conjurador (Shaman):** Usa magias de suporte (cura, buffs) ou ofensivas (debuffs, projéteis mágicos). (Atributos: Média Vida, Dano Mágico. Comportamento: Prioriza suporte ou controle de grupo, mantém distância).
 
 ### Exemplo de Aplicação: A Família Goblin
 
 | Arquétipo | Variação Padrão (Floresta) | Variação de Bioma (Montanhas) | Variação de Bioma (Deserto) | Variação de Bioma (Pântanos) |
 | :--- | :--- | :--- | :--- | :--- |
 | **Batedor** | **Goblin da Floresta:** Pele verde, usa clavas de madeira. | **Goblin do Gelo:** Pele pálida, pode aplicar lentidão. | **Goblin da Areia:** Pele ressecada, alta mobilidade na areia. | **Goblin do Lodo:** Pele esverdeada, se esconde na lama, ataques causam lentidão. |
-| **Atirador** | **Arqueiro Goblin:** Flechas com ponta de pedra. | **Atirador de Gelo:** Lança farpas de gelo. | **Zarabataneiro:** Usa dardos envenenados com veneno de escorpião. | **Atirador de Pântano:** Lança dardos com veneno paralisante. |
-| **Bruto** | **Brutamontes Goblin:** Usa um porrete de carvalho. | **Bruto do Gelo:** Carrega um martelo de pedra e gelo. | **Bruto com Mandíbula:** Usa a mandíbula de um Verme da Areia como arma. | **Bruto do Pântano:** Usa um tronco coberto de limo, ataques causam envenenamento. |
+| **Atirador** | **Arqueiro Goblin:** Flechas com ponta de pedra. | **Atirador de Gelo:** Lança farpas de gelo. (Resistência: Gelo, Vulnerabilidade: Fogo) | **Zarabataneiro:** Usa dardos envenenados com veneno de escorpião. | **Atirador de Pântano:** Lança dardos com veneno paralisante. |
+| **Bruto** | **Brutamontes Goblin:** Usa um porrete de carvalho. | **Bruto do Gelo:** Carrega um martelo de pedra e gelo. | **Bruto com Mandíbula:** Usa a mandíbula de um Verme da Areia como arma. | **Bruto do Pântano:** Usa um tronco coberto de limo, ataques causam envenenamento. (Resistência: Veneno, Vulnerabilidade: Fogo) |
 | **Conjurador** | **Shaman da Floresta:** Usa magias de cura com ervas. | **Shaman do Gelo:** Conjura barreiras de gelo defensivas. | **Shaman da Areia:** Invoca pequenos redemoinhos de areia para cegar. | **Shaman da Névoa:** Conjura névoa que confunde e envenena. |
 
 #### **Evolução de Goblin:**
@@ -52,7 +52,7 @@ Criaturas animalescas guiadas pelo instinto. Sua ameaça vem de sua força físi
 
 | Arquétipo | Variação Padrão (Campos) | Variação de Bioma (Floresta) | Variação de Bioma (Montanhas) | Variação de Bioma (Pântanos) |
 | :--- | :--- | :--- | :--- | :--- |
-| **Predador** | **Lobo Cinzento:** Comportamento de matilha padrão. | **Lobo da Sombra:** Pode ficar brevemente invisível nas sombras. | **Lobo Gélido:** Seus uivos cortam o vento, ataques podem congelar. | **Lobo do Pântano:** Pele escura e úmida, ataques causam sangramento e lentidão. |
+| **Predador** | **Lobo Cinzento:** Comportamento de matilha padrão. | **Lobo da Sombra:** Pode ficar brevemente invisível nas sombras. | **Lobo Gélido:** Seus uivos cortam o vento, ataques podem congelar. (Resistência: Gelo, Vulnerabilidade: Fogo) | **Lobo do Pântano:** Pele escura e úmida, ataques causam sangramento e lentidão. |
 
 #### **Evolução de Lobo:**
 O líder de uma matilha, após muitas caçadas bem-sucedidas, pode se tornar um **Lobo Alfa**. Se este Alfa absorver energia mágica de seu bioma, ele evolui para uma forma superior:
@@ -75,8 +75,8 @@ Almas ou corpos reanimados por necromancia ou por uma maldição poderosa. São 
 | Variação de Bioma | Descrição | Habilidade Única |
 | :--- | :--- | :--- |
 | **Esqueleto (Padrão)** | Encontrado em dungeons e cemitérios. Usa espada e escudo enferrujados. | Nenhuma. |
-| **Esqueleto Congelado** | Encontrado nas Montanhas de Drak'Thal. Coberto de gelo. | Seus golpes têm chance de aplicar o status "gelado", reduzindo a velocidade de ataque do jogador. |
-| **Esqueleto do Pântano** | Encontrado em Nox'Thera. Coberto de lodo e musgo. | Seus ataques podem aplicar um veneno que causa dano contínuo. |
+| **Esqueleto Congelado** | Encontrado nas Montanhas de Drak'Thal. Coberto de gelo. | Seus golpes têm chance de aplicar o status "gelado", reduzindo a velocidade de ataque do jogador. (Resistência: Gelo, Vulnerabilidade: Fogo) |
+| **Esqueleto do Pântano** | Encontrado em Nox'Thera. Coberto de lodo e musgo. | Seus ataques podem aplicar um veneno que causa dano contínuo. (Resistência: Veneno, Vulnerabilidade: Fogo) |
 | **Esqueleto Afogado** | Encontrado em ruínas submersas ou áreas alagadas. Coberto de algas e limo. | Seus ataques podem aplicar o status "encharcado", aumentando a vulnerabilidade a dano elétrico e de gelo. |
 
 #### **Evolução de Morto-Vivo:**
@@ -98,7 +98,7 @@ Criaturas nascidas da própria essência elemental do mundo, ou manifestações 
 
 | Arquétipo | Variação Padrão (Rios/Lagos) | Variação de Bioma (Montanhas Nevadas) | Variação de Bioma (Pântanos Corrompidos) |
 | :--- | :--- | :--- | :--- |
-| **Guardião** | **Elemental da Água:** Corpo fluído, ataques de jatos d'água. | **Elemental do Gelo:** Corpo cristalino, ataques de estacas de gelo e congelamento. | **Elemental da Água Corrompida:** Água escura e viscosa, ataques que causam lentidão e veneno. |
+| **Guardião** | **Elemental da Água:** Corpo fluído, ataques de jatos d'água. | **Elemental do Gelo:** Corpo cristalino, ataques de estacas de gelo e congelamento. | **Elemental da Água Corrompida:** Água escura e viscosa, ataques que causam lentidão e veneno. (Resistência: Veneno, Vulnerabilidade: Fogo) |
 | **Fragmento** | **Gota Viva:** Pequenas massas de água que se movem rapidamente. | **Estilhaço Gélido:** Pequenos fragmentos de gelo que voam e cortam. | **Lodo Necrótico:** Pequenas poças de lodo que se agarram e drenam vida. |
 
 #### **Evolução de Elemental:**

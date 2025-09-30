@@ -23,13 +23,15 @@ Facilmente encontradas, mas ainda úteis.
 * **Uso:** Poções de cura leve, poções básicas de mana.
 * **Tier:** Comum.
 * **Efeito Extra (gameplay):** Recarrega pequenas quantidades de mana fora de combate.
+*   **Localização:** Floresta de Aeloria (clareiras iluminadas), Campos de Astralis.
 
 #### Lírio Sombrio
 
 * **Descrição:** Flor negra de cemitérios e ruínas.
 * **Uso:** Ingrediente para venenos, poções de resistência às trevas.
 * **Tier:** Comum–Raro.
-* **Visual ARPG:** pétalas brilham em roxo ao contato com mana.
+*   **Visual ARPG:** pétalas brilham em roxo ao contato com mana.
+*   **Localização:** Floresta de Aeloria (áreas de sombra profunda), Pântanos de Nox’Thera.
 
 ---
 
@@ -42,14 +44,16 @@ Mais difíceis de achar, exigem exploração ou dungeons.
 * **Descrição:** Raiz quente ao toque, perpetuamente em brasas.
 * **Uso:** Encantamentos de fogo, resistência a gelo.
 * **Tier:** Raro.
-* **Efeito Extra:** pode incendiar inimigos quando usada em bombas alquímicas.
+*   **Efeito Extra:** pode incendiar inimigos quando usada em bombas alquímicas.
+*   **Localização:** Deserto de Thar’Kaz (perto de fendas de calor), Vulcão de Pyrrhos (abundante).
 
 #### Flor de Cristal
 
 * **Descrição:** Flor translúcida, parece feita de vidro mágico.
 * **Uso:** Poções de defesa, runas protetoras.
 * **Tier:** Raro.
-* **Visual ARPG:** ao ser colhida, solta um som cristalino.
+*   **Visual ARPG:** ao ser colhida, solta um som cristalino.
+*   **Localização:** Montanhas de Drak’Thal (picos nevados), Ruínas de Cristal (dungeons).
 
 ---
 
@@ -60,14 +64,16 @@ Mais difíceis de achar, exigem exploração ou dungeons.
 * **Descrição:** Árvore colossal com seiva dourada de mana.
 * **Uso:** Forja de armas lendárias, grimórios.
 * **Tier:** Épico.
-* **Drop:** “Madeira Arcana” → material para armamento único.
+*   **Drop:** “Madeira Arcana” → material para armamento único.
+*   **Localização:** Floresta de Aeloria (árvores gigantes, coração da floresta).
 
 #### Mandrágora
 
 * **Descrição:** Raiz humanoide que grita ao ser arrancada.
 * **Uso:** Poções avançadas, necromancia, runas de som.
 * **Tier:** Épico.
-* **Gameplay:** ao tentar colher, jogador sofre ataque sonoro (teste de resistência).
+*   **Gameplay:** ao tentar colher, jogador sofre ataque sonoro (teste de resistência).
+*   **Localização:** Pântanos de Nox’Thera (áreas mais profundas e corrompidas).
 
 ---
 
@@ -78,7 +84,8 @@ Mais difíceis de achar, exigem exploração ou dungeons.
 * **Descrição:** Flor que nasce apenas quando uma estrela cadente toca a terra.
 * **Uso:** Poções de imortalidade temporária, upgrades finais de armas.
 * **Tier:** Lendário.
-* **Evento:** spawna aleatoriamente no mundo durante chuvas de meteoros.
+*   **Evento:** spawna aleatoriamente no mundo durante chuvas de meteoros.
+*   **Localização:** Campos de Astralis (apenas durante eventos astrais específicos).
 
 ---
 
@@ -96,13 +103,14 @@ Cada criatura tem **comportamento único**, **drop específico** e pode inspirar
 * **Comportamento:** Ataca em linha reta com investida.
 * **Drops:** Carne, couro, presas.
 * **Tier:** Comum.
-* **Anime vibe:** quando furioso, solta vapor quente das narinas.
+*   **Anime vibe:** quando furioso, solta vapor quente das narinas.
+*   **Localização:** Floresta de Aeloria, Campos de Astralis (áreas de floresta e planície).
 
 #### Lobos
 
 * **Comportamento:** Caçam em matilhas, coordenam ataques.
-* **Drops:** Presas, peles, essência de lobo (runas básicas de agilidade).
 * **Tier:** Comum.
+*   **Localização:** Floresta de Aeloria, Montanhas de Drak’Thal, Campos de Astralis.
 
 #### Slimes
 
@@ -110,6 +118,7 @@ Cada criatura tem **comportamento único**, **drop específico** e pode inspirar
 * **Drops:** Núcleo elementar.
 * **Tier:** Comum–Raro.
 * **Anime vibe:** cores brilhantes, efeitos exagerados (slime ácido borbulhando).
+*   **Localização:** Dungeons (variedades específicas), Pântanos de Nox’Thera, Campos de Astralis.
 
 ---
 
@@ -118,20 +127,21 @@ Cada criatura tem **comportamento único**, **drop específico** e pode inspirar
 #### Aranhas Gigantes
 
 * **Comportamento:** emboscam em cavernas, lançam teia explosiva de veneno.
-* **Drops:** Seda reforçada, glândula de veneno.
 * **Tier:** Raro.
+*   **Localização:** Floresta de Aeloria (profundezas), Caverna dos Goblins, Templo da Lua Minguante.
 
 #### Ursos Rochosos
 
 * **Comportamento:** defesa altíssima, ataques lentos de área.
 * **Drops:** Fragmentos minerais, peles reforçadas.
 * **Tier:** Raro.
+*   **Localização:** Montanhas de Drak’Thal (encostas rochosas), Dungeons (cavernas).
 
 #### Serpentes Brumosas
 
 * **Comportamento:** criam nuvem de névoa paralisante antes de atacar.
-* **Drops:** Glândula de veneno paralisante.
 * **Tier:** Raro.
+*   **Localização:** Floresta de Aeloria (áreas úmidas), Pântanos de Nox’Thera.
 
 ---
 
@@ -140,8 +150,8 @@ Cada criatura tem **comportamento único**, **drop específico** e pode inspirar
 #### Golems
 
 * **Comportamento:** guardiões fixos em ruínas, despertam ao detectar mana.
-* **Drops:** Núcleo elemental (raro), fragmentos do material (pedra, cristal, madeira).
 * **Tier:** Épico.
+*   **Localização:** Ruínas antigas, Minas Abandonadas de Drak’Thal, Vulcão de Pyrrhos.
 
 #### Wyverns
 
@@ -149,6 +159,7 @@ Cada criatura tem **comportamento único**, **drop específico** e pode inspirar
 * **Drops:** Escamas, ossos, sangue dracônico.
 * **Tier:** Épico.
 * **Anime vibe:** asas imensas, ataques cinematográficos.
+*   **Localização:** Montanhas de Drak’Thal (picos mais altos), Vulcão de Pyrrhos (cumes).
 
 ---
 
@@ -160,29 +171,39 @@ Cada criatura tem **comportamento único**, **drop específico** e pode inspirar
 * **Drops:** Presa Congelada (forja lendária), Essência do Inverno.
 * **Tier:** Lendário.
 * **Boss ARPG:** cada uivo cria uma tempestade.
+*   **Localização:** Montanhas de Drak’Thal (chefe de área).
 
 #### Behemoth
 
 * **Comportamento:** quadrúpede colossal, terremotos ao andar.
-* **Drops:** Couro indestrutível, núcleo titânico.
 * **Tier:** Lendário.
+*   **Localização:** Campos de Astralis (chefe de área).
 
 #### Leviatã
 
 * **Comportamento:** controla mares, ataques de maremotos.
 * **Drops:** Escama do oceano, lágrima de mar profundo.
 * **Tier:** Lendário.
+*   **Localização:** Arquipélago de Selaris (chefe de área, profundezas oceânicas).
 
 #### Fênix
 
 * **Comportamento:** renasce após ser derrotada (fase 2 do boss).
-* **Drops:** Penas flamejantes, Cinzas da Vida.
 * **Tier:** Lendário.
+*   **Localização:** Vulcão de Pyrrhos (chefe de área).
 
 #### Basilisco
 
 * **Comportamento:** olhar petrificante em área cônica.
 * **Drops:** Escamas de pedra, Olho petrificado.
 * **Tier:** Lendário.
+*   **Localização:** Pântanos de Nox’Thera (chefe de área).
+
+---
+
+## Considerações de Implementação (Fauna)
+
+- **Modelos/Sprites:** Serão criadas referências visuais (conceitos de arte, modelos 3D ou sprites 2D) para cada criatura, garantindo que a equipe de arte tenha uma base sólida para o desenvolvimento.
+- **Tabela de Drops Detalhada:** Uma tabela de drops formal será mantida para cada criatura, especificando os itens que podem ser obtidos, suas quantidades e as chances de drop, para auxiliar no balanceamento da economia e progressão do jogo.
 
 ---
