@@ -18,6 +18,7 @@ signal attack_dealt(damage, target_node)
 
 # --- COMPONENTES ---
 @onready var fsm: FSM = $FSM
+@onready var hitbox: Area2D = $Hitbox
 
 # --------------------------
 # MÉTODOS DO GODOT
@@ -38,11 +39,25 @@ func _ready():
 	InputMap.add_action("move_down")
 	InputMap.add_action("attack")
 
-	InputMap.action_add_event("move_left", InputEventKey.new(KEY_A))
-	InputMap.action_add_event("move_right", InputEventKey.new(KEY_D))
-	InputMap.action_add_event("move_up", InputEventKey.new(KEY_W))
-	InputMap.action_add_event("move_down", InputEventKey.new(KEY_S))
-	InputMap.action_add_event("attack", InputEventMouseButton.new(MOUSE_BUTTON_LEFT))
+	var event_left = InputEventKey.new()
+	event_left.keycode = KEY_A
+	InputMap.action_add_event("move_left", event_left)
+
+	var event_right = InputEventKey.new()
+	event_right.keycode = KEY_D
+	InputMap.action_add_event("move_right", event_right)
+
+	var event_up = InputEventKey.new()
+	event_up.keycode = KEY_W
+	InputMap.action_add_event("move_up", event_up)
+
+	var event_down = InputEventKey.new()
+	event_down.keycode = KEY_S
+	InputMap.action_add_event("move_down", event_down)
+
+	var event_attack = InputEventMouseButton.new()
+	event_attack.button_index = MOUSE_BUTTON_LEFT
+	InputMap.action_add_event("attack", event_attack)
 	
 	# Inicia a FSM no estado Idle
 	fsm.set_state("IdleState")
@@ -110,3 +125,17 @@ func gain_xp(amount: int) -> void:
 		emit_signal("level_upped", character_data.level)
 	
 	emit_signal("stats_changed")
+
+func perform_attack():
+	var weapon = character_data.inventory.get_equipped_weapon()
+	if not weapon:
+		print("Lucy está desarmada!")
+		return
+
+	var damage = weapon.get_final_damage()
+
+	# Itera sobre todos os corpos que estão colidindo com a hitbox
+	for body in hitbox.get_overlapping_bodies():
+		# Verifica se o corpo tem o método take_damage (para evitar erros)
+		if body.has_method("take_damage"):
+			body.take_damage(damage)

@@ -7,10 +7,12 @@ class_name AttackState
 @onready var timer = $Timer
 
 func enter():
+	# Para o movimento do jogador durante o ataque
+	fsm.owner.velocity = Vector2.ZERO
+	# Chama a função de ataque no script do jogador
+	fsm.owner.perform_attack()
 	# Inicia o timer quando entra no estado de ataque
 	timer.start()
-	# A lógica de ativar a hitbox do ataque viria aqui
-	print("Player atacando!")
 
 func _on_timer_timeout():
 	# Quando o timer termina, volta para o estado Idle
