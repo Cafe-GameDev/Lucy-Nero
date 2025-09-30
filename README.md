@@ -28,7 +28,7 @@ O jogador seguirá um ciclo claro e recompensador, focado na sinergia entre comb
 ## 3. Personagens – Lucy & Nero
 
 **Título:** Entre Espadas e Garras
-**Alt:** Ainda Não Definido
+**Alt:** Blades and Claws
 
 ### 👤 Lucy – A Forjadora Rúnica
 
