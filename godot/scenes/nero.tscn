@@ -1,0 +1,33 @@
+[gd_scene load_steps=4 format=3 uid="uid://dxotkf8bdg1am"]
+
+[ext_resource type="Script" uid="uid://tv1kxcwbql2b" path="res://scripts/nero.gd" id="1_2k7xc"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_bo3m1"]
+size = Vector2(40, 40)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_581hr"]
+
+[node name="Nero" type="CharacterBody2D"]
+script = ExtResource("1_2k7xc")
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+shape = SubResource("RectangleShape2D_bo3m1")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_581hr")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -10.0
+offset_top = -10.0
+offset_right = 10.0
+offset_bottom = 10.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0, 0, 0, 1)

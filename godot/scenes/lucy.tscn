@@ -1,0 +1,34 @@
+[gd_scene load_steps=4 format=3 uid="uid://del6wm7t2j24e"]
+
+[ext_resource type="Script" uid="uid://27rv8u2boua4" path="res://scripts/lucy.gd" id="1_bo3m1"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_bo3m1"]
+size = Vector2(80, 80)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_581hr"]
+size = Vector2(40, 40)
+
+[node name="Lucy" type="CharacterBody2D"]
+script = ExtResource("1_bo3m1")
+
+[node name="Area2D" type="Area2D" parent="."]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
+position = Vector2(-1, 0)
+shape = SubResource("RectangleShape2D_bo3m1")
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_581hr")
+
+[node name="ColorRect" type="ColorRect" parent="."]
+anchors_preset = 8
+anchor_left = 0.5
+anchor_top = 0.5
+anchor_right = 0.5
+anchor_bottom = 0.5
+offset_left = -20.0
+offset_top = -20.0
+offset_right = 20.0
+offset_bottom = 20.0
+grow_horizontal = 2
+grow_vertical = 2
