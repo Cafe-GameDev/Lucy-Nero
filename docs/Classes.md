@@ -1,0 +1,75 @@
+# Sistema de Classes do Mundo
+
+Este documento descreve as principais classes e arquétipos de combate e magia encontrados no mundo de *Lucy & Nero*. As classes representam uma especialização ou afinidade que um indivíduo desenvolve ao longo da vida. Enquanto a maioria das pessoas se especializa em uma única classe, indivíduos excepcionais (como Lucy) podem possuir afinidade com múltiplas.
+
+---
+
+## Combatentes (Foco Físico)
+
+Classes que confiam na força, resistência e maestria de armas para lutar na linha de frente.
+
+### Guerreiro
+Mestres de armas versáteis, capazes de usar uma vasta gama de equipamentos. São a espinha dorsal de qualquer grupo de batalha, equilibrando ataque e defesa para se adaptar a qualquer situação.
+
+### Bárbaro
+Guerreiros tribais que canalizam fúria selvagem em combate. Desprezam armaduras pesadas em favor de ataques devastadores e uma resistência física impressionante, muitas vezes ignorando a dor de seus ferimentos.
+
+### Cavaleiro
+Soldados de elite focados na defesa e proteção. Usam as armaduras mais pesadas e escudos impenetráveis para proteger seus aliados, controlando o campo de batalha com sua presença imponente. Muitos são especialistas em combate montado.
+
+### Monge
+Artistas marciais que treinam corpo e mente para se tornarem armas vivas. Lutam desarmados ou com armas exóticas (como bastões e manoplas), usando sua agilidade para desferir uma rajada de golpes precisos.
+
+---
+
+## Atiradores (Foco à Distância)
+
+Especialistas em eliminar inimigos de longe, usando precisão, astúcia e controle de terreno.
+
+### Arqueiro
+Mestres do arco e da flecha. Focam na precisão, sendo capazes de acertar alvos em movimento a grandes distâncias e disparar flechas especiais (perfurantes, de área, etc.).
+
+### Caçador
+Sobrevivencialistas que têm uma profunda conexão com a natureza. Usam armadilhas para imobilizar inimigos, conhecimento de terreno para se posicionar e, muitas vezes, lutam ao lado de um companheiro animal leal.
+
+### Artilheiro
+Especialistas em armas de projéteis mecânicas, como bestas pesadas. O que lhes falta em cadência, compensam com poder de perfuração devastador, capaz de atravessar as armaduras mais resistentes.
+
+---
+
+## Conjuradores (Foco Mágico)
+
+Indivíduos com a capacidade de sentir e moldar a mana do mundo para criar efeitos poderosos.
+
+### Mago Branco
+Conjuradores focados na magia de **suporte e preservação**. Suas habilidades incluem curar ferimentos, criar barreiras protetoras, purificar maldições e conceder bênçãos (buffs) que fortalecem seus aliados.
+
+### Mago Negro
+Conjuradores focados na magia de **destruição e entropia**. Dominam os elementos para causar dano massivo, lançam maldições que enfraquecem os inimigos (debuffs) e manipulam as forças da vida e da morte para fins ofensivos.
+
+### Mago Cinza
+Praticantes pragmáticos que caminham entre a luz e as trevas. Usam a magia que for necessária para a situação, seja um feitiço de controle de campo, uma ilusão, uma armadilha mágica ou uma transmutação. Valorizam o conhecimento e o resultado acima de dogmas.
+
+### Invocador
+Magos que formam pactos com criaturas de outros planos ou espíritos da natureza, conjurando-os no campo de batalha para lutar por eles. Sua força reside no poder e na versatilidade de suas invocações.
+
+### Druida
+Magos que extraem seu poder da própria natureza. Podem se comunicar com animais, controlar plantas, invocar a fúria dos elementos e, em níveis mais altos de maestria, assumir a forma de bestas selvagens.
+
+---
+
+## Especialistas (Foco em Habilidades Únicas)
+
+Classes que dependem de talentos específicos, astúcia e conhecimento técnico, muitas vezes desfocando a linha entre combate e utilidade.
+
+### Ladino
+Mestres da furtividade, do subterfúgio e da exploração de pontos fracos. Preferem adagas e ataques surpresa, são peritos em desarmar armadilhas, abrir fechaduras e aplicar venenos debilitantes.
+
+### Bardo
+Viajantes que usam o poder da música, da oratória ou da dança para criar efeitos mágicos. Podem inspirar coragem e força em seus aliados, desmoralizar inimigos ou até mesmo encantar criaturas com suas performances.
+
+### Alquimista
+Estudiosos e cientistas que manipulam a matéria para criar poções, bombas, venenos e elixires com uma vasta gama de efeitos. Lutam de forma indireta, usando suas concoções para controlar o campo de batalha.
+
+### Ferreiro Rúnico
+Uma classe de artesãos extremamente rara e valiosa. Não são necessariamente combatentes, mas sua habilidade de entalhar runas mágicas em armas e armaduras os torna indispensáveis. Um Ferreiro Rúnico pode transformar um soldado comum em um herói lendário, fornecendo-lhe o equipamento para tal.
