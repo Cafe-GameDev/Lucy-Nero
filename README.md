@@ -244,8 +244,10 @@ Nero evolui ao absorver **Essências Primevas**, encontradas em chefes ou locais
 
 ## 6. Design de Mundo e Níveis
 
--   **Hub Central:** A cidade de **Forja-Luz** serve como o principal hub do jogo, onde Lucy tem sua oficina e o jogador pode interagir com NPCs.
--   **Biomas:** O mundo é dividido em grandes regiões distintas (florestas assombradas, ruínas de cristal, pântanos vulcânicos), cada uma com seus próprios inimigos, materiais e segredos.
+O mundo de Lucy & Nero é um cenário de fantasia vibrante, inspirado em animes isekai, repleto de magia, cidades movimentadas e perigos desconhecidos. A vida de um aventureiro é central para a experiência, com uma **Guilda de Aventureiros** servindo como o principal ponto para obter **missões (quests)**, que vão desde a aniquilação de monstros até a escolta de mercadores.
+
+-   **Hub Central:** A cidade de **Forja-Luz** serve como o principal hub do jogo, onde Lucy tem sua oficina e o jogador pode interagir com NPCs, aceitar missões e se preparar para as jornadas.
+-   **Biomas e Dungeons:** O mundo é dividido em grandes regiões distintas (florestas assombradas, ruínas de cristal, pântanos vulcânicos), cada uma com seus próprios inimigos, materiais e segredos. **Dungeons** perigosas, como cavernas infestadas de **goblins** ou ruínas guardadas por **golens**, são os principais locais para combate e coleta de recursos raros.
 -   **Estrutura dos Níveis:** Os níveis são desenhados à mão para garantir uma exploração significativa, mas podem conter elementos de aleatoriedade (localização de tesouros, grupos de inimigos, eventos do mundo) para manter o frescor a cada visita. A verticalidade é usada para criar arenas e pontos de vantagem, mas a câmera isométrica permanece clara.
 
 ---

@@ -2,14 +2,15 @@
 
 ## 1. Ciclo de Gameplay (Core Loop)
 
-O jogador seguirá um ciclo claro e recompensador, focado na sinergia entre combate e criação:
+O jogador seguirá um ciclo claro e recompensador, focado na sinergia entre combate e criação, seguindo os preceitos da vida de aventureiro:
 
-1.  **Explorar:** Viajar por mapas e dungeons repletos de inimigos, segredos e recursos.
-2.  **Combater:** Engajar em combate em tempo real, utilizando as armas de Lucy e as formas de Nero para superar desafios.
-3.  **Coletar (Loot):** Juntar materiais de forja, essências mágicas, runas e projetos de armas deixados pelos inimigos e encontrados no cenário.
-4.  **Retornar à Forja:** Voltar ao hub central (Forja-Luz) para processar os materiais.
-5.  **Forjar e Aprimorar:** Criar novas armas e armaduras para Lucy e usar essências para desbloquear habilidades para Nero.
-6.  **Repetir:** Acessar novas áreas, agora mais forte, para enfrentar desafios maiores e obter recompensas melhores.
+1.  **Aceitar a Missão:** Pegar uma missão na **Guilda de Aventureiros**, seja de aniquilação, coleta ou exploração.
+2.  **Explorar:** Viajar pelo mundo até chegar ao local da missão, como uma **dungeon** ou floresta assombrada.
+3.  **Combater:** Enfrentar os perigos do local, lutando contra monstros como **goblins, slimes e esqueletos** para cumprir o objetivo.
+4.  **Coletar (Loot):** Juntar materiais de forja, essências mágicas, runas e projetos de armas deixados pelos inimigos e encontrados no cenário.
+5.  **Retornar e Reclamar Recompensa:** Voltar para a cidade, entregar a missão na guilda para receber ouro e subir de ranking.
+6.  **Forjar e Aprimorar:** Usar os materiais e o dinheiro obtido para criar e melhorar armas na forja, desbloquear habilidades para Nero e comprar suprimentos.
+7.  **Repetir:** Aceitar uma nova missão, agora mais forte, para enfrentar desafios maiores.
 
 ---
 
