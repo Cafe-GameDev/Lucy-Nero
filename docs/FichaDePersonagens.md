@@ -31,7 +31,7 @@ Visual inspirado em anime, com traços detalhados, expressivos e dinâmicos, enf
 ### Armas Principais
 
 - **Katana:** Lâmina curva com runas gravadas, que brilham conforme o elemento imbuído.
-- **Arco Longo:** Estrutura leve, decorada com runas que ativam efeitos mágicos; flechas podem ser encantadas.
+- **Arco:** Estrutura leve, decorada com runas que ativam efeitos mágicos; flechas podem ser encantadas.
 - **Escudo:** Redondo, leve, runas reforçadoras de defesa.
 
 ### Poderes – Forja Mágica
