@@ -1,0 +1,34 @@
+# Diagrama de Estado do Jogador (State Machine)
+
+Este diagrama mostra os diferentes estados do personagem e as transições entre eles, essencial para a lógica de controle e animação.
+
+```mermaid
+stateDiagram-v2
+    direction LR
+
+    [*] --> Ocioso
+
+    Ocioso --> Andando: Movimento
+    Andando --> Ocioso: Parar
+    Andando --> Correndo: Iniciar Corrida
+    Correndo --> Andando: Parar de Correr
+
+    Ocioso --> Atacando: Botão de Ataque
+    Andando --> Atacando: Botão de Ataque
+    Atacando --> Ocioso: Fim da Animação
+
+    Ocioso --> Esquivando: Botão de Esquiva
+    Andando --> Esquivando: Botão de Esquiva
+    Correndo --> Esquivando: Botão de Esquiva
+    Esquivando --> Ocioso: Fim da Animação
+
+    Ocioso --> SofrendoDano: Recebe Dano
+    Andando --> SofrendoDano: Recebe Dano
+    Correndo --> SofrendoDano: Recebe Dano
+    Atacando --> SofrendoDano: Recebe Dano
+    SofrendoDano --> Ocioso: Fim da Recuperação
+
+    SofrendoDano --> Morto: HP <= 0
+    Morto --> [*]
+
+```
