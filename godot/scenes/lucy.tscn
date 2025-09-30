@@ -42,7 +42,7 @@ grow_vertical = 2
 
 [node name="FSM" type="Node" parent="."]
 script = ExtResource("2_fsm")
-owner = NodePath("..")
+agent = NodePath("..")
 
 [node name="IdleState" type="Node" parent="FSM"]
 script = ExtResource("3_idle_state")

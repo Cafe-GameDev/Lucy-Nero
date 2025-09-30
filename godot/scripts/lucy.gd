@@ -62,8 +62,7 @@ func _ready():
 	# Inicia a FSM no estado Idle
 	fsm.set_state("IdleState")
 	
-	# Conecta-se aos sinais internos do recurso, se necessário, ou inicializa a UI
-	emit_signal("stats_changed")
+	emit_signal("stats_changed", character_data)
 
 # --------------------------
 # LÓGICA DE JOGO

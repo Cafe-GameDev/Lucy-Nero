@@ -9,7 +9,7 @@ var current_state: State
 # Um dicionário para armazenar todos os estados possíveis
 var states: Dictionary = {}
 # Referência ao "dono" desta FSM (ex: o nó do Player ou do Inimigo)
-@export var owner: Node
+@export var agent: Node
 
 func _ready():
 	# Adiciona todos os nós filhos que são do tipo State ao dicionário de estados

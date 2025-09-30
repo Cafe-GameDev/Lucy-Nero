@@ -16,8 +16,8 @@ func physics_update(delta: float):
 		return
 
 	# Move o personagem
-	fsm.owner.velocity = input_vector.normalized() * speed
-	fsm.owner.move_and_slide()
+	fsm.agent.velocity = input_vector.normalized() * speed
+	fsm.agent.move_and_slide()
 
 	# Permite atacar enquanto se move
 	if Input.is_action_just_pressed("attack"):

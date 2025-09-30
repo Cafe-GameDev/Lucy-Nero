@@ -8,9 +8,9 @@ class_name AttackState
 
 func enter():
 	# Para o movimento do jogador durante o ataque
-	fsm.owner.velocity = Vector2.ZERO
+	fsm.agent.velocity = Vector2.ZERO
 	# Chama a função de ataque no script do jogador
-	fsm.owner.perform_attack()
+	fsm.agent.perform_attack()
 	# Inicia o timer quando entra no estado de ataque
 	timer.start()
 

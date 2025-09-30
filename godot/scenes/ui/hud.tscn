@@ -1,0 +1,69 @@
+[gd_scene load_steps=2 format=3 uid="uid://bkhq8yq8yq8yq"]
+
+[ext_resource type="Script" uid="uid://c32ylqghm4p4d" path="res://scenes/ui/hud.gd" id="1_hud"]
+
+[node name="HUD" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_hud")
+
+[node name="MarginContainer" type="MarginContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+theme_override_constants/margin_left = 10
+theme_override_constants/margin_top = 10
+theme_override_constants/margin_right = 10
+theme_override_constants/margin_bottom = 10
+
+[node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
+layout_mode = 2
+
+[node name="StatsBars" type="HBoxContainer" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="LabelHP" type="Label" parent="MarginContainer/VBoxContainer/StatsBars"]
+layout_mode = 2
+text = "HP: "
+
+[node name="HealthBar" type="ProgressBar" parent="MarginContainer/VBoxContainer/StatsBars"]
+layout_mode = 2
+size_flags_horizontal = 3
+value = 100.0
+show_percentage = false
+
+[node name="LabelMP" type="Label" parent="MarginContainer/VBoxContainer/StatsBars"]
+layout_mode = 2
+text = " MP: "
+
+[node name="ManaBar" type="ProgressBar" parent="MarginContainer/VBoxContainer/StatsBars"]
+layout_mode = 2
+size_flags_horizontal = 3
+value = 100.0
+show_percentage = false
+
+[node name="StateLabels" type="HBoxContainer" parent="MarginContainer/VBoxContainer"]
+layout_mode = 2
+
+[node name="LabelLucy" type="Label" parent="MarginContainer/VBoxContainer/StateLabels"]
+layout_mode = 2
+text = "Lucy State: "
+
+[node name="LucyStateLabel" type="Label" parent="MarginContainer/VBoxContainer/StateLabels"]
+layout_mode = 2
+text = "Idle"
+
+[node name="LabelNero" type="Label" parent="MarginContainer/VBoxContainer/StateLabels"]
+layout_mode = 2
+text = "  Nero State: "
+
+[node name="NeroStateLabel" type="Label" parent="MarginContainer/VBoxContainer/StateLabels"]
+layout_mode = 2
+text = "Follow"
