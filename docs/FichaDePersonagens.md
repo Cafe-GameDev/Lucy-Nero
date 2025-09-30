@@ -62,6 +62,18 @@ Visual inspirado em anime, com traços detalhados, expressivos e dinâmicos, enf
   </tr>
 </table>
 
+### Classes
+
+Lucy é uma personagem que funde 4 arquétipos de classe, tornando-a extremamente versátil.
+
+*   #### **Classe Principal: Guerreira / Arqueira**
+    *   Define seu papel primário em combate, seja na linha de frente com lâminas ou à distância com seu arco.
+
+*   #### **Classes de Suporte:**
+    *   **Forjadora Rúnica:** Sua identidade única. A capacidade de criar e aprimorar os equipamentos para si e para Nero.
+    *   **Maga Branca:** Suas habilidades de suporte mágico, como aplicar buffs com runas e purificar maldições.
+    *   **Alquimista:** A fabricação de poções e outros consumíveis.
+
 ---
 
 ## 🐾 Nero – Guardião Metamorfo
@@ -137,6 +149,15 @@ Design inspirado em anime, combinando expressividade felina com dinamismo nas me
   </tr>
 </table>
 
+
+### Classes
+
+*   #### **Classe Principal: Ladino / Assassino**
+    *   Define seu papel de combate primário, focado em dano alto, furtividade e ataques rápidos (especialmente na Forma Gato).
+
+*   #### **Classes de Suporte:**
+    *   **Mago Cinza:** Classe focada em utilidade. Inclui sua habilidade de **Metamorfose**, seus **altos níveis de percepção e instintos**, e o **Modo Sombra**.
+    *   **Mago Branco:** Seu papel como curandeiro e protetor, usando a habilidade **Lamber Feridas** e auras defensivas como a **Aura de Guardião**.
 
 ---
 
