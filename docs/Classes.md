@@ -56,6 +56,11 @@ Magos que formam pactos com criaturas de outros planos ou espíritos da natureza
 ### Druida
 Magos que extraem seu poder da própria natureza. Podem se comunicar com animais, controlar plantas, invocar a fúria dos elementos e, em níveis mais altos de maestria, assumir a forma de bestas selvagens.
 
+### Hidromante
+Mestres da magia da água em todas as suas formas. Podem manipular a umidade do ar para criar névoas ilusórias, invocar torrentes para afastar inimigos, ou solidificar a água em gelo para construir barreiras e lançar projéteis perfurantes. São versáteis em controle de campo, suporte e dano, adaptando-se às necessidades da batalha. Sua magia é frequentemente ligada à emoção e à fluidez da mente.
+
+Além dessas classes principais, muitos conjuradores se especializam em elementos específicos, como o **Mago do Gelo** (uma variação do Mago Negro focada em dano e controle de gelo) ou o **Mago da Névoa** (uma variação do Mago Branco que usa névoas curativas e barreiras de água).
+
 ---
 
 ## Especialistas (Foco em Habilidades Únicas)
@@ -69,7 +74,7 @@ Mestres da furtividade, do subterfúgio e da exploração de pontos fracos. Pref
 Viajantes que usam o poder da música, da oratória ou da dança para criar efeitos mágicos. Podem inspirar coragem e força em seus aliados, desmoralizar inimigos ou até mesmo encantar criaturas com suas performances.
 
 ### Alquimista
-Estudiosos e cientistas que manipulam a matéria para criar poções, bombas, venenos e elixires com uma vasta gama de efeitos. Lutam de forma indireta, usando suas concoções para controlar o campo de batalha.
+Estudosos e cientistas que manipulam a matéria para criar poções, bombas, venenos e elixires com uma vasta gama de efeitos. Lutam de forma indireta, usando suas concoções para controlar o campo de batalha. Podem criar elixires que concedem resistência elemental ou bombas de gelo e vapor.
 
 ### Ferreiro Rúnico
-Uma classe de artesãos extremamente rara e valiosa. Não são necessariamente combatentes, mas sua habilidade de entalhar runas mágicas em armas e armaduras os torna indispensáveis. Um Ferreiro Rúnico pode transformar um soldado comum em um herói lendário, fornecendo-lhe o equipamento para tal.
+Uma classe de artesãos extremamente rara e valiosa. Não são necessariamente combatentes, mas sua habilidade de entalhar runas mágicas em armas e armaduras os torna indispensáveis. Um Ferreiro Rúnico pode transformar um soldado comum em um herói legendário, fornecendo-lhe o equipamento para tal. Podem forjar runas de água que aumentam a fluidez do movimento ou runas de gelo que causam lentidão.
