@@ -19,12 +19,17 @@ A vegetação do mundo é rica e variada, com muitas plantas sendo ingredientes 
 ### Flor de Cristal
 - **Descrição:** Uma flor delicada cujas pétalas são feitas de um cristal frágil e ressonante. É usada em alquimia para criar poções que aumentam a defesa e a resistência mágica.
 - **Habitat:** Apenas em cavernas de cristal ou ruínas com alta energia mágica.
+ de dungeons de alto nível.
+
+### Mandrágora
+- **Descrição:** Uma planta mágica cuja raiz tem a forma de um pequeno humanoide. Quando arrancada da terra, emite um grito sônico capaz de atordoar ou até mesmo matar criaturas próximas. É um ingrediente poderoso para poções avançadas.
+- **Habitat:** Jardins mágicos, solos amaldiçoados.
 
 ---
 
 ## Fauna
 
-### Animais Comuns
+### Animais e Monstros Comuns
 Criaturas que fazem parte do ecossistema natural e são frequentemente encontradas por aventureiros.
 
 #### Javali Selvagem
@@ -35,6 +40,12 @@ Criaturas que fazem parte do ecossistema natural e são frequentemente encontrad
 
 #### Aranhas Gigantes
 - **Descrição:** Aracnídeos de tamanho anormal que habitam cavernas escuras e florestas densas. Produzem teias resistentes e venenos que variam de paralisantes a letais.
+
+#### Slimes
+- **Descrição:** Seres gelatinosos que absorvem matéria para se alimentar. Vêm em muitas variedades: Slimes de Cura que geram um gel restaurador, Slimes Ácidos que corroem equipamentos, e Slimes Metálicos que são extremamente resistentes. Seus núcleos são reagentes alquímicos valiosos.
+
+#### Golems
+- **Descrição:** Construtos mágicos feitos de materiais como pedra, madeira ou cristal. São guardiões lentos e poderosos, imunes a ataques mentais e venenos.
 
 ### Bestas Lendárias e Mitológicas
 Criaturas raras e imensamente poderosas, muitas vezes únicas.
@@ -47,3 +58,6 @@ Criaturas raras e imensamente poderosas, muitas vezes únicas.
 
 #### Wyverns
 - **Descrição:** Parentes dracônicos menores, com duas pernas e duas asas. São predadores aéreos temíveis, capazes de cuspir veneno ou fogo.
+
+#### Behemoth
+- **Descrição:** Uma besta quadrúpede colossal, com a aparência de um touro ou búfalo couraçado do tamanho de uma colina. Seus ataques são lentos, mas devastadores, capazes de causar tremores de terra. É considerado um "Chefe de Mundo" (World Boss) em algumas lendas.
