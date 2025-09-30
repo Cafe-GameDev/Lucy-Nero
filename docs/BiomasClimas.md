@@ -1,10 +1,12 @@
-# Biomas do Mundo
+# Biomas e Climas do Mundo
 
 ---
 
 ## Floresta de Aeloria (*Forest of Aeloria*)
 
 Um bosque ancestral onde o sol raramente toca o solo devido ao dossel espesso. As árvores são tão antigas que carregam runas naturais em sua casca.
+
+**Clima:** Temperado e úmido. Chuvas finas são constantes e uma névoa densa cobre o solo nas manhãs, tornando a visibilidade um desafio.
 
 **Flora:**
 
@@ -34,6 +36,8 @@ Um bosque ancestral onde o sol raramente toca o solo devido ao dossel espesso. A
 
 Um mar dourado de dunas onde o calor distorce a visão. Tempestades de areia revelam ruínas enterradas de civilizações antigas.
 
+**Clima:** Árido e extremo. Dias escaldantes que causam exaustão e noites gélidas que exigem proteção contra o frio. Tempestades de areia são súbitas e perigosas.
+
 **Flora:**
 
 * Cacto de Cristal (armazenam mana em cristais translúcidos).
@@ -60,6 +64,8 @@ Um mar dourado de dunas onde o calor distorce a visão. Tempestades de areia rev
 ## Montanhas de Drak’Thal (*Mountains of Drak’Thal*)
 
 Picos eternamente nevados, onde ventos cortantes soam como uivos. Ruínas dracônicas repousam escondidas nas encostas.
+
+**Clima:** Polar e implacável. Nevascas constantes reduzem a visão e o frio extremo causa dano contínuo sem a devida proteção. Ventos fortes podem empurrar o jogador.
 
 **Flora:**
 
@@ -89,6 +95,8 @@ Picos eternamente nevados, onde ventos cortantes soam como uivos. Ruínas dracô
 
 Uma montanha viva, cuspindo fogo e lava, com cavernas repletas de cristais ardentes.
 
+**Clima:** Quente e opressivo. O ar é carregado de cinzas que dificultam a respiração, e chuvas ácidas ocasionais podem danificar armaduras.
+
 **Flora:**
 
 * Raiz de Fogo (abundante).
@@ -114,6 +122,8 @@ Uma montanha viva, cuspindo fogo e lava, com cavernas repletas de cristais arden
 ## Arquipélago de Selaris (*Islands of Selaris*)
 
 Ilhas tropicais mágicas, cercadas por mares cristalinos e repletas de vida colorida.
+
+**Clima:** Tropical e úmido. Ensolarado na maior parte do tempo, mas sujeito a monções violentas e tempestades marítimas que podem alterar rotas e revelar segredos submersos.
 
 **Flora:**
 
@@ -141,6 +151,8 @@ Ilhas tropicais mágicas, cercadas por mares cristalinos e repletas de vida colo
 
 Região enevoada, impregnada de necromancia e vida corrompida.
 
+**Clima:** Úmido e abafado. Uma névoa esverdeada e perpétua paira sobre a região, nunca se dissipando completamente. A água é estagnada e venenosa ao toque.
+
 **Flora:**
 
 * Mandrágoras.
@@ -167,6 +179,8 @@ Região enevoada, impregnada de necromancia e vida corrompida.
 ## Campos de Astralis (*Astralis Fields*)
 
 Planícies abertas sob céus mágicos, onde estrelas parecem tocar o solo.
+
+**Clima:** Temperado e místico. As estações são bem definidas, mas o clima é influenciado por eventos astrais. Chuvas de meteoros podem aquecer a noite, e auroras boreais podem trazer um frio mágico e congelante.
 
 **Flora:**
 
