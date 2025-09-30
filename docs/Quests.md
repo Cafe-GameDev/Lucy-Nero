@@ -77,3 +77,37 @@ As missões são o principal motor de progressão da história e de obtenção d
 
 ### 7. Missões da História Principal
 - **Objetivo:** Missões que avançam a narrativa central do jogo, geralmente envolvendo múltiplos passos, viagens entre diferentes reinos e desafios únicos.
+
+---
+
+### 8. Missões de Restauração e Purificação
+- **Objetivo:** Limpar áreas corrompidas, restaurar o equilíbrio elemental de um bioma ou purificar fontes de água contaminadas.
+- **Contexto:** Inspiradas no tema de "Mizu Zokusei no Mahoutsukai", essas missões focam na manipulação e restauração do ambiente, muitas vezes envolvendo a magia da água.
+
+#### Exemplos em Floresta de Aeloria (Conselho Élfico):
+- **"O Sussurro do Rio Seco (Rank C)":** "Um antigo rio que alimentava a floresta está secando e suas águas estão turvas. Investigue a causa e purifique a nascente para restaurar seu fluxo vital."
+- **"A Névoa Corrompida (Rank B)":** "Os pântanos de Nox'Thera estão se expandindo e uma névoa esverdeada está corrompendo a borda da floresta. Encontre a fonte da corrupção e neutralize-a."
+
+#### Exemplos em Arquipélago de Selaris (Sereianos):
+- **"Maré Vermelha (Rank A)":** "Uma estranha maré vermelha está matando a vida marinha e envenenando as águas costeiras. Descubra a origem e purifique as águas antes que a praga se espalhe."
+
+---
+
+### 9. Missões Diplomáticas e de Intervenção
+- **Objetivo:** Mediar conflitos entre facções, entregar mensagens importantes, ou intervir em disputas territoriais para evitar guerras.
+- **Contexto:** Refletem a complexidade geopolítica do mundo, onde Lucy e Nero podem atuar como agentes de mudança ou estabilidade.
+
+#### Exemplos em Auria (Reino de Terras Livres):
+- **"A Disputa da Fronteira (Rank B)":** "Uma pequena vila humana na fronteira com as Montanhas de Drak'Thal está em conflito com um clã anão por direitos de mineração. Negocie um acordo pacífico ou encontre uma solução que satisfaça ambos os lados."
+- **"Embaixada Silenciosa (Rank A)":** "A Rainha Élfica de Silverwood deseja enviar uma mensagem secreta a um líder dos Homens-Fera, mas não confia em seus próprios mensageiros. Entregue a mensagem sem ser detectado e traga a resposta."
+
+---
+
+### 10. Missões de Companheiro e Relacionamento
+- **Objetivo:** Aprofundar o vínculo com NPCs, ajudando-os em suas histórias pessoais, resolvendo seus problemas ou participando de eventos que fortalecem a amizade.
+- **Contexto:** Essas missões são cruciais para o aspecto "mais complexo do que parece" dos relacionamentos com NPCs, desbloqueando novas habilidades para eles, acesso a lojas especiais ou informações vitais.
+
+#### Exemplos (Variados, dependendo do NPC):
+- **"O Passado Sombrio do Mercenário (Rank B)":** "Um mercenário que se tornou amigo de Lucy pede ajuda para confrontar fantasmas de seu passado em uma antiga fortaleza, revelando sua história e desbloqueando uma nova habilidade de combate para ele."
+- **"O Sonho do Alquimista (Rank C)":** "Um alquimista NPC precisa de um ingrediente raro de um bioma perigoso para completar uma fórmula revolucionária. Ajudá-lo pode desbloquear novas receitas de poções para Lucy."
+- **"O Festival da Colheita (Rank D)":** "Participe de um festival local com um amigo NPC, fortalecendo os laços e desbloqueando diálogos especiais e pequenos bônus passivos."

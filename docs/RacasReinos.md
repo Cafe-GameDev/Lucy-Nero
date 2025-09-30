@@ -28,8 +28,31 @@ O mundo é habitado por diversas raças inteligentes, cada uma com sua própria 
 ### Humanos - Os Herdeiros do Mundo
 - **Descrição:** A raça mais numerosa, jovem e adaptável. Os reinos humanos são os mais diversos, variando de pequenas baronias a grandes impérios comerciais. São o pilar de cidades cosmopolitas como Auria.
 - **Reino:** Não há um reino humano unificado. Em vez disso, existem múltiplas nações e cidades-estado, como o **Reino de Terras Livres**, que é mais uma aliança frouxa de cidades focadas no comércio.
-- **Cultura:** Ambiciosos, inovadores e inconstantes. A cultura humana é um caldeirão de ideias, religiões e filosofias. Sua curta vida os impulsiona a deixar uma marca no mundo, para o bem ou para o mal.
+- **Cultura:** Ambiciosos, inovadores e inconstantes. A cultura humana é um caldeirão de ideias, religiões e filosofias. Sua curta vida os impulsiona a deixar uma marca no mundo, para o bem ou para o mal. Por serem a sociedade mais aberta e multicultural, em suas cidades como Auria, é comum encontrar membros de todas as raças convivendo em relativa harmonia.
 - **Força Militar:** Diversificada. Desde cavaleiros de elite a milícias de camponeses, passando por magos de batalha treinados em academias. Sua força reside em seus números e versatilidade.
+
+---
+
+## Relações Inter-raciais
+
+As relações entre os reinos são um complexo mosaico de alianças, antigas rivalidades e uma desconfiança generalizada. Os reinos humanos, por sua natureza aberta e comercial, frequentemente atuam como o principal elo diplomático e cultural.
+
+-   **Elfos vs. Anões (A Antiga Ferida):** Uma rivalidade histórica e profunda. Os elfos veem os anões como gananciosos e desrespeitosos com a natureza, enquanto os anões veem os elfos como arrogantes e pouco confiáveis. O comércio direto entre eles é quase inexistente, muitas vezes necessitando de mercadores humanos para mediar qualquer troca.
+-   **Humanos (O Elo Diplomático):** Graças à sua cultura aberta, os humanos mantêm relações funcionais com todos os reinos. Eles são os grandes mediadores e comerciantes do mundo.
+    -   **Com os Anões:** Mantêm uma forte aliança de conveniência baseada no comércio. As caravanas humanas são a espinha dorsal da economia que conecta as montanhas ao resto do mundo.
+    -   **Com os Elfos:** Possuem uma relação de curiosidade e cautela. Embora os elfos sejam reclusos, eles reconhecem a importância das cidades humanas como centros de informação e comércio, permitindo a presença de diplomatas e mercadores em suas fronteiras.
+    -   **Com os Homens-Fera:** Sustentam uma relação de respeito à distância. Os humanos contratam clãs de Homens-Fera como mercenários e compram seus bens exóticos, mas raramente se aventuram em seus territórios sagrados.
+-   **Homens-Fera (Isolamento Orgulhoso):** São em grande parte isolados, interagindo com outras raças principalmente através de contratos ou comércio em cidades fronteiriças humanas. Eles desconfiam da "civilização" e de suas políticas.
+
+---
+
+## Raças Menores e Criaturas Sencientes
+
+Além das grandes nações, o mundo é pontilhado por sociedades de outras criaturas inteligentes, que podem ser tanto uma ameaça quanto uma fonte de missões e conhecimento.
+
+-   **Goblins:** Longe de serem apenas monstros, os goblins possuem uma sociedade tribal primitiva. Embora muitas tribos, como os "Presas Sujas", sejam hostis e vivam de saques, outras podem ser neutras. Existem rumores de tribos que desenvolveram uma inteligência astuta, capazes de criar armadilhas complexas e até mesmo negociar.
+-   **Sereianos:** Habitantes do Arquipélago de Selaris, os Sereianos são uma raça aquática de grande poder mágico. Podem ser hostis a navios que invadem seus territórios sagrados, mas também podem se aliar a aventureiros que os ajudem a proteger os recifes de corrupções ou monstros marinhos como o Leviatã.
+-   **Os Antigos (Extintos?):** Por todo o mundo, ruínas de uma civilização desconhecida e muito mais avançada podem ser encontradas. Ninguém sabe quem foram, como eram ou por que desapareceram, mas deixaram para trás golens guardiões, puzzles indecifráveis e artefatos de poder imenso. A Guilda dos Exploradores é obcecada por desvendar seus segredos.
 
 ---
 

@@ -4,7 +4,9 @@ Este documento descreve as principais classes e arquétipos de combate e magia e
 
 ---
 
-## Combatentes (Foco Físico)
+## Classes de Batalha
+
+### Combatentes (Foco Físico)
 
 Classes que confiam na força, resistência e maestria de armas para lutar na linha de frente.
 
@@ -22,7 +24,7 @@ Artistas marciais que treinam corpo e mente para se tornarem armas vivas. Lutam 
 
 ---
 
-## Atiradores (Foco à Distância)
+### Atiradores (Foco à Distância)
 
 Especialistas em eliminar inimigos de longe, usando precisão, astúcia e controle de terreno.
 
@@ -37,7 +39,7 @@ Especialistas em armas de projéteis mecânicas, como bestas pesadas. O que lhes
 
 ---
 
-## Conjuradores (Foco Mágico)
+### Conjuradores (Foco Mágico)
 
 Indivíduos com a capacidade de sentir e moldar a mana do mundo para criar efeitos poderosos.
 
@@ -63,7 +65,7 @@ Além dessas classes principais, muitos conjuradores se especializam em elemento
 
 ---
 
-## Especialistas (Foco em Habilidades Únicas)
+### Especialistas (Foco em Habilidades Únicas de Combate)
 
 Classes que dependem de talentos específicos, astúcia e conhecimento técnico, muitas vezes desfocando a linha entre combate e utilidade.
 
@@ -73,8 +75,20 @@ Mestres da furtividade, do subterfúgio e da exploração de pontos fracos. Pref
 ### Bardo
 Viajantes que usam o poder da música, da oratória ou da dança para criar efeitos mágicos. Podem inspirar coragem e força em seus aliados, desmoralizar inimigos ou até mesmo encantar criaturas com suas performances.
 
+---
+
+## Classes de Não-Combate (Foco em Habilidades Civis e de Suporte Fora de Batalha)
+
+Classes que contribuem para o mundo e para a jornada de Lucy e Nero através de conhecimentos especializados, influência social ou habilidades de criação, sem necessariamente participar diretamente do combate.
+
 ### Alquimista
-Estudosos e cientistas que manipulam a matéria para criar poções, bombas, venenos e elixires com uma vasta gama de efeitos. Lutam de forma indireta, usando suas concoções para controlar o campo de batalha. Podem criar elixires que concedem resistência elemental ou bombas de gelo e vapor.
+Estudosos e cientistas que manipulam a matéria para criar poções, bombas, venenos e elixires com uma vasta gama de efeitos. Embora não sejam combatentes diretos, suas concoções são indispensáveis para o preparo e suporte em batalha, controle de campo e resolução de problemas ambientais. Podem criar elixires que concedem resistência elemental ou bombas de gelo e vapor.
 
 ### Ferreiro Rúnico
-Uma classe de artesãos extremamente rara e valiosa. Não são necessariamente combatentes, mas sua habilidade de entalhar runas mágicas em armas e armaduras os torna indispensáveis. Um Ferreiro Rúnico pode transformar um soldado comum em um herói legendário, fornecendo-lhe o equipamento para tal. Podem forjar runas de água que aumentam a fluidez do movimento ou runas de gelo que causam lentidão.
+Uma classe de artesãos extremamente rara e valiosa. Sua habilidade de entalhar runas mágicas em armas e armaduras os torna indispensáveis para aprimorar o equipamento de Lucy e Nero. Não participam do combate, mas seu trabalho é fundamental para a progressão e poder dos heróis. Podem forjar runas de água que aumentam a fluidez do movimento ou runas de gelo que causam lentidão.
+
+### Líder
+Indivíduos com carisma e sabedoria para guiar comunidades, clãs ou guildas. Sua força reside na capacidade de inspirar, organizar e negociar, influenciando a política e a economia do mundo. Podem desbloquear novas missões, oferecer informações cruciais ou conceder acesso a áreas restritas.
+
+### Ancião
+Guardadores do conhecimento e da história. Possuem uma profunda compreensão das tradições, lendas e segredos do mundo. Sua sabedoria é inestimável para desvendar mistérios antigos, compreender a magia elemental e guiar Lucy e Nero em sua jornada.

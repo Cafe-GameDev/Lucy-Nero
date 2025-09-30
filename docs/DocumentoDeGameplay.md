@@ -14,6 +14,17 @@ O jogador seguirá um ciclo claro e recompensador, focado na sinergia entre comb
 
 ---
 
+## 1.5. Experiência de Jogo: Lucy, Nero e Seus Aliados
+
+**Lucy & Nero** é uma experiência fundamentalmente single-player, focada na jornada íntima e na sinergia inseparável entre a forjadora Lucy e seu guardião metamorfo Nero. A narrativa e o gameplay são construídos em torno da cooperação dinâmica e da evolução do vínculo entre esses dois personagens centrais.
+
+No entanto, o mundo de Lucy & Nero é vasto e repleto de indivíduos com suas próprias histórias e ambições. Embora o jogo não apresente um sistema de grupo permanente onde o jogador controla múltiplos personagens, Lucy e Nero encontrarão e interagirão com uma variedade de NPCs. Alguns desses encontros levarão a:
+
+-   **Missões em Grupo Temporárias:** Em momentos cruciais da história ou em missões específicas, Lucy e Nero se unirão a NPCs para enfrentar desafios que exigem mais do que apenas a dupla. Durante essas missões, os NPCs atuarão como aliados controlados por IA, contribuindo com suas próprias habilidades e estratégias.
+-   **Relacionamentos Complexos:** Esses NPCs não são meros coadjuvantes. Eles se tornarão amigos, rivais, mentores ou até mesmo figuras românticas, cujas interações com Lucy e Nero serão mais profundas do que parece. Suas histórias se entrelaçarão com a jornada dos protagonistas, oferecendo novas perspectivas, desbloqueando missões secundárias, fornecendo acesso a recursos únicos ou até mesmo influenciando o desenvolvimento de Lucy e Nero através de diálogos e escolhas. A natureza desses relacionamentos será moldada pelas decisões do jogador, adicionando uma camada de complexidade narrativa e emocional à experiência single-player.
+
+---
+
 ## 2. Sistemas de Combate
 
 O combate é em tempo real, com perspectiva isométrica, e focado na cooperação tática entre Lucy e Nero.
