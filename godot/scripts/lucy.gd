@@ -31,34 +31,6 @@ func _ready():
 		queue_free()
 		return
 	
-	# Define as ações de input que serão usadas para o movimento
-	# Isso é feito via código para garantir que as ações existam
-	InputMap.add_action("move_left")
-	InputMap.add_action("move_right")
-	InputMap.add_action("move_up")
-	InputMap.add_action("move_down")
-	InputMap.add_action("attack")
-
-	var event_left = InputEventKey.new()
-	event_left.keycode = KEY_A
-	InputMap.action_add_event("move_left", event_left)
-
-	var event_right = InputEventKey.new()
-	event_right.keycode = KEY_D
-	InputMap.action_add_event("move_right", event_right)
-
-	var event_up = InputEventKey.new()
-	event_up.keycode = KEY_W
-	InputMap.action_add_event("move_up", event_up)
-
-	var event_down = InputEventKey.new()
-	event_down.keycode = KEY_S
-	InputMap.action_add_event("move_down", event_down)
-
-	var event_attack = InputEventMouseButton.new()
-	event_attack.button_index = MOUSE_BUTTON_LEFT
-	InputMap.action_add_event("attack", event_attack)
-	
 	# Inicia a FSM no estado Idle
 	fsm.set_state("IdleState")
 	

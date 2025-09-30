@@ -20,6 +20,6 @@ func physics_update(_delta: float):
 	fsm.agent.move_and_slide()
 
 	# Permite atacar enquanto se move
-	if Input.is_action_just_pressed("attack"):
+	if Input.is_action_just_pressed("attack_quick"):
 		fsm.set_state(attack_state.name)
 		return

@@ -11,6 +11,6 @@ func physics_update(_delta: float):
 		return
 	
 	# Se o jogador pressionar o botão de ataque, transita para o estado Attack
-	if Input.is_action_just_pressed("attack"):
+	if Input.is_action_just_pressed("attack_quick"):
 		fsm.set_state(attack_state.name)
 		return
