@@ -52,6 +52,18 @@ Visual inspirado em anime, com traços detalhados, expressivos e dinâmicos, enf
 - **Combinação:** O material + sua mana pura = efeitos elementais (fogo, água, eletricidade, vento).
 - **Economia de Mana:** Forjar gasta pouca mana, mas usar as armas imbuídas consome bastante, pois a reação é alimentada por sua energia vital.
 
+#### Classes
+
+Lucy é uma personagem que funde 4 arquétipos de classe, tornando-a extremamente versátil.
+
+*   **Classe Principal: Guerreira / Arqueira**
+    *   Define seu papel primário em combate, seja na linha de frente com lâminas ou à distância com seu arco.
+
+*   **Classes de Suporte:**
+    *   **Forjadora Rúnica:** Sua identidade única. A capacidade de criar e aprimorar os equipamentos para si e para Nero.
+    *   **Maga Branca:** Suas habilidades de suporte mágico, como aplicar buffs com runas e purificar maldições.
+    *   **Alquimista:** A fabricação de poções e outros consumíveis.
+
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>
     <td style="padding: 0;">
@@ -131,6 +143,15 @@ Design inspirado em anime, combinando expressividade felina com dinamismo nas me
 - Forma espiritual/metafísica. Nero se funde à sombra de Lucy.
 - **Camuflagem Total:** Permanece invisível no ambiente.
 - **Instinto Sombrio:** Pode emergir da sombra de Lucy instantaneamente, seja para interceptar um ataque ou golpear um inimigo pelas costas.
+
+#### Classes
+
+*   **Classe Principal: Ladino / Assassino**
+    *   Define seu papel de combate primário, focado em dano alto, furtividade e ataques rápidos (especialmente na Forma Gato).
+
+*   **Classes de Suporte:**
+    *   **Mago Cinza:** Classe focada em utilidade. Inclui sua habilidade de **Metamorfose**, seus **altos níveis de percepção e instintos**, e o **Modo Sombra**.
+    *   **Mago Branco:** Seu papel como curandeiro e protetor, usando a habilidade **Lamber Feridas** e auras defensivas como a **Aura de Guardião**.
 
 <table style="width: 100%; table-layout: fixed; border-collapse: collapse;">
   <tr>

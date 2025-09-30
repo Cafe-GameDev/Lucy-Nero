@@ -1,6 +1,6 @@
 # Sistema de Classes do Mundo
 
-Este documento descreve as principais classes e arquétipos de combate e magia encontrados no mundo de *Lucy & Nero*. As classes representam uma especialização ou afinidade que um indivíduo desenvolve ao longo da vida. Enquanto a maioria das pessoas se especializa em uma única classe, indivíduos excepcionais (como Lucy) podem possuir afinidade com múltiplas.
+Este documento descreve as principais classes e arquétipos de combate e magia encontrados no mundo de *Lucy & Nero*. As classes representam uma especialização ou afinidade que um indivíduo desenvolve ao longo da vida. Enquanto a maioria das pessoas se especializa em uma única classe, indivíduos excepcionais como **Lucy e Nero** são a prova de que é possível dominar múltiplos arquétipos simultaneamente, fundindo-os em um estilo de luta único.
 
 ---
 
