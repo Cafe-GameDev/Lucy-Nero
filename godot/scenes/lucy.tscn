@@ -1,30 +1,38 @@
-[gd_scene load_steps=8 format=3 uid="uid://del6wm7t2j24e"]
+[gd_scene load_steps=9 format=3 uid="uid://del6wm7t2j24e"]
 
-[ext_resource type="Script" path="res://scripts/lucy.gd" id="1_bo3m1"]
-[ext_resource type="Script" path="res://scripts/core/fsm.gd" id="2_fsm"]
-[ext_resource type="Script" path="res://scripts/player/states/idle_state.gd" id="3_idle_state"]
-[ext_resource type="Script" path="res://scripts/player/states/move_state.gd" id="4_move_state"]
-[ext_resource type="Script" path="res://scripts/player/states/attack_state.gd" id="5_attack_state"]
-[ext_resource type="Resource" path="res://data/Characters/Lucy.tres" id="6_lucy_data"]
+[ext_resource type="Script" uid="uid://dvp5ijto2er8n" path="res://scripts/lucy.gd" id="1_bo3m1"]
+[ext_resource type="Script" uid="uid://bbgxpv24mf5sk" path="res://scripts/core/fsm.gd" id="2_fsm"]
+[ext_resource type="Script" uid="uid://bmncu2iinegvb" path="res://scripts/player/states/idle_state.gd" id="3_idle_state"]
+[ext_resource type="Script" uid="uid://bteqjwciphxhn" path="res://scripts/player/states/move_state.gd" id="4_move_state"]
+[ext_resource type="Script" uid="uid://u8uqsijfuqvd" path="res://scripts/player/states/attack_state.gd" id="5_attack_state"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_bo3m1"]
+size = Vector2(50, 50)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_piidd"]
 size = Vector2(80, 80)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_581hr"]
 size = Vector2(40, 40)
 
-[node name="Lucy" type="CharacterBody2D" groups=["player"]]
+[node name="Lucy" type="CharacterBody2D" groups=["Lucy_Nero"]]
 collision_layer = 4
 script = ExtResource("1_bo3m1")
-character_data = ExtResource("6_lucy_data")
 
-[node name="Hitbox" type="Area2D" parent="."]
+[node name="Hurtbox" type="Area2D" parent="."]
 collision_layer = 0
 collision_mask = 2
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Hitbox"]
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Hurtbox"]
 position = Vector2(-1, 0)
 shape = SubResource("RectangleShape2D_bo3m1")
+
+[node name="DetectionArea" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 8
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="DetectionArea"]
+shape = SubResource("RectangleShape2D_piidd")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="."]
 shape = SubResource("RectangleShape2D_581hr")
@@ -44,24 +52,24 @@ grow_vertical = 2
 
 [node name="FSM" type="Node" parent="."]
 script = ExtResource("2_fsm")
-agent = NodePath("..")
 
 [node name="IdleState" type="Node" parent="FSM"]
 script = ExtResource("3_idle_state")
-move_state = NodePath("../MoveState")
-attack_state = NodePath("../AttackState")
 
 [node name="MoveState" type="Node" parent="FSM"]
 script = ExtResource("4_move_state")
-idle_state = NodePath("../IdleState")
-attack_state = NodePath("../AttackState")
 
 [node name="AttackState" type="Node" parent="FSM"]
 script = ExtResource("5_attack_state")
-idle_state = NodePath("../IdleState")
 
 [node name="Timer" type="Timer" parent="FSM/AttackState"]
 wait_time = 0.4
 one_shot = true
+
+[node name="Camera2D" type="Camera2D" parent="."]
+
+[node name="AudioListener2D" type="AudioListener2D" parent="Camera2D"]
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]
 
 [connection signal="timeout" from="FSM/AttackState/Timer" to="FSM/AttackState" method="_on_timer_timeout"]

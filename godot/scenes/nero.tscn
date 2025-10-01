@@ -1,22 +1,31 @@
-[gd_scene load_steps=4 format=3 uid="uid://dxotkf8bdg1am"]
+[gd_scene load_steps=5 format=3 uid="uid://dxotkf8bdg1am"]
 
-[ext_resource type="Script" uid="uid://tv1kxcwbql2b" path="res://scripts/nero.gd" id="1_2k7xc"]
+[ext_resource type="Script" uid="uid://40iagbqyxdvv" path="res://scripts/nero.gd" id="1_2k7xc"]
 
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_bo3m1"]
-size = Vector2(40, 40)
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_2k7xc"]
+size = Vector2(24, 24)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_576u0"]
+size = Vector2(60, 60)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_581hr"]
 
-[node name="Nero" type="CharacterBody2D"]
+[node name="Nero" type="CharacterBody2D" groups=["Lucy_Nero"]]
 script = ExtResource("1_2k7xc")
 
-[node name="Area2D" type="Area2D" parent="."]
+[node name="Hurtbox" type="Area2D" parent="."]
+collision_layer = 2
+collision_mask = 0
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="Area2D"]
-shape = SubResource("RectangleShape2D_bo3m1")
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Hurtbox"]
+shape = SubResource("RectangleShape2D_2k7xc")
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
-shape = SubResource("RectangleShape2D_581hr")
+[node name="DetectionArea" type="Area2D" parent="."]
+collision_layer = 0
+collision_mask = 8
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="DetectionArea"]
+shape = SubResource("RectangleShape2D_576u0")
 
 [node name="ColorRect" type="ColorRect" parent="."]
 anchors_preset = 8
@@ -31,3 +40,8 @@ offset_bottom = 10.0
 grow_horizontal = 2
 grow_vertical = 2
 color = Color(0, 0, 0, 1)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="."]
+shape = SubResource("RectangleShape2D_581hr")
+
+[node name="AudioStreamPlayer2D" type="AudioStreamPlayer2D" parent="."]

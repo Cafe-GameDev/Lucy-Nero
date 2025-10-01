@@ -1,9 +1,0 @@
-[gd_resource type="AbilityData" load_steps=2 format=3]
-
-[ext_resource type="Script" path="res://resources/AbilityData.gd" id="1_ability"]
-
-[resource]
-script = ExtResource("1_ability")
-name = "Investida Trovejante"
-description = "Corrida que gera uma onda de impacto, empurrando e atordoando inimigos."
-mana_cost = 25.0

@@ -10,10 +10,18 @@ config_version=5
 
 [application]
 
-config/name="Lucy-Nero"
+config/name="Lucy & Nero: Entre Espadas e Garras"
+config/name_localized={
+"en_US": "Lucy & Nero: Blades and Claws"
+}
+config/description="Descrição do Jogo"
+config/version="0.0.1"
 run/main_scene="uid://cvdfuhv0udhd8"
 config/features=PackedStringArray("4.5", "Forward Plus")
-config/icon="res://icon.svg"
+
+[global_group]
+
+Lucy_Nero=""
 
 [input]
 

@@ -7,14 +7,11 @@
 [node name="Node2D" type="Node2D"]
 
 [node name="Lucy" parent="." instance=ExtResource("1_0e48y")]
-position = Vector2(354, 203)
-character_data = null
+position = Vector2(538, 305)
 
 [node name="Nero" parent="." instance=ExtResource("2_epypp")]
-position = Vector2(413, 223)
+position = Vector2(597, 325)
 
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
 
 [node name="HUD" parent="CanvasLayer" instance=ExtResource("3_hud")]
-
-[connection signal="stats_changed" from="Lucy" to="CanvasLayer/HUD" method="update_stats"]

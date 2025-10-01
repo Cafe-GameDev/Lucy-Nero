@@ -1,8 +1,0 @@
-[gd_resource type="InventoryData" load_steps=2 format=3]
-
-[ext_resource type="Script" path="res://resources/InventoryData.gd" id="1_inventory"]
-
-[resource]
-script = ExtResource("1_inventory")
-materials = {}
-equipment = []

@@ -1,9 +1,0 @@
-[gd_resource type="AbilityData" load_steps=2 format=3]
-
-[ext_resource type="Script" path="res://resources/AbilityData.gd" id="1_ability"]
-
-[resource]
-script = ExtResource("1_ability")
-name = "Pilar da Terra"
-description = "Bate os cascos no chão, criando um tremor que atordoa inimigos próximos."
-mana_cost = 15.0
