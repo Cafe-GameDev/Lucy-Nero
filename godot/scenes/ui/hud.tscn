@@ -25,32 +25,40 @@ theme_override_constants/margin_bottom = 24
 
 [node name="VBoxContainer" type="VBoxContainer" parent="MarginContainer"]
 layout_mode = 2
+theme_override_constants/separation = 12
 
-[node name="StatsBars" type="HBoxContainer" parent="MarginContainer/VBoxContainer"]
+[node name="StatsBars" type="GridContainer" parent="MarginContainer/VBoxContainer"]
+layout_direction = 2
 layout_mode = 2
+theme_override_constants/v_separation = 12
+columns = 2
 
 [node name="LabelHP" type="Label" parent="MarginContainer/VBoxContainer/StatsBars"]
 layout_mode = 2
 text = "HP: "
 
 [node name="HealthBar" type="ProgressBar" parent="MarginContainer/VBoxContainer/StatsBars"]
+custom_minimum_size = Vector2(220, 0)
 layout_mode = 2
-size_flags_horizontal = 3
+size_flags_vertical = 1
 value = 100.0
 show_percentage = false
 
 [node name="LabelMP" type="Label" parent="MarginContainer/VBoxContainer/StatsBars"]
 layout_mode = 2
-text = " MP: "
+text = "MP: "
 
 [node name="ManaBar" type="ProgressBar" parent="MarginContainer/VBoxContainer/StatsBars"]
+custom_minimum_size = Vector2(220, 0)
 layout_mode = 2
-size_flags_horizontal = 3
+size_flags_vertical = 1
 value = 100.0
 show_percentage = false
 
-[node name="StateLabels" type="HBoxContainer" parent="MarginContainer/VBoxContainer"]
+[node name="StateLabels" type="GridContainer" parent="MarginContainer/VBoxContainer"]
 layout_mode = 2
+theme_override_constants/v_separation = 4
+columns = 2
 
 [node name="LabelLucy" type="Label" parent="MarginContainer/VBoxContainer/StateLabels"]
 layout_mode = 2
@@ -62,7 +70,7 @@ text = "Idle"
 
 [node name="LabelNero" type="Label" parent="MarginContainer/VBoxContainer/StateLabels"]
 layout_mode = 2
-text = "  Nero State: "
+text = "Nero State: "
 
 [node name="NeroStateLabel" type="Label" parent="MarginContainer/VBoxContainer/StateLabels"]
 layout_mode = 2
