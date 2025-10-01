@@ -1,0 +1,17 @@
+[gd_scene load_steps=4 format=3 uid="uid://cvdfuhv0udhd8"]
+
+[ext_resource type="PackedScene" uid="uid://del6wm7t2j24e" path="res://scenes/lucy.tscn" id="1_h2yge"]
+[ext_resource type="PackedScene" uid="uid://dxotkf8bdg1am" path="res://scenes/nero.tscn" id="2_1bvp3"]
+[ext_resource type="PackedScene" uid="uid://bkhq8yq8yq8yq" path="res://scenes/ui/hud.tscn" id="3_lquwl"]
+
+[node name="Main" type="Node2D"]
+
+[node name="Lucy" parent="." instance=ExtResource("1_h2yge")]
+position = Vector2(538, 305)
+
+[node name="Nero" parent="." instance=ExtResource("2_1bvp3")]
+position = Vector2(597, 325)
+
+[node name="CanvasLayer" type="CanvasLayer" parent="."]
+
+[node name="HUD" parent="CanvasLayer" instance=ExtResource("3_lquwl")]
