@@ -7,10 +7,10 @@
 [node name="Main" type="Node2D"]
 
 [node name="Lucy" parent="." instance=ExtResource("1_h2yge")]
-position = Vector2(538, 305)
+position = Vector2(640, 360)
 
 [node name="Nero" parent="." instance=ExtResource("2_1bvp3")]
-position = Vector2(597, 325)
+position = Vector2(557, 450)
 
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
 

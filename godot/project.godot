@@ -19,6 +19,11 @@ config/version="0.0.1"
 run/main_scene="uid://cvdfuhv0udhd8"
 config/features=PackedStringArray("4.5", "Forward Plus")
 
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+
 [global_group]
 
 Lucy_Nero=""
